@@ -8667,3 +8667,117 @@ Make sure 'HealthPickup_BP_C' has been compiled for  Get CollectionMesh
 [2023.04.23-16.38.31:257][344]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.508ms to complete.
 [2023.04.23-16.38.37:952][967]LogSlate: Window 'Message Log' being destroyed
 [2023.04.23-16.38.37:968][967]LogSlate: Window 'Message Log' being destroyed
+[2023.04.23-16.39.10:083][386]LogActorFactory: Actor Factory created SM_Village_Low_Poly
+[2023.04.23-16.39.11:303][529]LogActorFactory: Actor Factory created SM_Village_Low_Poly
+[2023.04.23-16.39.13:326][765]Cmd: DELETE
+[2023.04.23-16.39.13:326][765]Cmd: ACTOR DELETE
+[2023.04.23-16.39.13:330][765]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.23-16.39.13:368][765]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2023.04.23-16.39.13:370][765]LogEditorActor: Deleted 1 Actors (0.044 secs)
+[2023.04.23-16.39.14:119][825]LogActorFactory: Actor Factory created SM_Snowy_Farm
+[2023.04.23-16.39.14:995][929]LogActorFactory: Actor Factory created SM_Snowy_Farm
+[2023.04.23-16.39.32:808][829]LogActorFactory: Actor Factory created SM_Viking_House_A
+[2023.04.23-16.39.33:632][925]LogActorFactory: Actor Factory created SM_Viking_House_A
+[2023.04.23-16.39.41:308][621]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2023.04.23-16.39.42:367][703]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Viking_House_A)
+[2023.04.23-16.39.42:925][764]Cmd: EDIT COPY
+[2023.04.23-16.39.43:165][785]Cmd: EDIT PASTE
+[2023.04.23-16.39.45:933][  0]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2023.04.23-16.39.47:482][111]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2023.04.23-16.39.47:602][111]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Saved/SecondLevel1F7E2AA845AA0C1CE038F48D2942D37C.tmp' to '../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Content/Blueprints_Maps/Maps/SecondLevel.umap'
+[2023.04.23-16.39.47:849][111]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Saved/SecondLevel_BuiltDataF17E36144663C960DE8BD1A5BF63FA80.tmp' to '../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Content/Blueprints_Maps/Maps/SecondLevel_BuiltData.uasset'
+[2023.04.23-16.39.47:862][111]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.23-16.39.47:862][111]LogContentValidation: Display: Validating World /Game/Blueprints_Maps/Maps/SecondLevel.SecondLevel
+[2023.04.23-16.39.47:862][111]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Blueprints_Maps/Maps/SecondLevel_BuiltData.SecondLevel_BuiltData
+[2023.04.23-16.39.49:457][238]MapCheck: New page: Map Check
+[2023.04.23-16.39.49:469][238]LightingResults: New page: Lighting Build - 23 Apr 2023, 18:39:49
+[2023.04.23-16.39.49:477][238]LightingResults: Warning: InstancedFoliageActor_0 The total lightmap size for this InstancedStaticMeshComponent is large, consider reducing the component's lightmap resolution or number of mesh instances in this component
+[2023.04.23-16.39.49:477][238]LightingResults: Warning: InstancedFoliageActor_0 The total lightmap size for this InstancedStaticMeshComponent is large, consider reducing the component's lightmap resolution or number of mesh instances in this component
+[2023.04.23-16.39.49:478][238]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2023.04.23-16.39.49:481][238]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2023.04.23-16.39.49:481][238]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2023.04.23-16.39.49:482][238]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2023.04.23-16.39.49:482][238]LogSwarmInterface: [TryOpenConnection] Local Process ID is 26248
+[2023.04.23-16.39.54:030][238]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2023.04.23-16.39.54:031][238]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2023.04.23-16.39.54:031][238]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2023.04.23-16.39.54:031][238]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2023.04.23-16.39.54:031][238]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2023.04.23-16.39.54:031][238]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2023.04.23-16.39.54:096][238]LogEditorBuildUtils: Build time 0:04
+[2023.04.23-16.39.54:152][239]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2023.04.23-16.39.57:538][458]LightingResults: Warning: SM_EX_EnvAssets_Pine2 Object has overlapping UVs.
+[2023.04.23-16.39.57:538][458]LightingResults: SM_EX_EnvAssets_Pine2 Lightmap UV are overlapping by 1.2%. Please adjust content - Enable Error Coloring to visualize.
+[2023.04.23-16.39.58:941][558]LightingResults: Warning: SM_EX_EnvAssets_Pine2 Object has overlapping UVs.
+[2023.04.23-16.39.58:941][558]LightingResults: SM_EX_EnvAssets_Pine2 Lightmap UV are overlapping by 1.2%. Please adjust content - Enable Error Coloring to visualize.
+[2023.04.23-16.39.59:955][630]LightingResults: Warning: SM_EX_EnvAssets_Pine2 Object has overlapping UVs.
+[2023.04.23-16.39.59:955][630]LightingResults: SM_EX_EnvAssets_Pine2 Lightmap UV are overlapping by 1.2%. Please adjust content - Enable Error Coloring to visualize.
+[2023.04.23-16.40.00:140][643]LightingResults: Warning: SM_EX_EnvAssets_Pine2 Object has overlapping UVs.
+[2023.04.23-16.40.00:140][643]LightingResults: SM_EX_EnvAssets_Pine2 Lightmap UV are overlapping by 1.2%. Please adjust content - Enable Error Coloring to visualize.
+[2023.04.23-16.40.00:911][698]LightingResults: Warning: SM_EX_EnvAssets_Pine2 Object has overlapping UVs.
+[2023.04.23-16.40.00:911][698]LightingResults: SM_EX_EnvAssets_Pine2 Lightmap UV are overlapping by 1.2%. Please adjust content - Enable Error Coloring to visualize.
+[2023.04.23-16.40.00:963][702]LightingResults: Warning: SM_EX_EnvAssets_Pine2 Object has overlapping UVs.
+[2023.04.23-16.40.00:963][702]LightingResults: SM_EX_EnvAssets_Pine2 Lightmap UV are overlapping by 1.2%. Please adjust content - Enable Error Coloring to visualize.
+[2023.04.23-16.40.01:400][733]LightingResults: Warning: SM_EX_EnvAssets_Pine2 Object has overlapping UVs.
+[2023.04.23-16.40.01:400][733]LightingResults: SM_EX_EnvAssets_Pine2 Lightmap UV are overlapping by 1.2%. Please adjust content - Enable Error Coloring to visualize.
+[2023.04.23-16.40.02:580][817]LightingResults: Warning: SM_EX_EnvAssets_Pine2 Object has overlapping UVs.
+[2023.04.23-16.40.02:580][817]LightingResults: SM_EX_EnvAssets_Pine2 Lightmap UV are overlapping by 1.2%. Please adjust content - Enable Error Coloring to visualize.
+[2023.04.23-16.40.02:701][826]LightingResults: Warning: SM_EX_EnvAssets_Pine2 Object has overlapping UVs.
+[2023.04.23-16.40.02:701][826]LightingResults: SM_EX_EnvAssets_Pine2 Lightmap UV are overlapping by 1.2%. Please adjust content - Enable Error Coloring to visualize.
+[2023.04.23-16.40.02:723][827]LightingResults: Warning: SM_EX_EnvAssets_Pine2 Object has overlapping UVs.
+[2023.04.23-16.40.02:723][827]LightingResults: SM_EX_EnvAssets_Pine2 Lightmap UV are overlapping by 1.2%. Please adjust content - Enable Error Coloring to visualize.
+[2023.04.23-16.40.03:420][877]LightingResults: Warning: SM_EX_EnvAssets_Pine2 Object has overlapping UVs.
+[2023.04.23-16.40.03:420][877]LightingResults: SM_EX_EnvAssets_Pine2 Lightmap UV are overlapping by 1.2%. Please adjust content - Enable Error Coloring to visualize.
+[2023.04.23-16.40.04:990][989]LightingResults: Warning: SM_EX_EnvAssets_Pine2 Object has overlapping UVs.
+[2023.04.23-16.40.04:990][989]LightingResults: SM_EX_EnvAssets_Pine2 Lightmap UV are overlapping by 1.2%. Please adjust content - Enable Error Coloring to visualize.
+[2023.04.23-16.40.05:329][ 13]LightingResults: Warning: SM_EX_EnvAssets_Pine2 Object has overlapping UVs.
+[2023.04.23-16.40.05:329][ 13]LightingResults: SM_EX_EnvAssets_Pine2 Lightmap UV are overlapping by 1.2%. Please adjust content - Enable Error Coloring to visualize.
+[2023.04.23-16.40.07:112][140]LightingResults: Warning: SM_EX_EnvAssets_Well Object has overlapping UVs.
+[2023.04.23-16.40.07:112][140]LightingResults: SM_EX_EnvAssets_Well Lightmap UV are overlapping by 1.7%. Please adjust content - Enable Error Coloring to visualize.
+[2023.04.23-16.40.07:302][155]Job is a success!
+[2023.04.23-16.40.07:468][156]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.072s
+[2023.04.23-16.40.07:468][156]LogVolumetricLightmapImport:      Indirection Texture 32x32x16 = 0.1Mb
+[2023.04.23-16.40.07:468][156]LogVolumetricLightmapImport:      BrickData (all levels) 3.8Mb
+[2023.04.23-16.40.07:468][156]LogVolumetricLightmapImport:      Bricks at depth
+[2023.04.23-16.40.07:468][156]LogVolumetricLightmapImport:          0: 0.7% covering 100.0% of volume
+[2023.04.23-16.40.07:468][156]LogVolumetricLightmapImport:          1: 4.6% covering 9.8% of volume
+[2023.04.23-16.40.07:468][156]LogVolumetricLightmapImport:          2: 94.6% covering 3.1% of volume
+[2023.04.23-16.40.07:468][156]LogVolumetricLightmapImport:      Bricks in each level
+[2023.04.23-16.40.07:468][156]LogVolumetricLightmapImport:          SecondLevel 			 539 bricks 	 100.0% (Persistent Level)
+[2023.04.23-16.40.08:495][156]LogTexture: Display: Building textures: SkyOcclusion1_1 (OODLE_AutoDXT, 2048X1024)
+[2023.04.23-16.40.08:495][156]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.04.23-16.40.08:495][156]LogTextureFormatOodle: Display: non-RDO encode 2048 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.04.23-16.40.08:495][156]LogTexture: Display: Building textures: HQ_Lightmap1_1 (OODLE_AutoDXT, 2048X2048)
+[2023.04.23-16.40.08:495][156]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (OODLE_DXT1, 2048X2048)
+[2023.04.23-16.40.08:495][156]LogTexture: Display: Building textures: SkyOcclusion1_2 (OODLE_AutoDXT, 1024X512)
+[2023.04.23-16.40.08:496][156]LogTexture: Display: Building textures: HQ_Lightmap1_2 (OODLE_AutoDXT, 1024X1024)
+[2023.04.23-16.40.08:496][156]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.04.23-16.40.08:496][156]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (OODLE_DXT1, 1024X1024)
+[2023.04.23-16.40.08:496][156]LogTexture: Display: Building textures: SkyOcclusion1_3 (OODLE_AutoDXT, 512X256)
+[2023.04.23-16.40.08:496][156]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.04.23-16.40.08:496][156]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (OODLE_DXT1, 512X512)
+[2023.04.23-16.40.08:496][156]LogTexture: Display: Building textures: HQ_Lightmap1_3 (OODLE_AutoDXT, 512X512)
+[2023.04.23-16.40.08:496][156]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.04.23-16.40.08:496][156]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.04.23-16.40.08:496][156]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.04.23-16.40.08:496][156]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.04.23-16.40.08:496][156]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.04.23-16.40.08:665][156]LogTexture: Display: Building textures: ShadowMapTexture2D_11 (G8, 32X32)
+[2023.04.23-16.40.08:665][156]LogTexture: Display: Building textures: ShadowMapTexture2D_10 (G8, 1024X1024)
+[2023.04.23-16.40.08:665][156]LogTexture: Display: Building textures: ShadowMapTexture2D_8 (G8, 1024X1024)
+[2023.04.23-16.40.08:665][156]LogTexture: Display: Building textures: ShadowMapTexture2D_9 (G8, 1024X1024)
+[2023.04.23-16.40.08:665][156]Lightmass on DESKTOP-I13HMQJ: 14.2 sec total, 188 ms importing, 71 ms setup, 1.58 sec photons, 12.3 sec processing, 0 ms extra exporting [388/388 mappings]. Threads: 3:05 min total, 1:06 min processing.
+[2023.04.23-16.40.08:675][156]LogStaticLightingSystem: SecondLevel_BuiltData storing lightmap data for 157 meshes in 11 LightmapResourceClusters (14.3 Meshes per cluster).
+[2023.04.23-16.40.08:724][156]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2023.04.23-16.40.08:791][156]LogStaticLightingSystem: Illumination: 19.2 sec (613 ms encoding lightmaps, 146 ms encoding shadowmaps)
+[2023.04.23-16.40.08:791][156]LogStaticLightingSystem: Lightmap texture memory:  14.0 MB (14.0 MB streaming, 0.0 MB non-streaming), 6 textures
+[2023.04.23-16.40.08:791][156]LogStaticLightingSystem: Shadowmap texture memory: 4.0 MB (4.0 MB streaming, 0.0 MB non-streaming), 4 textures
+[2023.04.23-16.40.09:046][156]DumpUnbuiltLightIteractions
+[2023.04.23-16.40.09:046][156]Lights with unbuilt interactions: 0
+[2023.04.23-16.40.09:046][156]
+[2023.04.23-16.40.09:046][156]Primitives with unbuilt interactions: 0
+[2023.04.23-16.40.09:129][157]Cmd: MAP CHECK NOTIFYRESULTS
+[2023.04.23-16.40.09:129][157]MapCheck: New page: SecondLevel - 23 Apr 2023, 18:40:09
+[2023.04.23-16.40.09:129][157]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.548ms to complete.
+[2023.04.23-16.40.11:395][250]LogSlate: Window 'Message Log' being destroyed
+[2023.04.23-16.40.11:419][250]LogSlate: Window 'Message Log' being destroyed
