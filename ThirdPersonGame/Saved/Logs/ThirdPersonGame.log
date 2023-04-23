@@ -6030,3 +6030,138 @@ Make sure 'HealthPickup_BP_C' has been compiled for  Get CollectionMesh
 [2023.04.23-15.55.05:403][280]AssetCheck: New page: Asset Save: multiple assets
 [2023.04.23-15.55.05:403][280]LogContentValidation: Display: Validating World /Game/Blueprints_Maps/Maps/ThirdLevel.ThirdLevel
 [2023.04.23-15.55.05:403][280]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Blueprints_Maps/Maps/ThirdLevel_BuiltData.ThirdLevel_BuiltData
+[2023.04.23-15.55.40:608][221]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WaterPlain29)
+[2023.04.23-15.55.43:050][427]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2023.04.23-15.55.46:286][726]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WaterPlain29)
+[2023.04.23-15.55.46:894][795]Cmd: EDIT COPY
+[2023.04.23-15.55.47:140][824]Cmd: EDIT PASTE
+[2023.04.23-15.55.57:173][641]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WaterPlain29)
+[2023.04.23-15.56.02:515][151]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WaterPlain30)
+[2023.04.23-15.56.06:734][602]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WaterPlain10)
+[2023.04.23-15.56.07:140][638]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WaterPlain13)
+[2023.04.23-15.56.08:254][763]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WaterPlain14)
+[2023.04.23-15.56.09:706][912]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WaterPlain13)
+[2023.04.23-15.56.12:421][166]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WaterPlain14)
+[2023.04.23-15.56.17:281][629]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WaterPlain13)
+[2023.04.23-15.56.27:789][813]LogTemp: Repeating last play command: Selected Viewport
+[2023.04.23-15.56.27:796][813]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.23-15.56.27:796][813]PIE: New page: PIE session: ThirdLevel (23 Apr 2023, 17:56:27)
+[2023.04.23-15.56.27:823][813]LogPlayLevel: Creating play world package: /Game/Blueprints_Maps/Maps/UEDPIE_0_ThirdLevel
+[2023.04.23-15.56.27:842][813]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018984s)
+[2023.04.23-15.56.27:842][813]LogAIModule: Creating AISystem for world ThirdLevel
+[2023.04.23-15.56.27:843][813]LogPlayLevel: PIE: World Init took: (0.000676s)
+[2023.04.23-15.56.27:843][813]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Blueprints_Maps/Maps/ThirdLevel.ThirdLevel to /Game/Blueprints_Maps/Maps/UEDPIE_0_ThirdLevel.ThirdLevel (0.019780s)
+[2023.04.23-15.56.27:869][813]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2023.04.23-15.56.27:875][813]LogAudio: Display: Creating Audio Device:                 Id: 33, Scope: Unique, Realtime: True
+[2023.04.23-15.56.27:875][813]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.23-15.56.27:875][813]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.23-15.56.27:875][813]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.23-15.56.27:875][813]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.23-15.56.27:875][813]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.23-15.56.27:875][813]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.23-15.56.27:875][813]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.23-15.56.27:875][813]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.23-15.56.27:875][813]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.23-15.56.27:875][813]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.23-15.56.27:875][813]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.23-15.56.27:875][813]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.23-15.56.27:878][813]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.23-15.56.27:878][813]LogAudioMixer: Display: 1: FrontRight
+[2023.04.23-15.56.27:885][813]LogAudioMixer: Display: Using Audio Device Speakers ([AV] Samsung Soundbar T400 T-Series   Stereo)
+[2023.04.23-15.56.27:885][813]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.23-15.56.27:885][813]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.23-15.56.27:885][813]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.23-15.56.27:885][813]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.23-15.56.27:885][813]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.23-15.56.27:885][813]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.04.23-15.56.27:886][813]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.23-15.56.27:886][813]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.23-15.56.27:886][813]LogInit: FAudioDevice initialized.
+[2023.04.23-15.56.27:886][813]LogAudio: Display: Audio Device (ID: 33) registered with world 'ThirdLevel'.
+[2023.04.23-15.56.27:893][813]LogLoad: Game class is 'GameModeBase'
+[2023.04.23-15.56.27:897][813]LogWorld: Bringing World /Game/Blueprints_Maps/Maps/UEDPIE_0_ThirdLevel.ThirdLevel up for play (max tick rate 0) at 2023.04.23-16.56.27
+[2023.04.23-15.56.27:897][813]LogWorld: Bringing up level for play took: 0.003653
+[2023.04.23-15.56.27:898][813]LogOnline: OSS: Creating online subsystem instance for: :Context_73
+[2023.04.23-15.56.27:900][813]PIE: Server logged in
+[2023.04.23-15.56.27:901][813]PIE: Play in editor total start time 0.109 seconds.
+[2023.04.23-15.56.30:751][134]LogBlueprintUserMessages: [Enemy_2] 45.0
+[2023.04.23-15.56.36:256][787]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.23-15.56.36:256][787]LogWorld: BeginTearingDown for /Game/Blueprints_Maps/Maps/UEDPIE_0_ThirdLevel
+[2023.04.23-15.56.36:257][787]LogWorld: UWorld::CleanupWorld for ThirdLevel, bSessionEnded=true, bCleanupResources=true
+[2023.04.23-15.56.36:257][787]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.23-15.56.36:263][787]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.23-15.56.36:277][787]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.23-15.56.36:301][787]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.23-15.56.36:301][787]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.23-15.56.36:302][787]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.23-15.56.36:304][787]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.23-15.56.36:309][787]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2023.04.23-15.56.36:344][788]LogPlayLevel: Display: Destroying online subsystem :Context_73
+[2023.04.23-15.56.46:706][942]Cmd: EDIT COPY
+[2023.04.23-15.56.46:981][975]Cmd: EDIT PASTE
+[2023.04.23-15.56.53:917][548]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2023.04.23-15.57.06:625][871]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WaterPlain47)
+[2023.04.23-15.57.07:398][931]Cmd: DELETE
+[2023.04.23-15.57.07:398][931]Cmd: ACTOR DELETE
+[2023.04.23-15.57.07:402][931]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.23-15.57.07:429][931]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2023.04.23-15.57.07:436][931]LogEditorActor: Deleted 1 Actors (0.037 secs)
+[2023.04.23-15.57.08:312][ 21]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WaterPlain48)
+[2023.04.23-15.57.08:612][ 48]Cmd: DELETE
+[2023.04.23-15.57.08:612][ 48]Cmd: ACTOR DELETE
+[2023.04.23-15.57.08:616][ 48]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.23-15.57.08:640][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2023.04.23-15.57.08:642][ 48]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2023.04.23-15.57.12:996][545]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WaterPlain46)
+[2023.04.23-15.57.13:660][609]Cmd: EDIT COPY
+[2023.04.23-15.57.13:928][639]Cmd: EDIT PASTE
+[2023.04.23-15.57.16:623][849]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2023.04.23-15.57.17:118][883]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WaterPlain47)
+[2023.04.23-15.57.17:745][941]Cmd: EDIT COPY
+[2023.04.23-15.57.18:025][974]Cmd: EDIT PASTE
+[2023.04.23-15.57.20:797][187]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2023.04.23-15.57.26:370][790]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Exo_Decos_Set01_Facade02)
+[2023.04.23-15.57.31:386][261]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2023.04.23-15.57.45:666][885]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Fire_Floor_21)
+[2023.04.23-15.57.46:674][940]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_FlameDungeon_Brickwall4)
+[2023.04.23-15.57.48:741][158]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_FlameDungeon_Brickwall02)
+[2023.04.23-15.57.59:387][377]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_FlameDungeon_ArchWall02)
+[2023.04.23-15.57.59:890][419]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_FlameDungeon_Brickwall3)
+[2023.04.23-15.58.00:343][462]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_FlameDungeon_Brickwall4)
+[2023.04.23-15.58.00:869][522]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_FlameDungeon_Brickwall9)
+[2023.04.23-15.58.01:960][650]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Fire_Floor_19)
+[2023.04.23-15.58.02:533][715]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Fire_Floor_20)
+[2023.04.23-15.58.02:924][759]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Fire_Floor_15)
+[2023.04.23-15.58.03:375][810]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Fire_Floor_22)
+[2023.04.23-15.58.04:005][882]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Fire_Floor_17)
+[2023.04.23-15.58.04:573][947]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Fire_Floor_21)
+[2023.04.23-15.58.07:181][227]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Fire_Floor_18)
+[2023.04.23-15.58.07:668][264]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Fire_Floor_24)
+[2023.04.23-15.58.08:275][333]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Fire_Floor_23)
+[2023.04.23-15.58.10:559][582]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Fire_Floor_12)
+[2023.04.23-15.58.10:870][606]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Fire_Floor_11)
+[2023.04.23-15.58.11:347][647]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Fire_Floor_5)
+[2023.04.23-15.58.12:185][729]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Fire_Floor_6)
+[2023.04.23-15.58.13:154][827]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Fire_Floor_4)
+[2023.04.23-15.58.13:760][888]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Fire_Floor_10)
+[2023.04.23-15.58.15:645][ 46]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Fire_Floor_9)
+[2023.04.23-15.58.16:033][ 72]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Fire_Floor_3)
+[2023.04.23-15.58.16:776][138]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Fire_Floor_2)
+[2023.04.23-15.58.17:572][215]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Fire_Floor_8)
+[2023.04.23-15.58.17:853][238]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Fire_Floor_2)
+[2023.04.23-15.58.20:090][380]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Fire_Floor_1)
+[2023.04.23-15.58.21:292][469]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Fire_Floor_2)
+[2023.04.23-15.58.22:220][542]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Fire_Floor_7)
+[2023.04.23-15.58.28:154][959]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_FlameDungeon_Brickwall5)
+[2023.04.23-15.58.29:130][ 17]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_FlameDungeon_Brickwall03)
+[2023.04.23-15.58.32:686][267]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_FlameDungeon_ArchWall3)
+[2023.04.23-15.58.33:045][284]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_FlameDungeon_Brickwall6)
+[2023.04.23-15.58.33:501][308]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_FlameDungeon_Brickwall7)
+[2023.04.23-15.58.34:635][378]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_FlameDungeon_Brickwall8)
+[2023.04.23-15.58.38:334][727]Cmd: SELECT NONE
+[2023.04.23-15.58.57:106][686]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2023.04.23-15.58.57:228][686]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Saved/ThirdLevel97CA27B0478858736292D4B1CEA2008D.tmp' to '../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Content/Blueprints_Maps/Maps/ThirdLevel.umap'
+[2023.04.23-15.58.57:305][686]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Saved/ThirdLevel_BuiltDataA57E07A9450683A039D6CEA7FBBC73F3.tmp' to '../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Content/Blueprints_Maps/Maps/ThirdLevel_BuiltData.uasset'
+[2023.04.23-15.58.57:316][686]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.23-15.58.57:316][686]LogContentValidation: Display: Validating World /Game/Blueprints_Maps/Maps/ThirdLevel.ThirdLevel
+[2023.04.23-15.58.57:316][686]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Blueprints_Maps/Maps/ThirdLevel_BuiltData.ThirdLevel_BuiltData
