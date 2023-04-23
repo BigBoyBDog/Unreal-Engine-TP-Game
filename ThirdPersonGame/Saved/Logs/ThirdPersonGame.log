@@ -8010,3 +8010,275 @@ Make sure 'HealthPickup_BP_C' has been compiled for  Get CollectionMesh
 [2023.04.23-16.27.44:104][383]AssetCheck: New page: Asset Save: multiple assets
 [2023.04.23-16.27.44:104][383]LogContentValidation: Display: Validating World /Game/Blueprints_Maps/Maps/MainLevel.MainLevel
 [2023.04.23-16.27.44:104][383]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Blueprints_Maps/Maps/MainLevel_BuiltData.MainLevel_BuiltData
+[2023.04.23-16.28.20:470][810]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2023.04.23-16.28.20:541][810]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Blueprints_Maps/Maps/ThirdLevel.ThirdLevel
+[2023.04.23-16.28.20:541][810]Cmd: MAP LOAD FILE="../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Content/Blueprints_Maps/Maps/ThirdLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.04.23-16.28.20:541][810]LightingResults: New page: Lighting Build
+[2023.04.23-16.28.20:541][810]LoadErrors: New page: Loading map: ThirdLevel.umap
+[2023.04.23-16.28.20:544][810]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2023.04.23-16.28.20:544][810]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.23-16.28.20:544][810]MapCheck: New page: Map Check
+[2023.04.23-16.28.20:544][810]LightingResults: New page: Lighting Build
+[2023.04.23-16.28.20:574][810]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.23-16.28.20:583][810]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2023.04.23-16.28.20:617][810]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2023.04.23-16.28.20:646][810]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2023.04.23-16.28.20:646][810]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdLevel'.
+[2023.04.23-16.28.20:771][810]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.04.23-16.28.20:771][810]LogAIModule: Creating AISystem for world ThirdLevel
+[2023.04.23-16.28.20:808][810]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2023.04.23-16.28.20:812][810]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.04.23-16.28.20:812][810]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.072ms to complete.
+[2023.04.23-16.28.20:812][810]LogFileHelpers: Loading map 'ThirdLevel' took 0.271
+[2023.04.23-16.28.33:241][ 54]LogContentBrowser: Deferred new asset file creation: LevelCompleteTwoBP1
+[2023.04.23-16.28.33:307][ 54]LogContentBrowser: Creating deferred item: LevelCompleteTwoBP1
+[2023.04.23-16.28.42:666][176]LogContentBrowser: Attempting asset rename: LevelCompleteTwoBP1 -> LevelCompleteThreeBP
+[2023.04.23-16.28.42:704][176]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2023.04.23-16.28.42:714][176]LogContentBrowser: End creating deferred item LevelCompleteTwoBP1
+[2023.04.23-16.28.59:764][609]LogContentBrowser: Deferred new asset file creation: FinishLevelTwoWidget1
+[2023.04.23-16.28.59:778][609]LogContentBrowser: Creating deferred item: FinishLevelTwoWidget1
+[2023.04.23-16.29.07:756][567]LogContentBrowser: Attempting asset rename: FinishLevelTwoWidget1 -> FinishLevelThreeWidget1
+[2023.04.23-16.29.07:792][567]LogUObjectHash: Compacting FUObjectHashTables data took   3.62ms
+[2023.04.23-16.29.07:800][567]LogContentBrowser: End creating deferred item FinishLevelTwoWidget1
+[2023.04.23-16.29.16:181][410]LogContentBrowser: Attempting asset rename: FinishLevelThreeWidget1 -> FinishLevelThreeWidget1
+[2023.04.23-16.29.19:632][713]LogContentBrowser: Attempting asset rename: FinishLevelThreeWidget1 -> FinishLevelThreeWidget
+[2023.04.23-16.29.19:647][713]LogMetaData: Removing '/Game/Blueprints_Maps/InterfaceWidgets/FinishLevelThreeWidget.SKEL_FinishLevelThreeWidget_C' ref from Metadata '/Game/Blueprints_Maps/InterfaceWidgets/FinishLevelThreeWidget1.PackageMetaData'
+[2023.04.23-16.29.19:647][713]LogMetaData: Removing '/Game/Blueprints_Maps/InterfaceWidgets/FinishLevelThreeWidget.FinishLevelThreeWidget_C' ref from Metadata '/Game/Blueprints_Maps/InterfaceWidgets/FinishLevelThreeWidget1.PackageMetaData'
+[2023.04.23-16.29.19:647][713]LogMetaData: Removing '/Game/Blueprints_Maps/InterfaceWidgets/FinishLevelThreeWidget.SKEL_FinishLevelThreeWidget_C:BndEvt__DeathWidget_RestartLevelButton_K2Node_ComponentBoundEvent_0_OnButtonPressedEvent__DelegateSignature' ref from Metadata '/Game/Blueprints_Maps/InterfaceWidgets/FinishLevelThreeWidget1.PackageMetaData'
+[2023.04.23-16.29.19:647][713]LogMetaData: Removing '/Game/Blueprints_Maps/InterfaceWidgets/FinishLevelThreeWidget.SKEL_FinishLevelThreeWidget_C:BndEvt__DeathWidget_MainMenuButton_K2Node_ComponentBoundEvent_1_OnButtonPressedEvent__DelegateSignature' ref from Metadata '/Game/Blueprints_Maps/InterfaceWidgets/FinishLevelThreeWidget1.PackageMetaData'
+[2023.04.23-16.29.19:647][713]LogMetaData: Removing '/Game/Blueprints_Maps/InterfaceWidgets/FinishLevelThreeWidget.SKEL_FinishLevelThreeWidget_C:BndEvt__DeathWidget_QuitGameButton_K2Node_ComponentBoundEvent_2_OnButtonPressedEvent__DelegateSignature' ref from Metadata '/Game/Blueprints_Maps/InterfaceWidgets/FinishLevelThreeWidget1.PackageMetaData'
+[2023.04.23-16.29.19:647][713]LogMetaData: Removing '/Game/Blueprints_Maps/InterfaceWidgets/FinishLevelThreeWidget.SKEL_FinishLevelThreeWidget_C:BndEvt__FinishLevelOne_NextLevelButton_K2Node_ComponentBoundEvent_3_OnButtonPressedEvent__DelegateSignature' ref from Metadata '/Game/Blueprints_Maps/InterfaceWidgets/FinishLevelThreeWidget1.PackageMetaData'
+[2023.04.23-16.29.19:670][713]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Saved/FinishLevelThreeWidgetB0E32EEF482E324AEEAA86B01D510A14.tmp' to '../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Content/Blueprints_Maps/InterfaceWidgets/FinishLevelThreeWidget.uasset'
+[2023.04.23-16.29.19:867][713]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
+[2023.04.23-16.29.19:905][713]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2023.04.23-16.29.19:933][713]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2023.04.23-16.29.19:971][713]AssetCheck: New page: Asset Save: FinishLevelThreeWidget
+[2023.04.23-16.29.19:971][713]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints_Maps/InterfaceWidgets/FinishLevelThreeWidget.FinishLevelThreeWidget
+[2023.04.23-16.29.21:194][835]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints_Maps/InterfaceWidgets/FinishLevelThreeWidget.FinishLevelThreeWidget
+[2023.04.23-16.29.46:873][536]LogEditorTransaction: Undo Drag and Drop Widget
+[2023.04.23-16.29.46:895][536]LogMaterial: Display: Missing cached shadermap for Landscape_Mat_2PaintLayer in PCD3D_SM5, Default, SM5 (DDC key hash: 37A14BE3624F8443F1A27A11A851D876F6E97AF9), compiling. 
+[2023.04.23-16.29.46:900][536]MaterialEditorStats: Texture samplers: 0/16
+[2023.04.23-16.29.46:901][536]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2023.04.23-16.29.46:901][536]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.04.23-16.29.46:971][538]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.04.23-16.29.46:971][538]LogShaderCompilers: Display: Total job queries 1813, among them cache hits 672 (37.07%)
+[2023.04.23-16.29.46:971][538]LogShaderCompilers: Display: Tracking 1090 distinct input hashes that result in 510 distinct outputs (46.79%)
+[2023.04.23-16.29.46:971][538]LogShaderCompilers: Display: RAM used: 3.10 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.38%
+[2023.04.23-16.29.46:971][538]LogShaderCompilers: Display: ================================================
+[2023.04.23-16.29.46:996][539]MaterialEditorStats: Base pass shader: 137 instructions
+[2023.04.23-16.29.46:996][539]MaterialEditorStats: Base pass shader with Surface Lightmap: 164 instructions
+[2023.04.23-16.29.46:996][539]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 211 instructions
+[2023.04.23-16.29.46:996][539]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.04.23-16.29.46:996][539]MaterialEditorStats: Texture samplers: 6/16
+[2023.04.23-16.29.46:996][539]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2023.04.23-16.29.46:996][539]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.04.23-16.30.03:759][386]BlueprintLog: New page: Compile FinishLevelThreeWidget
+[2023.04.23-16.30.03:779][386]LogBlueprint: Warning: [AssetLog] D:\Unreal Engine Projects\Unreal-Engine-TP-Game\ThirdPersonGame\Content\Blueprints_Maps\InterfaceWidgets\FinishLevelThreeWidget.uasset: [Compiler] On Pressed (NextLevelButton)  does not have a valid matching component!
+[2023.04.23-16.30.03:829][386]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
+[2023.04.23-16.30.04:240][403]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Saved/FinishLevelThreeWidget42C2709C49475B075AB6AAA1611D175D.tmp' to '../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Content/Blueprints_Maps/InterfaceWidgets/FinishLevelThreeWidget.uasset'
+[2023.04.23-16.30.04:264][403]AssetCheck: New page: Asset Save: FinishLevelThreeWidget
+[2023.04.23-16.30.04:264][403]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints_Maps/InterfaceWidgets/FinishLevelThreeWidget.FinishLevelThreeWidget
+[2023.04.23-16.30.05:438][468]BlueprintLog: New page: Compile FinishLevelThreeWidget
+[2023.04.23-16.30.05:440][468]LogBlueprint: Warning: [AssetLog] D:\Unreal Engine Projects\Unreal-Engine-TP-Game\ThirdPersonGame\Content\Blueprints_Maps\InterfaceWidgets\FinishLevelThreeWidget.uasset: [Compiler] On Pressed (NextLevelButton)  does not have a valid matching component!
+[2023.04.23-16.30.05:490][468]LogUObjectHash: Compacting FUObjectHashTables data took   3.45ms
+[2023.04.23-16.30.06:624][522]BlueprintLog: New page: Compile FinishLevelThreeWidget
+[2023.04.23-16.30.06:626][522]LogBlueprint: Warning: [AssetLog] D:\Unreal Engine Projects\Unreal-Engine-TP-Game\ThirdPersonGame\Content\Blueprints_Maps\InterfaceWidgets\FinishLevelThreeWidget.uasset: [Compiler] On Pressed (NextLevelButton)  does not have a valid matching component!
+[2023.04.23-16.30.06:662][522]LogUObjectHash: Compacting FUObjectHashTables data took   3.45ms
+[2023.04.23-16.30.13:099][952]BlueprintLog: New page: Compile FinishLevelThreeWidget
+[2023.04.23-16.30.13:137][952]LogUObjectHash: Compacting FUObjectHashTables data took   3.47ms
+[2023.04.23-16.30.13:857][986]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Saved/FinishLevelThreeWidget264CE1F8416588C3A90F929CEFC674C5.tmp' to '../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Content/Blueprints_Maps/InterfaceWidgets/FinishLevelThreeWidget.uasset'
+[2023.04.23-16.30.13:876][986]AssetCheck: New page: Asset Save: FinishLevelThreeWidget
+[2023.04.23-16.30.13:877][986]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints_Maps/InterfaceWidgets/FinishLevelThreeWidget.FinishLevelThreeWidget
+[2023.04.23-16.30.17:652][341]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Exo_Decos_Set01_Facade02)
+[2023.04.23-16.30.22:405][796]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints_Maps/Blueprints/LevelCompleteThreeBP.LevelCompleteThreeBP
+[2023.04.23-16.30.40:359][676]LogSlate: Window 'Change Variable Type' being destroyed
+[2023.04.23-16.30.41:658][736]LogSlate: Window 'Find in Blueprints' being destroyed
+[2023.04.23-16.30.41:682][736]LogSlate: Window 'Find in Blueprints' being destroyed
+[2023.04.23-16.30.43:244][824]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2023.04.23-16.30.43:261][824]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.23-16.31.03:453][880]BlueprintLog: New page: Compile LevelCompleteThreeBP
+[2023.04.23-16.31.03:511][880]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2023.04.23-16.31.04:006][901]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Saved/LevelCompleteThreeBPACC931B8483800DAF6ABF6816AA4D73C.tmp' to '../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Content/Blueprints_Maps/Blueprints/LevelCompleteThreeBP.uasset'
+[2023.04.23-16.31.04:020][901]AssetCheck: New page: Asset Save: LevelCompleteThreeBP
+[2023.04.23-16.31.04:020][901]LogContentValidation: Display: Validating Blueprint /Game/Blueprints_Maps/Blueprints/LevelCompleteThreeBP.LevelCompleteThreeBP
+[2023.04.23-16.31.21:448][531]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Exo_Decos_Set01_Facade02)
+[2023.04.23-16.31.22:156][583]Cmd: DELETE
+[2023.04.23-16.31.22:156][583]Cmd: ACTOR DELETE
+[2023.04.23-16.31.22:161][583]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.23-16.31.22:197][583]LogUObjectHash: Compacting FUObjectHashTables data took   3.59ms
+[2023.04.23-16.31.22:199][583]LogEditorActor: Deleted 1 Actors (0.043 secs)
+[2023.04.23-16.31.22:700][642]LogEditorViewport: Clicking on Actor (LMB): LevelCompleteThreeBP_C (LevelCompleteThreeBP)
+[2023.04.23-16.31.24:991][844]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2023.04.23-16.31.27:481][ 70]LogTemp: Repeating last play command: Selected Viewport
+[2023.04.23-16.31.27:488][ 70]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.23-16.31.27:488][ 70]PIE: New page: PIE session: ThirdLevel (23 Apr 2023, 18:31:27)
+[2023.04.23-16.31.27:513][ 70]LogPlayLevel: Creating play world package: /Game/Blueprints_Maps/Maps/UEDPIE_0_ThirdLevel
+[2023.04.23-16.31.27:537][ 70]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023906s)
+[2023.04.23-16.31.27:537][ 70]LogAIModule: Creating AISystem for world ThirdLevel
+[2023.04.23-16.31.27:537][ 70]LogPlayLevel: PIE: World Init took: (0.000691s)
+[2023.04.23-16.31.27:537][ 70]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Blueprints_Maps/Maps/ThirdLevel.ThirdLevel to /Game/Blueprints_Maps/Maps/UEDPIE_0_ThirdLevel.ThirdLevel (0.024725s)
+[2023.04.23-16.31.27:572][ 70]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2023.04.23-16.31.27:573][ 70]LogAudio: Display: Creating Audio Device:                 Id: 45, Scope: Unique, Realtime: True
+[2023.04.23-16.31.27:573][ 70]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.23-16.31.27:573][ 70]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.23-16.31.27:573][ 70]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.23-16.31.27:573][ 70]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.23-16.31.27:573][ 70]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.23-16.31.27:573][ 70]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.23-16.31.27:573][ 70]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.23-16.31.27:574][ 70]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.23-16.31.27:574][ 70]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.23-16.31.27:574][ 70]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.23-16.31.27:574][ 70]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.23-16.31.27:574][ 70]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.23-16.31.27:575][ 70]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.23-16.31.27:575][ 70]LogAudioMixer: Display: 1: FrontRight
+[2023.04.23-16.31.27:583][ 70]LogAudioMixer: Display: Using Audio Device Speakers ([AV] Samsung Soundbar T400 T-Series   Stereo)
+[2023.04.23-16.31.27:584][ 70]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.23-16.31.27:584][ 70]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.23-16.31.27:584][ 70]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.23-16.31.27:584][ 70]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.23-16.31.27:584][ 70]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.23-16.31.27:584][ 70]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.04.23-16.31.27:585][ 70]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.23-16.31.27:585][ 70]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.23-16.31.27:585][ 70]LogInit: FAudioDevice initialized.
+[2023.04.23-16.31.27:585][ 70]LogAudio: Display: Audio Device (ID: 45) registered with world 'ThirdLevel'.
+[2023.04.23-16.31.27:591][ 70]LogLoad: Game class is 'GameModeBase'
+[2023.04.23-16.31.27:596][ 70]LogWorld: Bringing World /Game/Blueprints_Maps/Maps/UEDPIE_0_ThirdLevel.ThirdLevel up for play (max tick rate 0) at 2023.04.23-17.31.27
+[2023.04.23-16.31.27:597][ 70]LogWorld: Bringing up level for play took: 0.005369
+[2023.04.23-16.31.27:597][ 70]LogOnline: OSS: Creating online subsystem instance for: :Context_95
+[2023.04.23-16.31.27:601][ 70]PIE: Server logged in
+[2023.04.23-16.31.27:601][ 70]PIE: Play in editor total start time 0.117 seconds.
+[2023.04.23-16.31.30:425][399]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1
+[2023.04.23-16.31.31:283][502]LogBlueprintUserMessages: [Enemy2] 15.0
+[2023.04.23-16.31.35:283][982]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 2
+[2023.04.23-16.31.41:125][683]LogBlueprintUserMessages: [Enemy4] 20.0
+[2023.04.23-16.31.42:308][825]LogBlueprintUserMessages: [Enemy_2] 20.0
+[2023.04.23-16.31.43:484][966]PIE: Error: Blueprint Runtime Error: "Attempted to access Enemy2 via property CallFunc_Array_Get_Item, but Enemy2 is pending kill". Blueprint:  EnemyFightDirector Function:  Enemy Grade by Position Graph:  EnemyGradeByPosition Node:  Add
+[2023.04.23-16.31.44:200][ 52]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 90.0
+[2023.04.23-16.31.45:367][192]LogBlueprintUserMessages: [Enemy3] 20.0
+[2023.04.23-16.31.45:484][206]PIE: Error: Blueprint Runtime Error: "Attempted to access Enemy2 via property CallFunc_Array_Get_Item, but Enemy2 is pending kill". Blueprint:  EnemyFightDirector Function:  Enemy Grade by Position Graph:  EnemyGradeByPosition Node:  Add
+[2023.04.23-16.31.47:409][437]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 80.0
+[2023.04.23-16.31.47:484][446]PIE: Error: Blueprint Runtime Error: "Attempted to access Enemy2 via property CallFunc_Array_Get_Item, but Enemy2 is pending kill". Blueprint:  EnemyFightDirector Function:  Enemy Grade by Position Graph:  EnemyGradeByPosition Node:  Add
+[2023.04.23-16.31.47:484][446]PIE: Error: Blueprint Runtime Error: "Attempted to access Enemy4 via property CallFunc_Array_Get_Item, but Enemy4 is pending kill". Blueprint:  EnemyFightDirector Function:  Enemy Grade by Position Graph:  EnemyGradeByPosition Node:  Add
+[2023.04.23-16.31.48:650][586]LogBlueprintUserMessages: [Enemy5] 20.0
+[2023.04.23-16.31.49:484][686]PIE: Error: Blueprint Runtime Error: "Attempted to access Enemy2 via property CallFunc_Array_Get_Item, but Enemy2 is pending kill". Blueprint:  EnemyFightDirector Function:  Enemy Grade by Position Graph:  EnemyGradeByPosition Node:  Add
+[2023.04.23-16.31.49:484][686]PIE: Error: Blueprint Runtime Error: "Attempted to access Enemy4 via property CallFunc_Array_Get_Item, but Enemy4 is pending kill". Blueprint:  EnemyFightDirector Function:  Enemy Grade by Position Graph:  EnemyGradeByPosition Node:  Add
+[2023.04.23-16.31.51:484][926]PIE: Error: Blueprint Runtime Error: "Attempted to access Enemy_2 via property CallFunc_Array_Get_Item, but Enemy_2 is pending kill". Blueprint:  EnemyFightDirector Function:  Enemy Grade by Position Graph:  EnemyGradeByPosition Node:  Add
+[2023.04.23-16.31.51:484][926]PIE: Error: Blueprint Runtime Error: "Attempted to access Enemy2 via property CallFunc_Array_Get_Item, but Enemy2 is pending kill". Blueprint:  EnemyFightDirector Function:  Enemy Grade by Position Graph:  EnemyGradeByPosition Node:  Add
+[2023.04.23-16.31.51:484][926]PIE: Error: Blueprint Runtime Error: "Attempted to access Enemy4 via property CallFunc_Array_Get_Item, but Enemy4 is pending kill". Blueprint:  EnemyFightDirector Function:  Enemy Grade by Position Graph:  EnemyGradeByPosition Node:  Add
+[2023.04.23-16.31.53:484][166]PIE: Error: Blueprint Runtime Error: "Attempted to access Enemy_2 via property CallFunc_Array_Get_Item, but Enemy_2 is pending kill". Blueprint:  EnemyFightDirector Function:  Enemy Grade by Position Graph:  EnemyGradeByPosition Node:  Add
+[2023.04.23-16.31.53:484][166]PIE: Error: Blueprint Runtime Error: "Attempted to access Enemy2 via property CallFunc_Array_Get_Item, but Enemy2 is pending kill". Blueprint:  EnemyFightDirector Function:  Enemy Grade by Position Graph:  EnemyGradeByPosition Node:  Add
+[2023.04.23-16.31.53:484][166]PIE: Error: Blueprint Runtime Error: "Attempted to access Enemy4 via property CallFunc_Array_Get_Item, but Enemy4 is pending kill". Blueprint:  EnemyFightDirector Function:  Enemy Grade by Position Graph:  EnemyGradeByPosition Node:  Add
+[2023.04.23-16.31.55:484][406]PIE: Error: Blueprint Runtime Error: "Attempted to access Enemy_2 via property CallFunc_Array_Get_Item, but Enemy_2 is pending kill". Blueprint:  EnemyFightDirector Function:  Enemy Grade by Position Graph:  EnemyGradeByPosition Node:  Add
+[2023.04.23-16.31.55:484][406]PIE: Error: Blueprint Runtime Error: "Attempted to access Enemy2 via property CallFunc_Array_Get_Item, but Enemy2 is pending kill". Blueprint:  EnemyFightDirector Function:  Enemy Grade by Position Graph:  EnemyGradeByPosition Node:  Add
+[2023.04.23-16.31.55:484][406]PIE: Error: Blueprint Runtime Error: "Attempted to access Enemy3 via property CallFunc_Array_Get_Item, but Enemy3 is pending kill". Blueprint:  EnemyFightDirector Function:  Enemy Grade by Position Graph:  EnemyGradeByPosition Node:  Add
+[2023.04.23-16.31.55:484][406]PIE: Error: Blueprint Runtime Error: "Attempted to access Enemy4 via property CallFunc_Array_Get_Item, but Enemy4 is pending kill". Blueprint:  EnemyFightDirector Function:  Enemy Grade by Position Graph:  EnemyGradeByPosition Node:  Add
+[2023.04.23-16.31.55:484][406]PIE: Error: Blueprint Runtime Error: "Attempted to access Enemy5 via property CallFunc_Array_Get_Item, but Enemy5 is pending kill". Blueprint:  EnemyFightDirector Function:  Enemy Grade by Position Graph:  EnemyGradeByPosition Node:  Add
+[2023.04.23-16.31.56:934][580]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 2
+[2023.04.23-16.31.57:209][613]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 2
+[2023.04.23-16.31.57:375][633]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 2
+[2023.04.23-16.31.57:484][646]PIE: Error: Blueprint Runtime Error: "Attempted to access Enemy_2 via property CallFunc_Array_Get_Item, but Enemy_2 is pending kill". Blueprint:  EnemyFightDirector Function:  Enemy Grade by Position Graph:  EnemyGradeByPosition Node:  Add
+[2023.04.23-16.31.57:484][646]PIE: Error: Blueprint Runtime Error: "Attempted to access Enemy2 via property CallFunc_Array_Get_Item, but Enemy2 is pending kill". Blueprint:  EnemyFightDirector Function:  Enemy Grade by Position Graph:  EnemyGradeByPosition Node:  Add
+[2023.04.23-16.31.57:484][646]PIE: Error: Blueprint Runtime Error: "Attempted to access Enemy3 via property CallFunc_Array_Get_Item, but Enemy3 is pending kill". Blueprint:  EnemyFightDirector Function:  Enemy Grade by Position Graph:  EnemyGradeByPosition Node:  Add
+[2023.04.23-16.31.57:484][646]PIE: Error: Blueprint Runtime Error: "Attempted to access Enemy4 via property CallFunc_Array_Get_Item, but Enemy4 is pending kill". Blueprint:  EnemyFightDirector Function:  Enemy Grade by Position Graph:  EnemyGradeByPosition Node:  Add
+[2023.04.23-16.31.57:484][646]PIE: Error: Blueprint Runtime Error: "Attempted to access Enemy5 via property CallFunc_Array_Get_Item, but Enemy5 is pending kill". Blueprint:  EnemyFightDirector Function:  Enemy Grade by Position Graph:  EnemyGradeByPosition Node:  Add
+[2023.04.23-16.31.57:492][647]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 2
+[2023.04.23-16.31.58:992][827]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 3
+[2023.04.23-16.31.59:484][886]PIE: Error: Blueprint Runtime Error: "Attempted to access Enemy_2 via property CallFunc_Array_Get_Item, but Enemy_2 is pending kill". Blueprint:  EnemyFightDirector Function:  Enemy Grade by Position Graph:  EnemyGradeByPosition Node:  Add
+[2023.04.23-16.31.59:484][886]PIE: Error: Blueprint Runtime Error: "Attempted to access Enemy2 via property CallFunc_Array_Get_Item, but Enemy2 is pending kill". Blueprint:  EnemyFightDirector Function:  Enemy Grade by Position Graph:  EnemyGradeByPosition Node:  Add
+[2023.04.23-16.31.59:485][886]PIE: Error: Blueprint Runtime Error: "Attempted to access Enemy3 via property CallFunc_Array_Get_Item, but Enemy3 is pending kill". Blueprint:  EnemyFightDirector Function:  Enemy Grade by Position Graph:  EnemyGradeByPosition Node:  Add
+[2023.04.23-16.31.59:485][886]PIE: Error: Blueprint Runtime Error: "Attempted to access Enemy4 via property CallFunc_Array_Get_Item, but Enemy4 is pending kill". Blueprint:  EnemyFightDirector Function:  Enemy Grade by Position Graph:  EnemyGradeByPosition Node:  Add
+[2023.04.23-16.31.59:485][886]PIE: Error: Blueprint Runtime Error: "Attempted to access Enemy5 via property CallFunc_Array_Get_Item, but Enemy5 is pending kill". Blueprint:  EnemyFightDirector Function:  Enemy Grade by Position Graph:  EnemyGradeByPosition Node:  Add
+[2023.04.23-16.32.01:485][126]PIE: Error: Blueprint Runtime Error: "Attempted to access Enemy_2 via property CallFunc_Array_Get_Item, but Enemy_2 is pending kill". Blueprint:  EnemyFightDirector Function:  Enemy Grade by Position Graph:  EnemyGradeByPosition Node:  Add
+[2023.04.23-16.32.01:485][126]PIE: Error: Blueprint Runtime Error: "Attempted to access Enemy2 via property CallFunc_Array_Get_Item, but Enemy2 is pending kill". Blueprint:  EnemyFightDirector Function:  Enemy Grade by Position Graph:  EnemyGradeByPosition Node:  Add
+[2023.04.23-16.32.01:485][126]PIE: Error: Blueprint Runtime Error: "Attempted to access Enemy3 via property CallFunc_Array_Get_Item, but Enemy3 is pending kill". Blueprint:  EnemyFightDirector Function:  Enemy Grade by Position Graph:  EnemyGradeByPosition Node:  Add
+[2023.04.23-16.32.01:485][126]PIE: Error: Blueprint Runtime Error: "Attempted to access Enemy4 via property CallFunc_Array_Get_Item, but Enemy4 is pending kill". Blueprint:  EnemyFightDirector Function:  Enemy Grade by Position Graph:  EnemyGradeByPosition Node:  Add
+[2023.04.23-16.32.01:485][126]PIE: Error: Blueprint Runtime Error: "Attempted to access Enemy5 via property CallFunc_Array_Get_Item, but Enemy5 is pending kill". Blueprint:  EnemyFightDirector Function:  Enemy Grade by Position Graph:  EnemyGradeByPosition Node:  Add
+[2023.04.23-16.32.03:486][366]PIE: Error: Blueprint Runtime Error: "Attempted to access Enemy_2 via property CallFunc_Array_Get_Item, but Enemy_2 is pending kill". Blueprint:  EnemyFightDirector Function:  Enemy Grade by Position Graph:  EnemyGradeByPosition Node:  Add
+[2023.04.23-16.32.03:486][366]PIE: Error: Blueprint Runtime Error: "Attempted to access Enemy2 via property CallFunc_Array_Get_Item, but Enemy2 is pending kill". Blueprint:  EnemyFightDirector Function:  Enemy Grade by Position Graph:  EnemyGradeByPosition Node:  Add
+[2023.04.23-16.32.03:486][366]PIE: Error: Blueprint Runtime Error: "Attempted to access Enemy3 via property CallFunc_Array_Get_Item, but Enemy3 is pending kill". Blueprint:  EnemyFightDirector Function:  Enemy Grade by Position Graph:  EnemyGradeByPosition Node:  Add
+[2023.04.23-16.32.03:486][366]PIE: Error: Blueprint Runtime Error: "Attempted to access Enemy4 via property CallFunc_Array_Get_Item, but Enemy4 is pending kill". Blueprint:  EnemyFightDirector Function:  Enemy Grade by Position Graph:  EnemyGradeByPosition Node:  Add
+[2023.04.23-16.32.03:486][366]PIE: Error: Blueprint Runtime Error: "Attempted to access Enemy5 via property CallFunc_Array_Get_Item, but Enemy5 is pending kill". Blueprint:  EnemyFightDirector Function:  Enemy Grade by Position Graph:  EnemyGradeByPosition Node:  Add
+[2023.04.23-16.32.05:485][606]PIE: Error: Blueprint Runtime Error: "Attempted to access Enemy_2 via property CallFunc_Array_Get_Item, but Enemy_2 is pending kill". Blueprint:  EnemyFightDirector Function:  Enemy Grade by Position Graph:  EnemyGradeByPosition Node:  Add
+[2023.04.23-16.32.05:485][606]PIE: Error: Blueprint Runtime Error: "Attempted to access Enemy2 via property CallFunc_Array_Get_Item, but Enemy2 is pending kill". Blueprint:  EnemyFightDirector Function:  Enemy Grade by Position Graph:  EnemyGradeByPosition Node:  Add
+[2023.04.23-16.32.05:485][606]PIE: Error: Blueprint Runtime Error: "Attempted to access Enemy3 via property CallFunc_Array_Get_Item, but Enemy3 is pending kill". Blueprint:  EnemyFightDirector Function:  Enemy Grade by Position Graph:  EnemyGradeByPosition Node:  Add
+[2023.04.23-16.32.05:485][606]PIE: Error: Blueprint Runtime Error: "Attempted to access Enemy4 via property CallFunc_Array_Get_Item, but Enemy4 is pending kill". Blueprint:  EnemyFightDirector Function:  Enemy Grade by Position Graph:  EnemyGradeByPosition Node:  Add
+[2023.04.23-16.32.05:485][606]PIE: Error: Blueprint Runtime Error: "Attempted to access Enemy5 via property CallFunc_Array_Get_Item, but Enemy5 is pending kill". Blueprint:  EnemyFightDirector Function:  Enemy Grade by Position Graph:  EnemyGradeByPosition Node:  Add
+[2023.04.23-16.32.07:486][846]PIE: Error: Blueprint Runtime Error: "Attempted to access Enemy_2 via property CallFunc_Array_Get_Item, but Enemy_2 is pending kill". Blueprint:  EnemyFightDirector Function:  Enemy Grade by Position Graph:  EnemyGradeByPosition Node:  Add
+[2023.04.23-16.32.07:486][846]PIE: Error: Blueprint Runtime Error: "Attempted to access Enemy2 via property CallFunc_Array_Get_Item, but Enemy2 is pending kill". Blueprint:  EnemyFightDirector Function:  Enemy Grade by Position Graph:  EnemyGradeByPosition Node:  Add
+[2023.04.23-16.32.07:486][846]PIE: Error: Blueprint Runtime Error: "Attempted to access Enemy3 via property CallFunc_Array_Get_Item, but Enemy3 is pending kill". Blueprint:  EnemyFightDirector Function:  Enemy Grade by Position Graph:  EnemyGradeByPosition Node:  Add
+[2023.04.23-16.32.07:486][846]PIE: Error: Blueprint Runtime Error: "Attempted to access Enemy4 via property CallFunc_Array_Get_Item, but Enemy4 is pending kill". Blueprint:  EnemyFightDirector Function:  Enemy Grade by Position Graph:  EnemyGradeByPosition Node:  Add
+[2023.04.23-16.32.07:486][846]PIE: Error: Blueprint Runtime Error: "Attempted to access Enemy5 via property CallFunc_Array_Get_Item, but Enemy5 is pending kill". Blueprint:  EnemyFightDirector Function:  Enemy Grade by Position Graph:  EnemyGradeByPosition Node:  Add
+[2023.04.23-16.32.08:243][937]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 55.0
+[2023.04.23-16.32.09:485][ 86]PIE: Error: Blueprint Runtime Error: "Attempted to access Enemy_2 via property CallFunc_Array_Get_Item, but Enemy_2 is pending kill". Blueprint:  EnemyFightDirector Function:  Enemy Grade by Position Graph:  EnemyGradeByPosition Node:  Add
+[2023.04.23-16.32.09:485][ 86]PIE: Error: Blueprint Runtime Error: "Attempted to access Enemy2 via property CallFunc_Array_Get_Item, but Enemy2 is pending kill". Blueprint:  EnemyFightDirector Function:  Enemy Grade by Position Graph:  EnemyGradeByPosition Node:  Add
+[2023.04.23-16.32.09:485][ 86]PIE: Error: Blueprint Runtime Error: "Attempted to access Enemy3 via property CallFunc_Array_Get_Item, but Enemy3 is pending kill". Blueprint:  EnemyFightDirector Function:  Enemy Grade by Position Graph:  EnemyGradeByPosition Node:  Add
+[2023.04.23-16.32.09:485][ 86]PIE: Error: Blueprint Runtime Error: "Attempted to access Enemy4 via property CallFunc_Array_Get_Item, but Enemy4 is pending kill". Blueprint:  EnemyFightDirector Function:  Enemy Grade by Position Graph:  EnemyGradeByPosition Node:  Add
+[2023.04.23-16.32.09:485][ 86]PIE: Error: Blueprint Runtime Error: "Attempted to access Enemy5 via property CallFunc_Array_Get_Item, but Enemy5 is pending kill". Blueprint:  EnemyFightDirector Function:  Enemy Grade by Position Graph:  EnemyGradeByPosition Node:  Add
+[2023.04.23-16.32.11:285][302]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 80.0
+[2023.04.23-16.32.11:485][326]PIE: Error: Blueprint Runtime Error: "Attempted to access Enemy_2 via property CallFunc_Array_Get_Item, but Enemy_2 is pending kill". Blueprint:  EnemyFightDirector Function:  Enemy Grade by Position Graph:  EnemyGradeByPosition Node:  Add
+[2023.04.23-16.32.11:485][326]PIE: Error: Blueprint Runtime Error: "Attempted to access Enemy2 via property CallFunc_Array_Get_Item, but Enemy2 is pending kill". Blueprint:  EnemyFightDirector Function:  Enemy Grade by Position Graph:  EnemyGradeByPosition Node:  Add
+[2023.04.23-16.32.11:485][326]PIE: Error: Blueprint Runtime Error: "Attempted to access Enemy3 via property CallFunc_Array_Get_Item, but Enemy3 is pending kill". Blueprint:  EnemyFightDirector Function:  Enemy Grade by Position Graph:  EnemyGradeByPosition Node:  Add
+[2023.04.23-16.32.11:485][326]PIE: Error: Blueprint Runtime Error: "Attempted to access Enemy4 via property CallFunc_Array_Get_Item, but Enemy4 is pending kill". Blueprint:  EnemyFightDirector Function:  Enemy Grade by Position Graph:  EnemyGradeByPosition Node:  Add
+[2023.04.23-16.32.11:485][326]PIE: Error: Blueprint Runtime Error: "Attempted to access Enemy5 via property CallFunc_Array_Get_Item, but Enemy5 is pending kill". Blueprint:  EnemyFightDirector Function:  Enemy Grade by Position Graph:  EnemyGradeByPosition Node:  Add
+[2023.04.23-16.32.13:485][566]PIE: Error: Blueprint Runtime Error: "Attempted to access Enemy_2 via property CallFunc_Array_Get_Item, but Enemy_2 is pending kill". Blueprint:  EnemyFightDirector Function:  Enemy Grade by Position Graph:  EnemyGradeByPosition Node:  Add
+[2023.04.23-16.32.13:485][566]PIE: Error: Blueprint Runtime Error: "Attempted to access Enemy2 via property CallFunc_Array_Get_Item, but Enemy2 is pending kill". Blueprint:  EnemyFightDirector Function:  Enemy Grade by Position Graph:  EnemyGradeByPosition Node:  Add
+[2023.04.23-16.32.13:485][566]PIE: Error: Blueprint Runtime Error: "Attempted to access Enemy3 via property CallFunc_Array_Get_Item, but Enemy3 is pending kill". Blueprint:  EnemyFightDirector Function:  Enemy Grade by Position Graph:  EnemyGradeByPosition Node:  Add
+[2023.04.23-16.32.13:486][566]PIE: Error: Blueprint Runtime Error: "Attempted to access Enemy4 via property CallFunc_Array_Get_Item, but Enemy4 is pending kill". Blueprint:  EnemyFightDirector Function:  Enemy Grade by Position Graph:  EnemyGradeByPosition Node:  Add
+[2023.04.23-16.32.13:486][566]PIE: Error: Blueprint Runtime Error: "Attempted to access Enemy5 via property CallFunc_Array_Get_Item, but Enemy5 is pending kill". Blueprint:  EnemyFightDirector Function:  Enemy Grade by Position Graph:  EnemyGradeByPosition Node:  Add
+[2023.04.23-16.32.15:485][806]PIE: Error: Blueprint Runtime Error: "Attempted to access Enemy_2 via property CallFunc_Array_Get_Item, but Enemy_2 is pending kill". Blueprint:  EnemyFightDirector Function:  Enemy Grade by Position Graph:  EnemyGradeByPosition Node:  Add
+[2023.04.23-16.32.15:485][806]PIE: Error: Blueprint Runtime Error: "Attempted to access Enemy2 via property CallFunc_Array_Get_Item, but Enemy2 is pending kill". Blueprint:  EnemyFightDirector Function:  Enemy Grade by Position Graph:  EnemyGradeByPosition Node:  Add
+[2023.04.23-16.32.15:485][806]PIE: Error: Blueprint Runtime Error: "Attempted to access Enemy3 via property CallFunc_Array_Get_Item, but Enemy3 is pending kill". Blueprint:  EnemyFightDirector Function:  Enemy Grade by Position Graph:  EnemyGradeByPosition Node:  Add
+[2023.04.23-16.32.15:485][806]PIE: Error: Blueprint Runtime Error: "Attempted to access Enemy4 via property CallFunc_Array_Get_Item, but Enemy4 is pending kill". Blueprint:  EnemyFightDirector Function:  Enemy Grade by Position Graph:  EnemyGradeByPosition Node:  Add
+[2023.04.23-16.32.15:485][806]PIE: Error: Blueprint Runtime Error: "Attempted to access Enemy5 via property CallFunc_Array_Get_Item, but Enemy5 is pending kill". Blueprint:  EnemyFightDirector Function:  Enemy Grade by Position Graph:  EnemyGradeByPosition Node:  Add
+[2023.04.23-16.32.17:035][992]LogScript: Warning: Accessed None trying to read property ChildActor
+	LevelCompleteThreeBP_C /Game/Blueprints_Maps/Maps/UEDPIE_0_ThirdLevel.ThirdLevel:PersistentLevel.LevelCompleteThreeBP_2
+	Function /Game/Blueprints_Maps/Blueprints/LevelCompleteThreeBP.LevelCompleteThreeBP_C:ExecuteUbergraph_LevelCompleteThreeBP:0117
+[2023.04.23-16.32.17:035][992]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ChildActor". Blueprint:  LevelCompleteThreeBP Function:  Execute Ubergraph Level Complete Three BP Graph:  EventGraph Node:  Set Owner
+[2023.04.23-16.32.17:035][992]LogScript: Warning: Accessed None
+	LevelCompleteThreeBP_C /Game/Blueprints_Maps/Maps/UEDPIE_0_ThirdLevel.ThirdLevel:PersistentLevel.LevelCompleteThreeBP_2
+	Function /Game/Blueprints_Maps/Blueprints/LevelCompleteThreeBP.LevelCompleteThreeBP_C:ExecuteUbergraph_LevelCompleteThreeBP:012C
+[2023.04.23-16.32.17:035][992]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  LevelCompleteThreeBP Function:  Execute Ubergraph Level Complete Three BP Graph:  EventGraph Node:  Set Owner
+[2023.04.23-16.32.21:935][580]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.04.23-16.32.21:936][580]LogNet: Browse: /Game/Blueprints_Maps/Maps/StartMenuMap
+[2023.04.23-16.32.21:936][580]LogLoad: LoadMap: /Game/Blueprints_Maps/Maps/StartMenuMap
+[2023.04.23-16.32.21:936][580]LogWorld: BeginTearingDown for /Game/Blueprints_Maps/Maps/UEDPIE_0_ThirdLevel
+[2023.04.23-16.32.21:937][580]LogWorld: UWorld::CleanupWorld for ThirdLevel, bSessionEnded=true, bCleanupResources=true
+[2023.04.23-16.32.21:937][580]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.23-16.32.21:996][580]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.23-16.32.22:002][580]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2023.04.23-16.32.22:005][580]LogAudio: Display: Audio Device (ID: 45) registered with world 'StartMenuMap'.
+[2023.04.23-16.32.22:006][580]LogAIModule: Creating AISystem for world StartMenuMap
+[2023.04.23-16.32.22:006][580]LogLoad: Game class is 'StartMenuGameMode_C'
+[2023.04.23-16.32.22:007][580]LogWorld: Bringing World /Game/Blueprints_Maps/Maps/UEDPIE_0_StartMenuMap.StartMenuMap up for play (max tick rate 0) at 2023.04.23-17.32.22
+[2023.04.23-16.32.22:007][580]LogWorld: Bringing up level for play took: 0.000422
+[2023.04.23-16.32.22:007][580]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.04.23-16.32.22:008][580]LogLoad: Took 0.072340 seconds to LoadMap(/Game/Blueprints_Maps/Maps/StartMenuMap)
+[2023.04.23-16.32.23:427][746]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.23-16.32.23:430][746]LogWorld: BeginTearingDown for /Game/Blueprints_Maps/Maps/UEDPIE_0_StartMenuMap
+[2023.04.23-16.32.23:430][746]LogWorld: UWorld::CleanupWorld for StartMenuMap, bSessionEnded=true, bCleanupResources=true
+[2023.04.23-16.32.23:430][746]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.23-16.32.23:435][746]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.23-16.32.23:445][746]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.23-16.32.23:476][746]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.23-16.32.23:476][746]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.23-16.32.23:477][746]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.23-16.32.23:479][746]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.23-16.32.23:483][746]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2023.04.23-16.32.23:576][747]LogPlayLevel: Display: Destroying online subsystem :Context_95
+[2023.04.23-16.32.26:051][865]LogSlate: Window 'Message Log' being destroyed
+[2023.04.23-16.32.26:079][865]LogSlate: Window 'Message Log' being destroyed
+[2023.04.23-16.32.30:797][315]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints_Maps/InterfaceWidgets/FinishLevelTwoWidget.FinishLevelTwoWidget
+[2023.04.23-16.33.11:934][875]BlueprintLog: New page: Compile FinishLevelThreeWidget
+[2023.04.23-16.33.11:978][875]LogUObjectHash: Compacting FUObjectHashTables data took   3.48ms
+[2023.04.23-16.33.12:452][896]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Saved/FinishLevelThreeWidget128EE0DB413A55E779AE00AC64FCA466.tmp' to '../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Content/Blueprints_Maps/InterfaceWidgets/FinishLevelThreeWidget.uasset'
+[2023.04.23-16.33.12:472][896]AssetCheck: New page: Asset Save: FinishLevelThreeWidget
+[2023.04.23-16.33.12:472][896]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints_Maps/InterfaceWidgets/FinishLevelThreeWidget.FinishLevelThreeWidget
+[2023.04.23-16.33.21:018][709]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2023.04.23-16.33.21:156][709]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Saved/ThirdLevelB00C028A4493CD87D94263B582BA6A03.tmp' to '../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Content/Blueprints_Maps/Maps/ThirdLevel.umap'
+[2023.04.23-16.33.21:519][709]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Saved/ThirdLevel_BuiltData5DBA5B16451D203F8F3A0483C21AA899.tmp' to '../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Content/Blueprints_Maps/Maps/ThirdLevel_BuiltData.uasset'
+[2023.04.23-16.33.21:535][709]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.23-16.33.21:535][709]LogContentValidation: Display: Validating World /Game/Blueprints_Maps/Maps/ThirdLevel.ThirdLevel
+[2023.04.23-16.33.21:535][709]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Blueprints_Maps/Maps/ThirdLevel_BuiltData.ThirdLevel_BuiltData
