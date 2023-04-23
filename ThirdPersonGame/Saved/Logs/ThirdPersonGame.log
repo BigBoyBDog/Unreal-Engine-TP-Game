@@ -4160,3 +4160,58 @@ Please see Output Log for details.
 [2023.04.23-15.19.23:254][673]AssetCheck: New page: Asset Save: multiple assets
 [2023.04.23-15.19.23:254][673]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Blueprints_Maps/Maps/SecondLevel_BuiltData.SecondLevel_BuiltData
 [2023.04.23-15.19.23:254][673]LogContentValidation: Display: Validating World /Game/Blueprints_Maps/Maps/SecondLevel.SecondLevel
+[2023.04.23-15.20.08:720][166]LogActorComponent: UnregisterComponent: (/Engine/Transient.SphereBrushComponent) Not registered. Aborting.
+[2023.04.23-15.20.13:913][783]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Snowy_Farm)
+[2023.04.23-15.20.14:771][869]Cmd: EDIT COPY
+[2023.04.23-15.20.17:941][165]Cmd: TRANSACTION UNDO
+[2023.04.23-15.20.17:941][165]LogEditorTransaction: Undo Move Actors
+[2023.04.23-15.20.17:963][165]LogMaterial: Display: Missing cached shadermap for Material__30 in PCD3D_SM5, Default, SM5 (DDC key hash: 3059996CCF7F92E542248AB639C3B0085A5A34B0), compiling. 
+[2023.04.23-15.20.17:964][165]LogMaterial: Display: Missing cached shadermap for Landscape_Mat_2PaintLayer in PCD3D_SM5, Default, SM5 (DDC key hash: E18A554ADD2B63D54AD258D4ED55BB46AC710CED), compiling. 
+[2023.04.23-15.20.17:969][165]MaterialEditorStats: Texture samplers: 0/16
+[2023.04.23-15.20.17:969][165]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.04.23-15.20.17:969][165]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.04.23-15.20.17:969][165]MaterialEditorStats: Texture samplers: 0/16
+[2023.04.23-15.20.17:969][165]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2023.04.23-15.20.17:969][165]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.04.23-15.20.18:038][167]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.04.23-15.20.18:038][167]LogShaderCompilers: Display: Total job queries 949, among them cache hits 339 (35.72%)
+[2023.04.23-15.20.18:038][167]LogShaderCompilers: Display: Tracking 598 distinct input hashes that result in 322 distinct outputs (53.85%)
+[2023.04.23-15.20.18:038][167]LogShaderCompilers: Display: RAM used: 1.86 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.23%
+[2023.04.23-15.20.18:038][167]LogShaderCompilers: Display: ================================================
+[2023.04.23-15.20.18:055][168]MaterialEditorStats: Base pass shader: 120 instructions
+[2023.04.23-15.20.18:055][168]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2023.04.23-15.20.18:055][168]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.04.23-15.20.18:055][168]MaterialEditorStats: Texture samplers: 3/16
+[2023.04.23-15.20.18:055][168]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.04.23-15.20.18:055][168]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.04.23-15.20.18:055][168]MaterialEditorStats: Base pass shader: 137 instructions
+[2023.04.23-15.20.18:055][168]MaterialEditorStats: Base pass shader with Surface Lightmap: 164 instructions
+[2023.04.23-15.20.18:055][168]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 211 instructions
+[2023.04.23-15.20.18:055][168]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.04.23-15.20.18:055][168]MaterialEditorStats: Texture samplers: 6/16
+[2023.04.23-15.20.18:055][168]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2023.04.23-15.20.18:055][168]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.04.23-15.20.18:903][210]Cmd: EDIT COPY
+[2023.04.23-15.20.19:141][223]Cmd: EDIT PASTE
+[2023.04.23-15.20.28:208][  4]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Mountain_Dig_Barrier2)
+[2023.04.23-15.20.30:314][186]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2023.04.23-15.20.30:640][209]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2023.04.23-15.20.37:070][939]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Viking_House_A2)
+[2023.04.23-15.20.37:716][  8]Cmd: EDIT COPY
+[2023.04.23-15.20.38:252][ 72]Cmd: EDIT PASTE
+[2023.04.23-15.20.52:409][417]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Mountain_Dig_Barrier3)
+[2023.04.23-15.20.55:433][663]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2023.04.23-15.20.58:303][957]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Viking_House_A)
+[2023.04.23-15.20.58:825][ 10]Cmd: EDIT COPY
+[2023.04.23-15.20.59:112][ 40]Cmd: EDIT PASTE
+[2023.04.23-15.21.13:067][421]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Mountain_Dig_Barrier7)
+[2023.04.23-15.21.16:334][798]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Mountain_Dig_Barrier5)
+[2023.04.23-15.21.17:044][868]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Mountain_Dig_Barrier6)
+[2023.04.23-15.21.18:527][ 36]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Mountain_Dig_Barrier5)
+[2023.04.23-15.21.20:517][271]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2023.04.23-15.21.25:102][791]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2023.04.23-15.21.25:226][791]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Saved/SecondLevel962B11A64602234944C737BA0BEC297C.tmp' to '../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Content/Blueprints_Maps/Maps/SecondLevel.umap'
+[2023.04.23-15.21.25:570][791]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Saved/SecondLevel_BuiltData2D0740244FB674B879122A84CEA348A5.tmp' to '../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Content/Blueprints_Maps/Maps/SecondLevel_BuiltData.uasset'
+[2023.04.23-15.21.25:589][791]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.23-15.21.25:589][791]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Blueprints_Maps/Maps/SecondLevel_BuiltData.SecondLevel_BuiltData
+[2023.04.23-15.21.25:590][791]LogContentValidation: Display: Validating World /Game/Blueprints_Maps/Maps/SecondLevel.SecondLevel
