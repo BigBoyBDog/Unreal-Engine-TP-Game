@@ -4254,3 +4254,9 @@ Please see Output Log for details.
 [2023.04.23-15.23.06:764][253]AssetCheck: New page: Asset Save: multiple assets
 [2023.04.23-15.23.06:764][253]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Blueprints_Maps/Maps/SecondLevel_BuiltData.SecondLevel_BuiltData
 [2023.04.23-15.23.06:764][253]LogContentValidation: Display: Validating World /Game/Blueprints_Maps/Maps/SecondLevel.SecondLevel
+[2023.04.23-15.25.34:741][ 73]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2023.04.23-15.25.34:866][ 73]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Saved/SecondLevel30A9B9EE401BE6695FB4A68BE81D20C1.tmp' to '../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Content/Blueprints_Maps/Maps/SecondLevel.umap'
+[2023.04.23-15.25.35:205][ 73]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Saved/SecondLevel_BuiltDataFB16048B42D797CAA8C48E94F25E311C.tmp' to '../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Content/Blueprints_Maps/Maps/SecondLevel_BuiltData.uasset'
+[2023.04.23-15.25.35:225][ 73]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.23-15.25.35:225][ 73]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Blueprints_Maps/Maps/SecondLevel_BuiltData.SecondLevel_BuiltData
+[2023.04.23-15.25.35:225][ 73]LogContentValidation: Display: Validating World /Game/Blueprints_Maps/Maps/SecondLevel.SecondLevel
