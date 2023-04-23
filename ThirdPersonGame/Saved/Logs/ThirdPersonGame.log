@@ -6513,3 +6513,231 @@ Make sure 'HealthPickup_BP_C' has been compiled for  Get CollectionMesh
 [2023.04.23-16.04.41:031][700]AssetCheck: New page: Asset Save: multiple assets
 [2023.04.23-16.04.41:031][700]LogContentValidation: Display: Validating World /Game/Blueprints_Maps/Maps/ThirdLevel.ThirdLevel
 [2023.04.23-16.04.41:031][700]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Blueprints_Maps/Maps/ThirdLevel_BuiltData.ThirdLevel_BuiltData
+[2023.04.23-16.05.00:553][ 83]LogTemp: Repeating last play command: Selected Viewport
+[2023.04.23-16.05.00:562][ 83]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.23-16.05.00:562][ 83]PIE: New page: PIE session: ThirdLevel (23 Apr 2023, 18:05:00)
+[2023.04.23-16.05.00:562][ 83]LogPlayLevel: Creating play world package: /Game/Blueprints_Maps/Maps/UEDPIE_0_ThirdLevel
+[2023.04.23-16.05.00:585][ 83]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023072s)
+[2023.04.23-16.05.00:586][ 83]LogAIModule: Creating AISystem for world ThirdLevel
+[2023.04.23-16.05.00:586][ 83]LogPlayLevel: PIE: World Init took: (0.000849s)
+[2023.04.23-16.05.00:586][ 83]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Blueprints_Maps/Maps/ThirdLevel.ThirdLevel to /Game/Blueprints_Maps/Maps/UEDPIE_0_ThirdLevel.ThirdLevel (0.024068s)
+[2023.04.23-16.05.00:614][ 83]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2023.04.23-16.05.00:617][ 83]LogAudio: Display: Creating Audio Device:                 Id: 36, Scope: Unique, Realtime: True
+[2023.04.23-16.05.00:617][ 83]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.23-16.05.00:617][ 83]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.23-16.05.00:617][ 83]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.23-16.05.00:617][ 83]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.23-16.05.00:617][ 83]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.23-16.05.00:617][ 83]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.23-16.05.00:617][ 83]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.23-16.05.00:617][ 83]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.23-16.05.00:617][ 83]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.23-16.05.00:617][ 83]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.23-16.05.00:617][ 83]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.23-16.05.00:617][ 83]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.23-16.05.00:619][ 83]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.23-16.05.00:619][ 83]LogAudioMixer: Display: 1: FrontRight
+[2023.04.23-16.05.00:625][ 83]LogAudioMixer: Display: Using Audio Device Speakers ([AV] Samsung Soundbar T400 T-Series   Stereo)
+[2023.04.23-16.05.00:625][ 83]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.23-16.05.00:625][ 83]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.23-16.05.00:625][ 83]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.23-16.05.00:626][ 83]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.23-16.05.00:626][ 83]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.23-16.05.00:626][ 83]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.04.23-16.05.00:627][ 83]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.23-16.05.00:627][ 83]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.23-16.05.00:627][ 83]LogInit: FAudioDevice initialized.
+[2023.04.23-16.05.00:627][ 83]LogAudio: Display: Audio Device (ID: 36) registered with world 'ThirdLevel'.
+[2023.04.23-16.05.00:636][ 83]LogLoad: Game class is 'GameModeBase'
+[2023.04.23-16.05.00:639][ 83]LogWorld: Bringing World /Game/Blueprints_Maps/Maps/UEDPIE_0_ThirdLevel.ThirdLevel up for play (max tick rate 0) at 2023.04.23-17.05.00
+[2023.04.23-16.05.00:640][ 83]LogWorld: Bringing up level for play took: 0.003895
+[2023.04.23-16.05.00:640][ 83]LogOnline: OSS: Creating online subsystem instance for: :Context_76
+[2023.04.23-16.05.00:643][ 83]PIE: Server logged in
+[2023.04.23-16.05.00:643][ 83]PIE: Play in editor total start time 0.085 seconds.
+[2023.04.23-16.05.02:913][339]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1
+[2023.04.23-16.05.03:512][411]LogBlueprintUserMessages: [Enemy_2] 45.0
+[2023.04.23-16.05.22:118][568]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 90.0
+[2023.04.23-16.05.22:536][613]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.23-16.05.22:536][613]LogWorld: BeginTearingDown for /Game/Blueprints_Maps/Maps/UEDPIE_0_ThirdLevel
+[2023.04.23-16.05.22:537][613]LogWorld: UWorld::CleanupWorld for ThirdLevel, bSessionEnded=true, bCleanupResources=true
+[2023.04.23-16.05.22:538][613]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.23-16.05.22:545][613]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.23-16.05.22:556][613]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.23-16.05.22:579][613]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.23-16.05.22:579][613]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.23-16.05.22:580][613]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.23-16.05.22:582][613]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.23-16.05.22:587][613]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2023.04.23-16.05.22:623][614]LogPlayLevel: Display: Destroying online subsystem :Context_76
+[2023.04.23-16.05.25:765][821]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2023.04.23-16.05.49:454][385]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Fire_Jagged_Rock_4)
+[2023.04.23-16.05.50:089][415]Cmd: EDIT COPY
+[2023.04.23-16.05.50:344][430]Cmd: EDIT PASTE
+[2023.04.23-16.05.55:400][700]MapCheck: New page: Map Check
+[2023.04.23-16.05.55:443][700]Cmd: MAP REBUILD ALLVISIBLE
+[2023.04.23-16.05.55:443][700]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2023.04.23-16.05.55:545][700]LogWorld: UWorld::CleanupWorld for ThirdLevel, bSessionEnded=true, bCleanupResources=false
+[2023.04.23-16.05.55:609][700]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2023.04.23-16.05.55:609][700]LogNavigationDataBuild: Display:    Building navigation data using PHYSICS_INTERFACE_PHYSX.
+[2023.04.23-16.05.55:609][700]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2023.04.23-16.05.55:610][700]LogNavigationDataBuild: Display:    Building NavData:  Name Default class /Script/NavigationSystem.RecastNavMesh agent radius 35.0.
+[2023.04.23-16.05.55:630][700]LogNavigationDataBuild: Display: UNavigationSystemV1::Build total execution time: 0.02s
+[2023.04.23-16.05.55:670][700]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2023.04.23-16.05.55:775][700]LogLevel: Display: Export Material TexCoord Scales took 0.100 seconds.
+[2023.04.23-16.05.55:784][700]TextureStreamingBuild: Display: Build Texture Streaming took 0.009 seconds.
+[2023.04.23-16.05.55:809][700]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2023.04.23-16.05.55:810][700]LightingResults: New page: Lighting Build - 23 Apr 2023, 18:05:55
+[2023.04.23-16.05.55:814][700]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2023.04.23-16.05.55:817][700]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2023.04.23-16.05.55:817][700]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2023.04.23-16.05.55:818][700]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2023.04.23-16.05.55:818][700]LogSwarmInterface: [TryOpenConnection] Local Process ID is 26248
+[2023.04.23-16.06.00:384][700]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2023.04.23-16.06.00:385][700]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2023.04.23-16.06.00:385][700]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2023.04.23-16.06.00:385][700]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2023.04.23-16.06.00:385][700]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2023.04.23-16.06.00:385][700]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2023.04.23-16.06.00:466][700]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2023.04.23-16.06.00:466][700]MapCheck: New page: ThirdLevel - 23 Apr 2023, 18:06:00
+[2023.04.23-16.06.00:467][700]MapCheck: Error: WorldInfo_0 Maps need lighting rebuilt 
+[2023.04.23-16.06.00:467][700]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 0.752ms to complete.
+[2023.04.23-16.06.00:469][700]LogEditorBuildUtils: Build time 0:05
+[2023.04.23-16.06.00:534][700]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_42 in PCD3D_SM5, Default, SM5 (DDC key hash: E68B363FA5B95FE48899A46B427ACF7649F39F13), compiling. 
+[2023.04.23-16.06.00:537][700]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2023.04.23-16.06.00:538][700]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_42 in PCD3D_SM5, Default, SM5 (DDC key hash: 23189179E02A05C16D7E408D2A31D1A292929C20), compiling. 
+[2023.04.23-16.06.00:540][700]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2023.04.23-16.06.00:540][700]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2023.04.23-16.06.00:540][700]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2023.04.23-16.06.00:540][700]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2023.04.23-16.06.00:546][700]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 2
+[2023.04.23-16.06.00:546][700]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 1
+[2023.04.23-16.06.00:546][700]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2023.04.23-16.06.00:611][701]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_38 in PCD3D_SM5, Default, SM5 (DDC key hash: 81E235C78D6C7EE44657544AF98175F7BA7B2554), compiling. 
+[2023.04.23-16.06.00:614][701]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2023.04.23-16.06.00:615][701]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 2
+[2023.04.23-16.06.00:615][701]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 1
+[2023.04.23-16.06.00:615][701]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2023.04.23-16.06.00:615][701]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_38 in PCD3D_SM5, Default, SM5 (DDC key hash: 1C1402A9E67E9D0A3EAA5F453BD28F6A60C547AD), compiling. 
+[2023.04.23-16.06.00:622][701]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.04.23-16.06.00:622][701]LogShaderCompilers: Display: Total job queries 1769, among them cache hits 660 (37.31%)
+[2023.04.23-16.06.00:622][701]LogShaderCompilers: Display: Tracking 1052 distinct input hashes that result in 508 distinct outputs (48.29%)
+[2023.04.23-16.06.00:622][701]LogShaderCompilers: Display: RAM used: 3.10 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.38%
+[2023.04.23-16.06.00:622][701]LogShaderCompilers: Display: ================================================
+[2023.04.23-16.06.00:786][702]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer M_Fire_Gass_Patch in PCD3D_SM5, Default, SM5 (DDC key hash: 8370E0C861B4A85493251ADA3F2557A7B04D4B24), compiling. 
+[2023.04.23-16.06.00:788][702]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2023.04.23-16.06.00:790][702]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 2
+[2023.04.23-16.06.00:790][702]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 1
+[2023.04.23-16.06.00:790][702]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2023.04.23-16.06.00:790][702]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer M_Fire_Gass_Patch in PCD3D_SM5, Default, SM5 (DDC key hash: DD215030A456046661A5C2E954B816EDC1289029), compiling. 
+[2023.04.23-16.06.00:793][702]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2023.04.23-16.06.00:794][702]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer M_Fire_Gass_Patch in PCD3D_SM5, Default, SM5 (DDC key hash: 610CC887BAABE633AEADA2BD7E059074947745F3), compiling. 
+[2023.04.23-16.06.00:797][702]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2023.04.23-16.06.00:798][702]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 4
+[2023.04.23-16.06.00:798][702]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 3
+[2023.04.23-16.06.00:798][702]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 2
+[2023.04.23-16.06.00:798][702]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 1
+[2023.04.23-16.06.00:798][702]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Low' priority
+[2023.04.23-16.06.00:884][703]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer M_Fire_Cliffs_TilingStone_01_inst in PCD3D_SM5, Default, SM5 (DDC key hash: C938418152D7CE62EC93B49D47E47B750824644C), compiling. 
+[2023.04.23-16.06.00:892][703]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2023.04.23-16.06.00:894][703]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2023.04.23-16.06.00:894][703]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 1
+[2023.04.23-16.06.00:894][703]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2023.04.23-16.06.00:894][703]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer M_Fire_Cliffs_TilingStone_01_inst in PCD3D_SM5, Default, SM5 (DDC key hash: 1B538A838D1F6DCED47907FC192343AE58F3577E), compiling. 
+[2023.04.23-16.06.00:897][703]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2023.04.23-16.06.00:936][703]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 2
+[2023.04.23-16.06.00:936][703]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2023.04.23-16.06.00:936][703]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2023.04.23-16.06.00:936][703]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2023.04.23-16.06.01:971][723]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2023.04.23-16.06.03:882][793]LightingResults: Warning: SM_FlameDungeon_ArchWall02 Object has overlapping UVs.
+[2023.04.23-16.06.03:882][793]LightingResults: SM_FlameDungeon_ArchWall02 Lightmap UV are overlapping by 37.6%. Please adjust content - Enable Error Coloring to visualize.
+[2023.04.23-16.06.04:610][817]LightingResults: Warning: SM_Exo_Decos_Set01_Facade02 Object has wrapping UVs.
+[2023.04.23-16.06.04:744][821]LogSlate: Window 'Message Log' being destroyed
+[2023.04.23-16.06.04:779][821]LogSlate: Window 'Message Log' being destroyed
+[2023.04.23-16.06.06:013][861]LightingResults: Warning: SM_FlameDungeon_ArchWall02 Object has overlapping UVs.
+[2023.04.23-16.06.06:013][861]LightingResults: SM_FlameDungeon_ArchWall02 Lightmap UV are overlapping by 37.6%. Please adjust content - Enable Error Coloring to visualize.
+[2023.04.23-16.06.06:415][874]LightingResults: Warning: SM_FlameDungeon_ArchWall02 Object has overlapping UVs.
+[2023.04.23-16.06.06:415][874]LightingResults: SM_FlameDungeon_ArchWall02 Lightmap UV are overlapping by 37.6%. Please adjust content - Enable Error Coloring to visualize.
+[2023.04.23-16.06.07:108][904]Job is a success!
+[2023.04.23-16.06.07:265][905]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.054s
+[2023.04.23-16.06.07:265][905]LogVolumetricLightmapImport:      Indirection Texture 32x32x16 = 0.1Mb
+[2023.04.23-16.06.07:265][905]LogVolumetricLightmapImport:      BrickData (all levels) 2.5Mb (trimmed 0.3Mb due to 0.010000 MinBrickError)
+[2023.04.23-16.06.07:265][905]LogVolumetricLightmapImport:      Bricks at depth
+[2023.04.23-16.06.07:265][905]LogVolumetricLightmapImport:          0: 1.2% covering 100.0% of volume
+[2023.04.23-16.06.07:265][905]LogVolumetricLightmapImport:          1: 8.8% covering 11.7% of volume
+[2023.04.23-16.06.07:265][905]LogVolumetricLightmapImport:          2: 90.0% covering 1.9% of volume
+[2023.04.23-16.06.07:265][905]LogVolumetricLightmapImport:      Bricks in each level
+[2023.04.23-16.06.07:265][905]LogVolumetricLightmapImport:          ThirdLevel 			 341 bricks 	 100.0% (Persistent Level)
+[2023.04.23-16.06.07:654][905]LogTexture: Display: Building textures: SkyOcclusion1_1 (OODLE_AutoDXT, 1024X512)
+[2023.04.23-16.06.07:655][905]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.04.23-16.06.07:655][905]LogTexture: Display: Building textures: HQ_Lightmap1_1 (OODLE_AutoDXT, 1024X1024)
+[2023.04.23-16.06.07:655][905]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.04.23-16.06.07:655][905]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (OODLE_DXT1, 1024X1024)
+[2023.04.23-16.06.07:655][905]LogTexture: Display: Building textures: SkyOcclusion1_2 (OODLE_AutoDXT, 1024X512)
+[2023.04.23-16.06.07:655][905]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.04.23-16.06.07:655][905]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.04.23-16.06.07:655][905]LogTexture: Display: Building textures: HQ_Lightmap0_3 (OODLE_AutoDXT, 512X512)
+[2023.04.23-16.06.07:655][905]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (OODLE_DXT1, 512X512)
+[2023.04.23-16.06.07:655][905]LogTexture: Display: Building textures: HQ_Lightmap1_2 (OODLE_AutoDXT, 1024X1024)
+[2023.04.23-16.06.07:655][905]LogTexture: Display: Building textures: SkyOcclusion0_3 (OODLE_AutoDXT, 512X256)
+[2023.04.23-16.06.07:655][905]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (OODLE_DXT1, 1024X1024)
+[2023.04.23-16.06.07:655][905]LogTexture: Display: Building textures: SkyOcclusion0_4 (OODLE_AutoDXT, 64X32)
+[2023.04.23-16.06.07:655][905]LogTexture: Display: Building textures: HQ_Lightmap0_4 (OODLE_AutoDXT, 64X64)
+[2023.04.23-16.06.07:655][905]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (OODLE_DXT1, 64X64)
+[2023.04.23-16.06.07:655][905]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.04.23-16.06.07:655][905]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.04.23-16.06.07:804][905]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (G8, 32X32)
+[2023.04.23-16.06.07:804][905]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (BGRA8, 1024X256)
+[2023.04.23-16.06.07:804][905]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (BGRA8, 1024X1024)
+[2023.04.23-16.06.07:804][905]Lightmass on DESKTOP-I13HMQJ: 5.55 sec total, 209 ms importing, 178 ms setup, 918 ms photons, 4.20 sec processing, 0 ms extra exporting [489/489 mappings]. Threads: 1:03 min total, 35.8 sec processing.
+[2023.04.23-16.06.07:814][905]LogStaticLightingSystem: ThirdLevel_BuiltData storing lightmap data for 189 meshes in 7 LightmapResourceClusters (27.0 Meshes per cluster).
+[2023.04.23-16.06.07:850][905]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2023.04.23-16.06.07:865][905]LogStaticLightingSystem: Illumination: 12.0 sec (225 ms encoding lightmaps, 108 ms encoding shadowmaps)
+[2023.04.23-16.06.07:865][905]LogStaticLightingSystem: Lightmap texture memory:  6.0 MB (6.0 MB streaming, 0.0 MB non-streaming), 8 textures
+[2023.04.23-16.06.07:865][905]LogStaticLightingSystem: Shadowmap texture memory: 6.7 MB (6.7 MB streaming, 0.0 MB non-streaming), 3 textures
+[2023.04.23-16.06.08:393][905]DumpUnbuiltLightIteractions
+[2023.04.23-16.06.08:393][905]Lights with unbuilt interactions: 0
+[2023.04.23-16.06.08:393][905]
+[2023.04.23-16.06.08:393][905]Primitives with unbuilt interactions: 0
+[2023.04.23-16.06.08:440][906]Cmd: MAP CHECK NOTIFYRESULTS
+[2023.04.23-16.06.08:440][906]MapCheck: New page: ThirdLevel - 23 Apr 2023, 18:06:08
+[2023.04.23-16.06.08:440][906]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.612ms to complete.
+[2023.04.23-16.06.09:627][ 41]LogSlate: Window 'Message Log' being destroyed
+[2023.04.23-16.06.09:630][ 41]LogSlate: Window 'Message Log' being destroyed
+[2023.04.23-16.06.25:161][791]Cmd: EDIT COPY
+[2023.04.23-16.06.25:417][816]Cmd: EDIT PASTE
+[2023.04.23-16.06.33:753][734]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2023.04.23-16.06.36:693][ 74]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Fire_Jagged_Rock_13)
+[2023.04.23-16.06.37:614][166]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Env_Fire_Jagged_Rock_12)
+[2023.04.23-16.06.38:200][233]Cmd: EDIT COPY
+[2023.04.23-16.06.38:437][261]Cmd: EDIT PASTE
+[2023.04.23-16.06.41:824][614]Cmd: EDIT PASTE
+[2023.04.23-16.06.45:494][984]Cmd: EDIT PASTE
+[2023.04.23-16.06.52:092][693]Cmd: EDIT PASTE
+[2023.04.23-16.06.52:700][746]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Fire_Jagged_Rock_19)
+[2023.04.23-16.06.54:411][917]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Fire_Jagged_Rock_21)
+[2023.04.23-16.06.56:740][150]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Fire_Jagged_Rock_20)
+[2023.04.23-16.07.02:280][722]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Fire_Jagged_Rock_5)
+[2023.04.23-16.07.02:834][785]Cmd: EDIT COPY
+[2023.04.23-16.07.03:122][819]Cmd: EDIT PASTE
+[2023.04.23-16.07.18:189][363]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Env_Fire_Jagged_Rock_20)
+[2023.04.23-16.07.19:142][458]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Env_Fire_Jagged_Rock_21)
+[2023.04.23-16.07.19:771][530]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Env_Fire_Jagged_Rock_22)
+[2023.04.23-16.07.20:919][663]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Env_Fire_Jagged_Rock_17)
+[2023.04.23-16.07.21:379][715]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Env_Fire_Jagged_Rock_19)
+[2023.04.23-16.07.21:872][771]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Env_Fire_Jagged_Rock_18)
+[2023.04.23-16.07.22:541][848]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Env_Fire_Jagged_Rock_16)
+[2023.04.23-16.07.22:870][884]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Env_Fire_Jagged_Rock_15)
+[2023.04.23-16.07.23:315][934]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Env_Fire_Jagged_Rock_14)
+[2023.04.23-16.07.23:667][973]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Env_Fire_Jagged_Rock_13)
+[2023.04.23-16.07.24:037][ 14]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Env_Fire_Jagged_Rock_12)
+[2023.04.23-16.07.24:691][ 89]Cmd: EDIT COPY
+[2023.04.23-16.07.24:965][121]Cmd: EDIT PASTE
+[2023.04.23-16.07.28:360][476]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2023.04.23-16.07.34:614][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2023.04.23-16.07.34:756][ 11]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Saved/ThirdLevel15624FDE430CF73B9F131B931A1E75EB.tmp' to '../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Content/Blueprints_Maps/Maps/ThirdLevel.umap'
+[2023.04.23-16.07.34:909][ 11]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Saved/ThirdLevel_BuiltDataCED55642432F3DEB1EB1419F9825E221.tmp' to '../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Content/Blueprints_Maps/Maps/ThirdLevel_BuiltData.uasset'
+[2023.04.23-16.07.34:928][ 11]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.23-16.07.34:928][ 11]LogContentValidation: Display: Validating World /Game/Blueprints_Maps/Maps/ThirdLevel.ThirdLevel
+[2023.04.23-16.07.34:928][ 11]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Blueprints_Maps/Maps/ThirdLevel_BuiltData.ThirdLevel_BuiltData
