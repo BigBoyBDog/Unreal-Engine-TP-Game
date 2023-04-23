@@ -4260,3 +4260,66 @@ Please see Output Log for details.
 [2023.04.23-15.25.35:225][ 73]AssetCheck: New page: Asset Save: multiple assets
 [2023.04.23-15.25.35:225][ 73]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Blueprints_Maps/Maps/SecondLevel_BuiltData.SecondLevel_BuiltData
 [2023.04.23-15.25.35:225][ 73]LogContentValidation: Display: Validating World /Game/Blueprints_Maps/Maps/SecondLevel.SecondLevel
+[2023.04.23-15.26.10:893][845]LogActorComponent: UnregisterComponent: (/Engine/Transient.SphereBrushComponent) Not registered. Aborting.
+[2023.04.23-15.26.18:476][735]LogTemp: Repeating last play command: Selected Viewport
+[2023.04.23-15.26.18:483][735]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.23-15.26.18:483][735]PIE: New page: PIE session: SecondLevel (23 Apr 2023, 17:26:18)
+[2023.04.23-15.26.18:523][735]LogPlayLevel: Creating play world package: /Game/Blueprints_Maps/Maps/UEDPIE_0_SecondLevel
+[2023.04.23-15.26.18:551][735]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028345s)
+[2023.04.23-15.26.18:552][735]LogAIModule: Creating AISystem for world SecondLevel
+[2023.04.23-15.26.18:553][735]LogPlayLevel: PIE: World Init took: (0.001174s)
+[2023.04.23-15.26.18:553][735]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Blueprints_Maps/Maps/SecondLevel.SecondLevel to /Game/Blueprints_Maps/Maps/UEDPIE_0_SecondLevel.SecondLevel (0.029709s)
+[2023.04.23-15.26.18:580][735]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2023.04.23-15.26.18:582][735]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2023.04.23-15.26.18:582][735]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.23-15.26.18:582][735]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.23-15.26.18:582][735]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.23-15.26.18:582][735]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.23-15.26.18:582][735]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.23-15.26.18:582][735]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.23-15.26.18:582][735]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.23-15.26.18:582][735]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.23-15.26.18:582][735]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.23-15.26.18:582][735]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.23-15.26.18:582][735]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.23-15.26.18:582][735]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.23-15.26.18:585][735]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.23-15.26.18:585][735]LogAudioMixer: Display: 1: FrontRight
+[2023.04.23-15.26.18:592][735]LogAudioMixer: Display: Using Audio Device Speakers ([AV] Samsung Soundbar T400 T-Series   Stereo)
+[2023.04.23-15.26.18:592][735]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.23-15.26.18:592][735]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.23-15.26.18:592][735]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.23-15.26.18:593][735]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.23-15.26.18:593][735]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.23-15.26.18:593][735]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.04.23-15.26.18:594][735]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.23-15.26.18:594][735]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.23-15.26.18:594][735]LogInit: FAudioDevice initialized.
+[2023.04.23-15.26.18:594][735]LogAudio: Display: Audio Device (ID: 24) registered with world 'SecondLevel'.
+[2023.04.23-15.26.18:601][735]LogLoad: Game class is 'GameModeBase'
+[2023.04.23-15.26.18:605][735]LogWorld: Bringing World /Game/Blueprints_Maps/Maps/UEDPIE_0_SecondLevel.SecondLevel up for play (max tick rate 0) at 2023.04.23-16.26.18
+[2023.04.23-15.26.18:605][735]LogWorld: Bringing up level for play took: 0.003698
+[2023.04.23-15.26.18:606][735]LogOnline: OSS: Creating online subsystem instance for: :Context_57
+[2023.04.23-15.26.18:608][735]PIE: Server logged in
+[2023.04.23-15.26.18:609][735]PIE: Play in editor total start time 0.128 seconds.
+[2023.04.23-15.26.19:378][824]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0
+[2023.04.23-15.26.19:946][892]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0
+[2023.04.23-15.26.20:154][917]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0
+[2023.04.23-15.26.20:716][979]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.23-15.26.20:716][979]LogWorld: BeginTearingDown for /Game/Blueprints_Maps/Maps/UEDPIE_0_SecondLevel
+[2023.04.23-15.26.20:717][979]LogWorld: UWorld::CleanupWorld for SecondLevel, bSessionEnded=true, bCleanupResources=true
+[2023.04.23-15.26.20:718][979]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.23-15.26.20:727][979]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.23-15.26.20:737][979]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.23-15.26.20:759][979]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.23-15.26.20:760][979]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.23-15.26.20:761][979]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.23-15.26.20:767][979]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2023.04.23-15.26.20:801][980]LogPlayLevel: Display: Destroying online subsystem :Context_57
+[2023.04.23-15.26.38:570][ 52]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2023.04.23-15.26.48:885][262]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2023.04.23-15.26.49:017][262]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Saved/SecondLevelA4C6986348B6C254A33B8D81DE850396.tmp' to '../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Content/Blueprints_Maps/Maps/SecondLevel.umap'
+[2023.04.23-15.26.49:386][262]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Saved/SecondLevel_BuiltData394BA47440314D67ABAEA7BBC4D4BF6E.tmp' to '../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Content/Blueprints_Maps/Maps/SecondLevel_BuiltData.uasset'
+[2023.04.23-15.26.49:403][262]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.23-15.26.49:403][262]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Blueprints_Maps/Maps/SecondLevel_BuiltData.SecondLevel_BuiltData
+[2023.04.23-15.26.49:403][262]LogContentValidation: Display: Validating World /Game/Blueprints_Maps/Maps/SecondLevel.SecondLevel
