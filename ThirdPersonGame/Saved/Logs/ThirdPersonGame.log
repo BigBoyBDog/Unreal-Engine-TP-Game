@@ -6741,3 +6741,195 @@ Make sure 'HealthPickup_BP_C' has been compiled for  Get CollectionMesh
 [2023.04.23-16.07.34:928][ 11]AssetCheck: New page: Asset Save: multiple assets
 [2023.04.23-16.07.34:928][ 11]LogContentValidation: Display: Validating World /Game/Blueprints_Maps/Maps/ThirdLevel.ThirdLevel
 [2023.04.23-16.07.34:928][ 11]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Blueprints_Maps/Maps/ThirdLevel_BuiltData.ThirdLevel_BuiltData
+[2023.04.23-16.08.13:908][548]LogTemp: Repeating last play command: Selected Viewport
+[2023.04.23-16.08.13:915][548]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.23-16.08.13:915][548]PIE: New page: PIE session: ThirdLevel (23 Apr 2023, 18:08:13)
+[2023.04.23-16.08.13:915][548]LogPlayLevel: Creating play world package: /Game/Blueprints_Maps/Maps/UEDPIE_0_ThirdLevel
+[2023.04.23-16.08.13:937][548]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022412s)
+[2023.04.23-16.08.13:938][548]LogAIModule: Creating AISystem for world ThirdLevel
+[2023.04.23-16.08.13:938][548]LogPlayLevel: PIE: World Init took: (0.000670s)
+[2023.04.23-16.08.13:938][548]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Blueprints_Maps/Maps/ThirdLevel.ThirdLevel to /Game/Blueprints_Maps/Maps/UEDPIE_0_ThirdLevel.ThirdLevel (0.023195s)
+[2023.04.23-16.08.13:964][548]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2023.04.23-16.08.13:967][548]LogAudio: Display: Creating Audio Device:                 Id: 37, Scope: Unique, Realtime: True
+[2023.04.23-16.08.13:967][548]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.23-16.08.13:967][548]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.23-16.08.13:967][548]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.23-16.08.13:967][548]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.23-16.08.13:967][548]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.23-16.08.13:967][548]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.23-16.08.13:967][548]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.23-16.08.13:967][548]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.23-16.08.13:968][548]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.23-16.08.13:968][548]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.23-16.08.13:968][548]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.23-16.08.13:968][548]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.23-16.08.13:970][548]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.23-16.08.13:970][548]LogAudioMixer: Display: 1: FrontRight
+[2023.04.23-16.08.13:978][548]LogAudioMixer: Display: Using Audio Device Speakers ([AV] Samsung Soundbar T400 T-Series   Stereo)
+[2023.04.23-16.08.13:978][548]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.23-16.08.13:978][548]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.23-16.08.13:978][548]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.23-16.08.13:978][548]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.23-16.08.13:978][548]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.23-16.08.13:978][548]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.04.23-16.08.13:979][548]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.23-16.08.13:979][548]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.23-16.08.13:979][548]LogInit: FAudioDevice initialized.
+[2023.04.23-16.08.13:979][548]LogAudio: Display: Audio Device (ID: 37) registered with world 'ThirdLevel'.
+[2023.04.23-16.08.13:989][548]LogLoad: Game class is 'GameModeBase'
+[2023.04.23-16.08.13:994][548]LogWorld: Bringing World /Game/Blueprints_Maps/Maps/UEDPIE_0_ThirdLevel.ThirdLevel up for play (max tick rate 0) at 2023.04.23-17.08.13
+[2023.04.23-16.08.13:994][548]LogWorld: Bringing up level for play took: 0.004258
+[2023.04.23-16.08.13:994][548]LogOnline: OSS: Creating online subsystem instance for: :Context_77
+[2023.04.23-16.08.13:997][548]PIE: Server logged in
+[2023.04.23-16.08.13:997][548]PIE: Play in editor total start time 0.086 seconds.
+[2023.04.23-16.08.16:847][886]LogBlueprintUserMessages: [Enemy_2] 45.0
+[2023.04.23-16.08.18:866][120]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.23-16.08.18:866][120]LogWorld: BeginTearingDown for /Game/Blueprints_Maps/Maps/UEDPIE_0_ThirdLevel
+[2023.04.23-16.08.18:866][120]LogWorld: UWorld::CleanupWorld for ThirdLevel, bSessionEnded=true, bCleanupResources=true
+[2023.04.23-16.08.18:867][120]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.23-16.08.18:873][120]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.23-16.08.18:883][120]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.23-16.08.18:906][120]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.23-16.08.18:907][120]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.23-16.08.18:908][120]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.23-16.08.18:910][120]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.23-16.08.18:915][120]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2023.04.23-16.08.18:949][121]LogPlayLevel: Display: Destroying online subsystem :Context_77
+[2023.04.23-16.08.20:194][260]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Fire_Jagged_Rock_6)
+[2023.04.23-16.08.25:682][797]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2023.04.23-16.08.55:351][890]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2023.04.23-16.08.55:492][890]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Saved/ThirdLevel2C1B2F1D4B5A64286708789778AE74AC.tmp' to '../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Content/Blueprints_Maps/Maps/ThirdLevel.umap'
+[2023.04.23-16.08.55:640][890]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Saved/ThirdLevel_BuiltData45E5E6DA49C8C761F61F568B83185185.tmp' to '../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Content/Blueprints_Maps/Maps/ThirdLevel_BuiltData.uasset'
+[2023.04.23-16.08.55:658][890]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.23-16.08.55:658][890]LogContentValidation: Display: Validating World /Game/Blueprints_Maps/Maps/ThirdLevel.ThirdLevel
+[2023.04.23-16.08.55:658][890]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Blueprints_Maps/Maps/ThirdLevel_BuiltData.ThirdLevel_BuiltData
+[2023.04.23-16.09.06:032][869]LogActorFactory: Actor Factory created SM_PotWtools2
+[2023.04.23-16.09.07:075][990]LogActorFactory: Actor Factory created SM_PotWtools2
+[2023.04.23-16.09.09:132][167]LogStaticMesh: Building static mesh SM_PotWtools1...
+[2023.04.23-16.09.09:269][167]LogStaticMesh: Built static mesh [0.14s] /Game/InfinityBladeFireLands/Environments/Fire/Env_Fire_deco/StaticMesh/SM_PotWtools1.SM_PotWtools1
+[2023.04.23-16.09.09:286][167]LogActorFactory: Actor Factory created SM_PotWtools1
+[2023.04.23-16.09.10:068][254]LogActorFactory: Actor Factory created SM_PotWtools1
+[2023.04.23-16.09.10:375][288]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2023.04.23-16.09.12:436][519]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_PotWtools2)
+[2023.04.23-16.09.13:056][573]Cmd: DELETE
+[2023.04.23-16.09.13:056][573]Cmd: ACTOR DELETE
+[2023.04.23-16.09.13:061][573]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.23-16.09.13:087][573]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2023.04.23-16.09.13:092][573]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2023.04.23-16.09.13:517][623]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_PotWtools1)
+[2023.04.23-16.09.13:644][635]Cmd: DELETE
+[2023.04.23-16.09.13:644][635]Cmd: ACTOR DELETE
+[2023.04.23-16.09.13:648][635]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.23-16.09.13:673][635]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2023.04.23-16.09.13:674][635]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2023.04.23-16.09.16:007][880]LogActorFactory: Actor Factory created SM_Skeleton3
+[2023.04.23-16.09.16:398][926]LogActorFactory: Actor Factory created SM_Skeleton3
+[2023.04.23-16.09.18:467][167]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2023.04.23-16.09.23:840][627]LogActorFactory: Actor Factory created SM_Skeletons
+[2023.04.23-16.09.25:575][832]LogActorFactory: Actor Factory created SM_Skeletons
+[2023.04.23-16.09.25:891][866]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2023.04.23-16.09.28:405][148]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Skeletons)
+[2023.04.23-16.09.28:852][187]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2023.04.23-16.09.36:696][975]LogEditorViewport: Clicking on Actor (LMB): InstancedFoliageActor (InstancedFoliageActor)
+[2023.04.23-16.09.38:055][126]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2023.04.23-16.09.40:001][334]LogTemp: Repeating last play command: Selected Viewport
+[2023.04.23-16.09.40:008][334]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.23-16.09.40:008][334]PIE: New page: PIE session: ThirdLevel (23 Apr 2023, 18:09:40)
+[2023.04.23-16.09.40:033][334]LogPlayLevel: Creating play world package: /Game/Blueprints_Maps/Maps/UEDPIE_0_ThirdLevel
+[2023.04.23-16.09.40:056][334]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023264s)
+[2023.04.23-16.09.40:057][334]LogAIModule: Creating AISystem for world ThirdLevel
+[2023.04.23-16.09.40:057][334]LogPlayLevel: PIE: World Init took: (0.000704s)
+[2023.04.23-16.09.40:057][334]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Blueprints_Maps/Maps/ThirdLevel.ThirdLevel to /Game/Blueprints_Maps/Maps/UEDPIE_0_ThirdLevel.ThirdLevel (0.024089s)
+[2023.04.23-16.09.40:084][334]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2023.04.23-16.09.40:090][334]LogAudio: Display: Creating Audio Device:                 Id: 38, Scope: Unique, Realtime: True
+[2023.04.23-16.09.40:090][334]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.23-16.09.40:090][334]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.23-16.09.40:090][334]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.23-16.09.40:090][334]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.23-16.09.40:090][334]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.23-16.09.40:090][334]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.23-16.09.40:090][334]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.23-16.09.40:090][334]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.23-16.09.40:090][334]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.23-16.09.40:090][334]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.23-16.09.40:090][334]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.23-16.09.40:090][334]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.23-16.09.40:093][334]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.23-16.09.40:093][334]LogAudioMixer: Display: 1: FrontRight
+[2023.04.23-16.09.40:100][334]LogAudioMixer: Display: Using Audio Device Speakers ([AV] Samsung Soundbar T400 T-Series   Stereo)
+[2023.04.23-16.09.40:100][334]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.23-16.09.40:100][334]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.23-16.09.40:100][334]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.23-16.09.40:100][334]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.23-16.09.40:100][334]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.23-16.09.40:100][334]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.04.23-16.09.40:101][334]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.23-16.09.40:101][334]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.23-16.09.40:101][334]LogInit: FAudioDevice initialized.
+[2023.04.23-16.09.40:101][334]LogAudio: Display: Audio Device (ID: 38) registered with world 'ThirdLevel'.
+[2023.04.23-16.09.40:109][334]LogLoad: Game class is 'GameModeBase'
+[2023.04.23-16.09.40:113][334]LogWorld: Bringing World /Game/Blueprints_Maps/Maps/UEDPIE_0_ThirdLevel.ThirdLevel up for play (max tick rate 0) at 2023.04.23-17.09.40
+[2023.04.23-16.09.40:114][334]LogWorld: Bringing up level for play took: 0.004457
+[2023.04.23-16.09.40:114][334]LogOnline: OSS: Creating online subsystem instance for: :Context_78
+[2023.04.23-16.09.40:117][334]PIE: Server logged in
+[2023.04.23-16.09.40:118][334]PIE: Play in editor total start time 0.112 seconds.
+[2023.04.23-16.09.42:247][586]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1
+[2023.04.23-16.09.42:972][673]LogBlueprintUserMessages: [Enemy_2] 45.0
+[2023.04.23-16.09.45:416][966]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 2
+[2023.04.23-16.09.45:417][966]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 3
+[2023.04.23-16.09.45:500][976]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 4
+[2023.04.23-16.09.45:809][ 13]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 5
+[2023.04.23-16.09.45:817][ 14]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 6
+[2023.04.23-16.09.47:725][243]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 125.0
+[2023.04.23-16.09.48:936][383]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.23-16.09.48:936][383]LogWorld: BeginTearingDown for /Game/Blueprints_Maps/Maps/UEDPIE_0_ThirdLevel
+[2023.04.23-16.09.48:937][383]LogWorld: UWorld::CleanupWorld for ThirdLevel, bSessionEnded=true, bCleanupResources=true
+[2023.04.23-16.09.48:938][383]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.23-16.09.48:947][383]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.23-16.09.48:957][383]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.23-16.09.48:980][383]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.23-16.09.48:981][383]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.23-16.09.48:982][383]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.23-16.09.48:984][383]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.23-16.09.48:990][383]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2023.04.23-16.09.49:024][384]LogPlayLevel: Display: Destroying online subsystem :Context_78
+[2023.04.23-16.09.54:091][972]LogEditorViewport: Clicking on Actor (LMB): HealthPickup_BP_C (HealthPickup_BP4)
+[2023.04.23-16.09.56:671][270]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2023.04.23-16.09.57:075][316]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2023.04.23-16.09.57:609][379]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Skeletons)
+[2023.04.23-16.10.09:179][580]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2023.04.23-16.10.10:882][769]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2023.04.23-16.10.11:366][820]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Skeletons)
+[2023.04.23-16.10.13:759][101]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2023.04.23-16.10.18:919][688]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Fire_DeadTree2)
+[2023.04.23-16.10.19:563][747]Cmd: EDIT COPY
+[2023.04.23-16.10.19:921][789]Cmd: EDIT PASTE
+[2023.04.23-16.10.27:613][452]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2023.04.23-16.10.29:686][624]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2023.04.23-16.10.29:828][624]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Saved/ThirdLevel4073AD1744E5F1B3CD587A940D5F7BD0.tmp' to '../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Content/Blueprints_Maps/Maps/ThirdLevel.umap'
+[2023.04.23-16.10.29:976][624]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Saved/ThirdLevel_BuiltData23F66F8B4DD742AFA29BD6A11FA92EBF.tmp' to '../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Content/Blueprints_Maps/Maps/ThirdLevel_BuiltData.uasset'
+[2023.04.23-16.10.29:994][624]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.23-16.10.29:994][624]LogContentValidation: Display: Validating World /Game/Blueprints_Maps/Maps/ThirdLevel.ThirdLevel
+[2023.04.23-16.10.29:994][624]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Blueprints_Maps/Maps/ThirdLevel_BuiltData.ThirdLevel_BuiltData
+[2023.04.23-16.10.38:644][576]LogEditorViewport: Clicking on Actor (LMB): CollectionPickup_BP_C (CollectionPickup_BP2)
+[2023.04.23-16.10.47:731][542]LogEditorViewport: Clicking on Actor (LMB): HealthPickup_BP_C (HealthPickup_BP)
+[2023.04.23-16.11.26:947][877]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2023.04.23-16.11.36:335][903]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2023.04.23-16.11.38:896][181]LogEditorViewport: Clicking on Actor (LMB): HealthPickup_BP_C (HealthPickup_BP3)
+[2023.04.23-16.11.42:126][532]LogEditorViewport: Clicking on Actor (LMB): Damage_BP_C (Damage_BP4)
+[2023.04.23-16.11.44:837][729]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2023.04.23-16.11.47:602][ 17]LogEditorViewport: Clicking on Actor (LMB): InstancedFoliageActor (InstancedFoliageActor)
+[2023.04.23-16.11.48:166][ 71]LogEditorViewport: Clicking on Actor (LMB): Damage_BP_C (Damage_BP6)
+[2023.04.23-16.11.53:267][542]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2023.04.23-16.11.58:095][ 59]LogEditorViewport: Clicking on Actor (LMB): HealthPickup_BP_C (HealthPickup_BP2)
+[2023.04.23-16.12.02:030][482]LogEditorViewport: Clicking on Actor (LMB): InstancedFoliageActor (InstancedFoliageActor)
+[2023.04.23-16.12.02:446][522]LogEditorViewport: Clicking on Actor (LMB): Damage_BP_C (Damage_BP5)
+[2023.04.23-16.12.04:427][690]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2023.04.23-16.12.05:022][731]LogEditorViewport: Clicking on Actor (LMB): Damage_BP_C (Damage_BP5)
+[2023.04.23-16.12.18:247][962]LogEditorViewport: Clicking on Actor (LMB): CollectionPickup_BP_C (CollectionPickup_BP2)
+[2023.04.23-16.12.29:639][290]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2023.04.23-16.12.29:784][290]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Saved/ThirdLevel531DBDA34613FC64EB69F78BCDB9DE3B.tmp' to '../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Content/Blueprints_Maps/Maps/ThirdLevel.umap'
+[2023.04.23-16.12.29:934][290]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Saved/ThirdLevel_BuiltDataFDE908CD402194BDC4CFC19B0EB7465A.tmp' to '../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Content/Blueprints_Maps/Maps/ThirdLevel_BuiltData.uasset'
+[2023.04.23-16.12.29:953][290]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.23-16.12.29:953][290]LogContentValidation: Display: Validating World /Game/Blueprints_Maps/Maps/ThirdLevel.ThirdLevel
+[2023.04.23-16.12.29:953][290]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Blueprints_Maps/Maps/ThirdLevel_BuiltData.ThirdLevel_BuiltData
