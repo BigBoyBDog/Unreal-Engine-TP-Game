@@ -10337,3 +10337,627 @@ Make sure 'HealthPickup_BP_C' has been compiled for  Get CollectionMesh
 [2023.04.23-17.09.23:324][475]AssetCheck: New page: Asset Save: multiple assets
 [2023.04.23-17.09.23:324][475]LogContentValidation: Display: Validating World /Game/Blueprints_Maps/Maps/StartMenuMap.StartMenuMap
 [2023.04.23-17.09.23:324][475]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Blueprints_Maps/Maps/StartMenuMap_BuiltData.StartMenuMap_BuiltData
+[2023.04.23-17.10.45:226][ 99]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\brand\Downloads\medieval-fantasy-142837.wav)
+[2023.04.23-17.10.53:006][534]LogContentBrowser: Deferred new asset file creation: medieval-fantasy-142837_Cue
+[2023.04.23-17.10.53:020][534]LogContentBrowser: Creating deferred item: medieval-fantasy-142837_Cue
+[2023.04.23-17.11.00:300][406]LogContentBrowser: Attempting asset rename: medieval-fantasy-142837_Cue -> BackgroundMenu
+[2023.04.23-17.11.00:302][406]LogContentBrowser: End creating deferred item medieval-fantasy-142837_Cue
+[2023.04.23-17.11.03:285][758]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave medieval-fantasy-142837...
+[2023.04.23-17.11.03:289][758]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Blueprints_Maps/Assets/medieval-fantasy-142837.medieval-fantasy-142837 will be modified from 40 to 40.
+[2023.04.23-17.11.04:961][758]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 29237760 while cooking SoundWave /Game/Blueprints_Maps/Assets/medieval-fantasy-142837.medieval-fantasy-142837.
+[2023.04.23-17.11.05:547][827]LogAssetEditorSubsystem: Opening Asset editor for SoundCue /Game/Blueprints_Maps/Assets/BackgroundMenu.BackgroundMenu
+[2023.04.23-17.11.26:274][283]LogSlate: Window 'BackgroundMenu' being destroyed
+[2023.04.23-17.11.26:280][283]LogSlate: Window 'BackgroundMenu' being destroyed
+[2023.04.23-17.11.26:285][283]LogWorld: UWorld::CleanupWorld for World_56, bSessionEnded=true, bCleanupResources=true
+[2023.04.23-17.11.26:285][283]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.23-17.11.26:390][283]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.04.23-17.11.26:390][283]LogWorld: UWorld::CleanupWorld for World_58, bSessionEnded=true, bCleanupResources=true
+[2023.04.23-17.11.26:390][283]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.23-17.11.26:477][283]LogWorld: UWorld::CleanupWorld for World_63, bSessionEnded=true, bCleanupResources=true
+[2023.04.23-17.11.26:477][283]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.23-17.11.26:482][283]LogWorld: UWorld::CleanupWorld for World_62, bSessionEnded=true, bCleanupResources=true
+[2023.04.23-17.11.26:482][283]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.23-17.11.26:561][283]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.04.23-17.11.26:561][283]LogWorld: UWorld::CleanupWorld for World_66, bSessionEnded=true, bCleanupResources=true
+[2023.04.23-17.11.26:561][283]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.23-17.11.26:638][283]LogWorld: UWorld::CleanupWorld for World_68, bSessionEnded=true, bCleanupResources=true
+[2023.04.23-17.11.26:638][283]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.23-17.11.26:643][283]LogWorld: UWorld::CleanupWorld for World_67, bSessionEnded=true, bCleanupResources=true
+[2023.04.23-17.11.26:643][283]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.23-17.11.26:696][283]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.04.23-17.11.26:696][283]LogWorld: UWorld::CleanupWorld for World_70, bSessionEnded=true, bCleanupResources=true
+[2023.04.23-17.11.26:696][283]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.23-17.11.26:739][283]LogWorld: UWorld::CleanupWorld for World_72, bSessionEnded=true, bCleanupResources=true
+[2023.04.23-17.11.26:739][283]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.23-17.11.26:744][283]LogWorld: UWorld::CleanupWorld for World_71, bSessionEnded=true, bCleanupResources=true
+[2023.04.23-17.11.26:744][283]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.23-17.11.26:778][283]LogWorld: UWorld::CleanupWorld for World_74, bSessionEnded=true, bCleanupResources=true
+[2023.04.23-17.11.26:778][283]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.23-17.11.26:808][283]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.04.23-17.11.26:808][283]LogWorld: UWorld::CleanupWorld for World_75, bSessionEnded=true, bCleanupResources=true
+[2023.04.23-17.11.26:808][283]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.23-17.11.45:487][ 83]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Blueprints_Maps/Maps/StartMenuMap.StartMenuMap:PersistentLevel.StartMenuMap
+[2023.04.23-17.12.14:421][ 59]BlueprintLog: New page: Compile StartMenuMap
+[2023.04.23-17.12.14:456][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2023.04.23-17.12.14:894][106]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2023.04.23-17.12.14:898][106]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Saved/StartMenuMap034E14A4413C27D2997066B6B2C73D83.tmp' to '../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Content/Blueprints_Maps/Maps/StartMenuMap.umap'
+[2023.04.23-17.12.14:903][106]LogFileHelpers: Saving map 'StartMenuMap' took 0.024
+[2023.04.23-17.12.14:914][106]AssetCheck: New page: Asset Save: StartMenuMap
+[2023.04.23-17.12.14:914][106]LogContentValidation: Display: Validating World /Game/Blueprints_Maps/Maps/StartMenuMap.StartMenuMap
+[2023.04.23-17.12.19:674][558]LogTemp: Repeating last play command: Selected Viewport
+[2023.04.23-17.12.19:680][558]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.23-17.12.19:680][558]PIE: New page: PIE session: StartMenuMap (23 Apr 2023, 19:12:19)
+[2023.04.23-17.12.19:680][558]LogPlayLevel: Creating play world package: /Game/Blueprints_Maps/Maps/UEDPIE_0_StartMenuMap
+[2023.04.23-17.12.19:681][558]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000770s)
+[2023.04.23-17.12.19:681][558]LogAIModule: Creating AISystem for world StartMenuMap
+[2023.04.23-17.12.19:682][558]LogPlayLevel: PIE: World Init took: (0.000646s)
+[2023.04.23-17.12.19:682][558]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Blueprints_Maps/Maps/StartMenuMap.StartMenuMap to /Game/Blueprints_Maps/Maps/UEDPIE_0_StartMenuMap.StartMenuMap (0.001498s)
+[2023.04.23-17.12.19:695][558]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2023.04.23-17.12.19:697][558]LogAudio: Display: Creating Audio Device:                 Id: 51, Scope: Unique, Realtime: True
+[2023.04.23-17.12.19:697][558]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.23-17.12.19:697][558]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.23-17.12.19:697][558]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.23-17.12.19:697][558]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.23-17.12.19:697][558]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.23-17.12.19:697][558]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.23-17.12.19:697][558]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.23-17.12.19:697][558]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.23-17.12.19:697][558]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.23-17.12.19:697][558]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.23-17.12.19:697][558]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.23-17.12.19:697][558]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.23-17.12.19:700][558]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.23-17.12.19:700][558]LogAudioMixer: Display: 1: FrontRight
+[2023.04.23-17.12.19:706][558]LogAudioMixer: Display: Using Audio Device Speakers ([AV] Samsung Soundbar T400 T-Series   Stereo)
+[2023.04.23-17.12.19:707][558]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.23-17.12.19:707][558]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.23-17.12.19:707][558]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.23-17.12.19:707][558]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.23-17.12.19:707][558]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.23-17.12.19:707][558]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.04.23-17.12.19:708][558]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.23-17.12.19:708][558]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.23-17.12.19:708][558]LogInit: FAudioDevice initialized.
+[2023.04.23-17.12.19:708][558]LogAudio: Display: Audio Device (ID: 51) registered with world 'StartMenuMap'.
+[2023.04.23-17.12.19:718][558]LogLoad: Game class is 'StartMenuGameMode_C'
+[2023.04.23-17.12.19:719][558]LogWorld: Bringing World /Game/Blueprints_Maps/Maps/UEDPIE_0_StartMenuMap.StartMenuMap up for play (max tick rate 0) at 2023.04.23-18.12.19
+[2023.04.23-17.12.19:719][558]LogWorld: Bringing up level for play took: 0.000205
+[2023.04.23-17.12.19:719][558]LogOnline: OSS: Creating online subsystem instance for: :Context_109
+[2023.04.23-17.12.19:721][558]PIE: Server logged in
+[2023.04.23-17.12.19:721][558]PIE: Play in editor total start time 0.044 seconds.
+[2023.04.23-17.12.19:723][558]LogAudio: Warning: Detected orphaned looping sound 'BackgroundMenu'.
+[2023.04.23-17.12.22:960][946]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.23-17.12.22:963][946]LogWorld: BeginTearingDown for /Game/Blueprints_Maps/Maps/UEDPIE_0_StartMenuMap
+[2023.04.23-17.12.22:993][946]LogWorld: UWorld::CleanupWorld for StartMenuMap, bSessionEnded=true, bCleanupResources=true
+[2023.04.23-17.12.22:993][946]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.23-17.12.23:000][946]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.23-17.12.23:003][946]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.23-17.12.23:015][946]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.23-17.12.23:015][946]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.23-17.12.23:016][946]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.23-17.12.23:021][946]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2023.04.23-17.12.23:062][948]LogPlayLevel: Display: Destroying online subsystem :Context_109
+[2023.04.23-17.12.28:868][581]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints_Maps/InterfaceWidgets/StartMenuWidget.StartMenuWidget
+[2023.04.23-17.12.38:862][219]LogTemp: Repeating last play command: Selected Viewport
+[2023.04.23-17.12.38:868][219]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.23-17.12.38:869][219]PIE: New page: PIE session: StartMenuMap (23 Apr 2023, 19:12:38)
+[2023.04.23-17.12.38:869][219]LogPlayLevel: Creating play world package: /Game/Blueprints_Maps/Maps/UEDPIE_0_StartMenuMap
+[2023.04.23-17.12.38:869][219]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000788s)
+[2023.04.23-17.12.38:870][219]LogAIModule: Creating AISystem for world StartMenuMap
+[2023.04.23-17.12.38:870][219]LogPlayLevel: PIE: World Init took: (0.000628s)
+[2023.04.23-17.12.38:870][219]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Blueprints_Maps/Maps/StartMenuMap.StartMenuMap to /Game/Blueprints_Maps/Maps/UEDPIE_0_StartMenuMap.StartMenuMap (0.001505s)
+[2023.04.23-17.12.38:886][219]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2023.04.23-17.12.38:889][219]LogAudio: Display: Creating Audio Device:                 Id: 52, Scope: Unique, Realtime: True
+[2023.04.23-17.12.38:889][219]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.23-17.12.38:889][219]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.23-17.12.38:889][219]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.23-17.12.38:890][219]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.23-17.12.38:890][219]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.23-17.12.38:890][219]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.23-17.12.38:890][219]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.23-17.12.38:890][219]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.23-17.12.38:890][219]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.23-17.12.38:890][219]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.23-17.12.38:890][219]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.23-17.12.38:890][219]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.23-17.12.38:893][219]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.23-17.12.38:893][219]LogAudioMixer: Display: 1: FrontRight
+[2023.04.23-17.12.38:899][219]LogAudioMixer: Display: Using Audio Device Speakers ([AV] Samsung Soundbar T400 T-Series   Stereo)
+[2023.04.23-17.12.38:899][219]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.23-17.12.38:899][219]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.23-17.12.38:899][219]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.23-17.12.38:899][219]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.23-17.12.38:899][219]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.23-17.12.38:899][219]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.04.23-17.12.38:900][219]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.23-17.12.38:900][219]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.23-17.12.38:900][219]LogInit: FAudioDevice initialized.
+[2023.04.23-17.12.38:900][219]LogAudio: Display: Audio Device (ID: 52) registered with world 'StartMenuMap'.
+[2023.04.23-17.12.38:906][219]LogLoad: Game class is 'StartMenuGameMode_C'
+[2023.04.23-17.12.38:906][219]LogWorld: Bringing World /Game/Blueprints_Maps/Maps/UEDPIE_0_StartMenuMap.StartMenuMap up for play (max tick rate 0) at 2023.04.23-18.12.38
+[2023.04.23-17.12.38:907][219]LogWorld: Bringing up level for play took: 0.000219
+[2023.04.23-17.12.38:907][219]LogOnline: OSS: Creating online subsystem instance for: :Context_112
+[2023.04.23-17.12.38:908][219]PIE: Server logged in
+[2023.04.23-17.12.38:909][219]PIE: Play in editor total start time 0.043 seconds.
+[2023.04.23-17.12.38:911][219]LogAudio: Warning: Detected orphaned looping sound 'BackgroundMenu'.
+[2023.04.23-17.12.46:026][795]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.23-17.12.46:026][795]LogWorld: BeginTearingDown for /Game/Blueprints_Maps/Maps/UEDPIE_0_StartMenuMap
+[2023.04.23-17.12.46:026][795]LogWorld: UWorld::CleanupWorld for StartMenuMap, bSessionEnded=true, bCleanupResources=true
+[2023.04.23-17.12.46:026][795]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.23-17.12.46:036][795]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.23-17.12.46:039][795]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.23-17.12.46:053][795]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.23-17.12.46:053][795]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.23-17.12.46:054][795]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.23-17.12.46:056][795]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.23-17.12.46:058][795]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2023.04.23-17.12.46:103][800]LogPlayLevel: Display: Destroying online subsystem :Context_112
+[2023.04.23-17.12.54:678][447]BlueprintLog: New page: Compile StartMenuWidget
+[2023.04.23-17.12.54:698][447]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2023.04.23-17.12.55:235][472]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Saved/StartMenuWidget54C5028D4905913E8335F6885F007CB2.tmp' to '../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Content/Blueprints_Maps/InterfaceWidgets/StartMenuWidget.uasset'
+[2023.04.23-17.12.55:251][472]AssetCheck: New page: Asset Save: StartMenuWidget
+[2023.04.23-17.12.55:251][472]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints_Maps/InterfaceWidgets/StartMenuWidget.StartMenuWidget
+[2023.04.23-17.12.56:840][602]LogTemp: Repeating last play command: Selected Viewport
+[2023.04.23-17.12.56:846][602]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.23-17.12.56:846][602]PIE: New page: PIE session: StartMenuMap (23 Apr 2023, 19:12:56)
+[2023.04.23-17.12.56:847][602]LogPlayLevel: Creating play world package: /Game/Blueprints_Maps/Maps/UEDPIE_0_StartMenuMap
+[2023.04.23-17.12.56:847][602]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000788s)
+[2023.04.23-17.12.56:848][602]LogAIModule: Creating AISystem for world StartMenuMap
+[2023.04.23-17.12.56:848][602]LogPlayLevel: PIE: World Init took: (0.000614s)
+[2023.04.23-17.12.56:848][602]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Blueprints_Maps/Maps/StartMenuMap.StartMenuMap to /Game/Blueprints_Maps/Maps/UEDPIE_0_StartMenuMap.StartMenuMap (0.001485s)
+[2023.04.23-17.12.56:865][602]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2023.04.23-17.12.56:866][602]LogAudio: Display: Creating Audio Device:                 Id: 53, Scope: Unique, Realtime: True
+[2023.04.23-17.12.56:866][602]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.23-17.12.56:866][602]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.23-17.12.56:866][602]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.23-17.12.56:866][602]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.23-17.12.56:866][602]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.23-17.12.56:866][602]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.23-17.12.56:866][602]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.23-17.12.56:866][602]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.23-17.12.56:866][602]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.23-17.12.56:866][602]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.23-17.12.56:866][602]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.23-17.12.56:866][602]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.23-17.12.56:868][602]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.23-17.12.56:868][602]LogAudioMixer: Display: 1: FrontRight
+[2023.04.23-17.12.56:874][602]LogAudioMixer: Display: Using Audio Device Speakers ([AV] Samsung Soundbar T400 T-Series   Stereo)
+[2023.04.23-17.12.56:874][602]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.23-17.12.56:874][602]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.23-17.12.56:874][602]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.23-17.12.56:875][602]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.23-17.12.56:875][602]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.23-17.12.56:875][602]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.04.23-17.12.56:876][602]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.23-17.12.56:876][602]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.23-17.12.56:876][602]LogInit: FAudioDevice initialized.
+[2023.04.23-17.12.56:876][602]LogAudio: Display: Audio Device (ID: 53) registered with world 'StartMenuMap'.
+[2023.04.23-17.12.56:882][602]LogLoad: Game class is 'StartMenuGameMode_C'
+[2023.04.23-17.12.56:883][602]LogWorld: Bringing World /Game/Blueprints_Maps/Maps/UEDPIE_0_StartMenuMap.StartMenuMap up for play (max tick rate 0) at 2023.04.23-18.12.56
+[2023.04.23-17.12.56:883][602]LogWorld: Bringing up level for play took: 0.000206
+[2023.04.23-17.12.56:883][602]LogOnline: OSS: Creating online subsystem instance for: :Context_113
+[2023.04.23-17.12.56:884][602]PIE: Server logged in
+[2023.04.23-17.12.56:885][602]PIE: Play in editor total start time 0.041 seconds.
+[2023.04.23-17.12.56:887][602]LogAudio: Warning: Detected orphaned looping sound 'BackgroundMenu'.
+[2023.04.23-17.12.59:396][870]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.23-17.12.59:396][870]LogWorld: BeginTearingDown for /Game/Blueprints_Maps/Maps/UEDPIE_0_StartMenuMap
+[2023.04.23-17.12.59:396][870]LogWorld: UWorld::CleanupWorld for StartMenuMap, bSessionEnded=true, bCleanupResources=true
+[2023.04.23-17.12.59:396][870]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.23-17.12.59:405][870]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.23-17.12.59:408][870]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.23-17.12.59:422][870]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.23-17.12.59:422][870]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.23-17.12.59:423][870]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.23-17.12.59:425][870]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.23-17.12.59:427][870]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2023.04.23-17.12.59:466][874]LogPlayLevel: Display: Destroying online subsystem :Context_113
+[2023.04.23-17.13.06:487][334]BlueprintLog: New page: Compile StartMenuWidget
+[2023.04.23-17.13.06:506][334]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2023.04.23-17.13.07:084][360]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Saved/StartMenuWidget595693D54DD212659FA184AB3F395415.tmp' to '../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Content/Blueprints_Maps/InterfaceWidgets/StartMenuWidget.uasset'
+[2023.04.23-17.13.07:101][360]AssetCheck: New page: Asset Save: StartMenuWidget
+[2023.04.23-17.13.07:101][360]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints_Maps/InterfaceWidgets/StartMenuWidget.StartMenuWidget
+[2023.04.23-17.13.08:723][496]LogTemp: Repeating last play command: Selected Viewport
+[2023.04.23-17.13.08:730][496]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.23-17.13.08:730][496]PIE: New page: PIE session: StartMenuMap (23 Apr 2023, 19:13:08)
+[2023.04.23-17.13.08:730][496]LogPlayLevel: Creating play world package: /Game/Blueprints_Maps/Maps/UEDPIE_0_StartMenuMap
+[2023.04.23-17.13.08:731][496]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000958s)
+[2023.04.23-17.13.08:732][496]LogAIModule: Creating AISystem for world StartMenuMap
+[2023.04.23-17.13.08:732][496]LogPlayLevel: PIE: World Init took: (0.000700s)
+[2023.04.23-17.13.08:732][496]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Blueprints_Maps/Maps/StartMenuMap.StartMenuMap to /Game/Blueprints_Maps/Maps/UEDPIE_0_StartMenuMap.StartMenuMap (0.001746s)
+[2023.04.23-17.13.08:750][496]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2023.04.23-17.13.08:751][496]LogAudio: Display: Creating Audio Device:                 Id: 54, Scope: Unique, Realtime: True
+[2023.04.23-17.13.08:751][496]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.23-17.13.08:751][496]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.23-17.13.08:751][496]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.23-17.13.08:751][496]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.23-17.13.08:751][496]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.23-17.13.08:751][496]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.23-17.13.08:751][496]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.23-17.13.08:751][496]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.23-17.13.08:751][496]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.23-17.13.08:751][496]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.23-17.13.08:751][496]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.23-17.13.08:751][496]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.23-17.13.08:754][496]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.23-17.13.08:754][496]LogAudioMixer: Display: 1: FrontRight
+[2023.04.23-17.13.08:759][496]LogAudioMixer: Display: Using Audio Device Speakers ([AV] Samsung Soundbar T400 T-Series   Stereo)
+[2023.04.23-17.13.08:760][496]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.23-17.13.08:760][496]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.23-17.13.08:760][496]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.23-17.13.08:760][496]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.23-17.13.08:760][496]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.23-17.13.08:760][496]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.04.23-17.13.08:761][496]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.23-17.13.08:761][496]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.23-17.13.08:761][496]LogInit: FAudioDevice initialized.
+[2023.04.23-17.13.08:761][496]LogAudio: Display: Audio Device (ID: 54) registered with world 'StartMenuMap'.
+[2023.04.23-17.13.08:768][496]LogLoad: Game class is 'StartMenuGameMode_C'
+[2023.04.23-17.13.08:768][496]LogWorld: Bringing World /Game/Blueprints_Maps/Maps/UEDPIE_0_StartMenuMap.StartMenuMap up for play (max tick rate 0) at 2023.04.23-18.13.08
+[2023.04.23-17.13.08:769][496]LogWorld: Bringing up level for play took: 0.000201
+[2023.04.23-17.13.08:769][496]LogOnline: OSS: Creating online subsystem instance for: :Context_114
+[2023.04.23-17.13.08:770][496]PIE: Server logged in
+[2023.04.23-17.13.08:771][496]PIE: Play in editor total start time 0.044 seconds.
+[2023.04.23-17.13.08:773][496]LogAudio: Warning: Detected orphaned looping sound 'BackgroundMenu'.
+[2023.04.23-17.13.10:746][697]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.23-17.13.10:746][697]LogWorld: BeginTearingDown for /Game/Blueprints_Maps/Maps/UEDPIE_0_StartMenuMap
+[2023.04.23-17.13.10:746][697]LogWorld: UWorld::CleanupWorld for StartMenuMap, bSessionEnded=true, bCleanupResources=true
+[2023.04.23-17.13.10:746][697]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.23-17.13.10:752][697]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.23-17.13.10:755][697]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.23-17.13.10:769][697]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.23-17.13.10:769][697]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.23-17.13.10:770][697]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.23-17.13.10:772][697]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.23-17.13.10:774][697]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2023.04.23-17.13.10:820][702]LogPlayLevel: Display: Destroying online subsystem :Context_114
+[2023.04.23-17.13.17:394][215]BlueprintLog: New page: Compile StartMenuWidget
+[2023.04.23-17.13.17:413][215]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2023.04.23-17.13.17:932][240]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Saved/StartMenuWidgetA2149F8741206C9311666B811592219E.tmp' to '../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Content/Blueprints_Maps/InterfaceWidgets/StartMenuWidget.uasset'
+[2023.04.23-17.13.17:947][240]AssetCheck: New page: Asset Save: StartMenuWidget
+[2023.04.23-17.13.17:947][240]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints_Maps/InterfaceWidgets/StartMenuWidget.StartMenuWidget
+[2023.04.23-17.13.19:396][364]LogTemp: Repeating last play command: Selected Viewport
+[2023.04.23-17.13.19:403][364]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.23-17.13.19:403][364]PIE: New page: PIE session: StartMenuMap (23 Apr 2023, 19:13:19)
+[2023.04.23-17.13.19:403][364]LogPlayLevel: Creating play world package: /Game/Blueprints_Maps/Maps/UEDPIE_0_StartMenuMap
+[2023.04.23-17.13.19:404][364]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000803s)
+[2023.04.23-17.13.19:404][364]LogAIModule: Creating AISystem for world StartMenuMap
+[2023.04.23-17.13.19:404][364]LogPlayLevel: PIE: World Init took: (0.000603s)
+[2023.04.23-17.13.19:404][364]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Blueprints_Maps/Maps/StartMenuMap.StartMenuMap to /Game/Blueprints_Maps/Maps/UEDPIE_0_StartMenuMap.StartMenuMap (0.001493s)
+[2023.04.23-17.13.19:421][364]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2023.04.23-17.13.19:422][364]LogAudio: Display: Creating Audio Device:                 Id: 55, Scope: Unique, Realtime: True
+[2023.04.23-17.13.19:422][364]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.23-17.13.19:422][364]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.23-17.13.19:422][364]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.23-17.13.19:422][364]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.23-17.13.19:422][364]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.23-17.13.19:422][364]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.23-17.13.19:422][364]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.23-17.13.19:422][364]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.23-17.13.19:422][364]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.23-17.13.19:422][364]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.23-17.13.19:422][364]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.23-17.13.19:422][364]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.23-17.13.19:424][364]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.23-17.13.19:424][364]LogAudioMixer: Display: 1: FrontRight
+[2023.04.23-17.13.19:430][364]LogAudioMixer: Display: Using Audio Device Speakers ([AV] Samsung Soundbar T400 T-Series   Stereo)
+[2023.04.23-17.13.19:431][364]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.23-17.13.19:431][364]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.23-17.13.19:431][364]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.23-17.13.19:431][364]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.23-17.13.19:431][364]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.23-17.13.19:431][364]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.04.23-17.13.19:432][364]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.23-17.13.19:432][364]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.23-17.13.19:432][364]LogInit: FAudioDevice initialized.
+[2023.04.23-17.13.19:432][364]LogAudio: Display: Audio Device (ID: 55) registered with world 'StartMenuMap'.
+[2023.04.23-17.13.19:437][364]LogLoad: Game class is 'StartMenuGameMode_C'
+[2023.04.23-17.13.19:437][364]LogWorld: Bringing World /Game/Blueprints_Maps/Maps/UEDPIE_0_StartMenuMap.StartMenuMap up for play (max tick rate 0) at 2023.04.23-18.13.19
+[2023.04.23-17.13.19:437][364]LogWorld: Bringing up level for play took: 0.000200
+[2023.04.23-17.13.19:437][364]LogOnline: OSS: Creating online subsystem instance for: :Context_115
+[2023.04.23-17.13.19:439][364]PIE: Server logged in
+[2023.04.23-17.13.19:440][364]PIE: Play in editor total start time 0.04 seconds.
+[2023.04.23-17.13.19:442][364]LogAudio: Warning: Detected orphaned looping sound 'BackgroundMenu'.
+[2023.04.23-17.13.28:736][430]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.23-17.13.28:736][430]LogWorld: BeginTearingDown for /Game/Blueprints_Maps/Maps/UEDPIE_0_StartMenuMap
+[2023.04.23-17.13.28:736][430]LogWorld: UWorld::CleanupWorld for StartMenuMap, bSessionEnded=true, bCleanupResources=true
+[2023.04.23-17.13.28:737][430]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.23-17.13.28:746][430]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.23-17.13.28:749][430]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.23-17.13.28:763][430]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.23-17.13.28:763][430]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.23-17.13.28:764][430]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.23-17.13.28:766][430]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.23-17.13.28:768][430]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2023.04.23-17.13.28:812][432]LogPlayLevel: Display: Destroying online subsystem :Context_115
+[2023.04.23-17.13.42:933][376]BlueprintLog: New page: Compile StartMenuWidget
+[2023.04.23-17.13.42:952][376]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2023.04.23-17.13.43:561][408]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Saved/StartMenuWidget84A96CE34291AC1C329A11B0E8C6B7DB.tmp' to '../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Content/Blueprints_Maps/InterfaceWidgets/StartMenuWidget.uasset'
+[2023.04.23-17.13.43:577][408]AssetCheck: New page: Asset Save: StartMenuWidget
+[2023.04.23-17.13.43:577][408]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints_Maps/InterfaceWidgets/StartMenuWidget.StartMenuWidget
+[2023.04.23-17.13.45:150][542]LogTemp: Repeating last play command: Selected Viewport
+[2023.04.23-17.13.45:156][542]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.23-17.13.45:156][542]PIE: New page: PIE session: StartMenuMap (23 Apr 2023, 19:13:45)
+[2023.04.23-17.13.45:157][542]LogPlayLevel: Creating play world package: /Game/Blueprints_Maps/Maps/UEDPIE_0_StartMenuMap
+[2023.04.23-17.13.45:157][542]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000817s)
+[2023.04.23-17.13.45:158][542]LogAIModule: Creating AISystem for world StartMenuMap
+[2023.04.23-17.13.45:158][542]LogPlayLevel: PIE: World Init took: (0.000617s)
+[2023.04.23-17.13.45:158][542]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Blueprints_Maps/Maps/StartMenuMap.StartMenuMap to /Game/Blueprints_Maps/Maps/UEDPIE_0_StartMenuMap.StartMenuMap (0.001519s)
+[2023.04.23-17.13.45:175][542]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2023.04.23-17.13.45:176][542]LogAudio: Display: Creating Audio Device:                 Id: 56, Scope: Unique, Realtime: True
+[2023.04.23-17.13.45:176][542]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.23-17.13.45:176][542]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.23-17.13.45:176][542]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.23-17.13.45:176][542]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.23-17.13.45:176][542]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.23-17.13.45:176][542]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.23-17.13.45:176][542]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.23-17.13.45:176][542]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.23-17.13.45:176][542]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.23-17.13.45:176][542]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.23-17.13.45:176][542]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.23-17.13.45:176][542]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.23-17.13.45:179][542]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.23-17.13.45:179][542]LogAudioMixer: Display: 1: FrontRight
+[2023.04.23-17.13.45:185][542]LogAudioMixer: Display: Using Audio Device Speakers ([AV] Samsung Soundbar T400 T-Series   Stereo)
+[2023.04.23-17.13.45:185][542]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.23-17.13.45:185][542]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.23-17.13.45:185][542]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.23-17.13.45:185][542]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.23-17.13.45:185][542]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.23-17.13.45:185][542]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.04.23-17.13.45:186][542]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.23-17.13.45:186][542]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.23-17.13.45:186][542]LogInit: FAudioDevice initialized.
+[2023.04.23-17.13.45:186][542]LogAudio: Display: Audio Device (ID: 56) registered with world 'StartMenuMap'.
+[2023.04.23-17.13.45:192][542]LogLoad: Game class is 'StartMenuGameMode_C'
+[2023.04.23-17.13.45:193][542]LogWorld: Bringing World /Game/Blueprints_Maps/Maps/UEDPIE_0_StartMenuMap.StartMenuMap up for play (max tick rate 0) at 2023.04.23-18.13.45
+[2023.04.23-17.13.45:193][542]LogWorld: Bringing up level for play took: 0.000241
+[2023.04.23-17.13.45:193][542]LogOnline: OSS: Creating online subsystem instance for: :Context_116
+[2023.04.23-17.13.45:194][542]PIE: Server logged in
+[2023.04.23-17.13.45:194][542]PIE: Play in editor total start time 0.041 seconds.
+[2023.04.23-17.13.45:196][542]LogAudio: Warning: Detected orphaned looping sound 'BackgroundMenu'.
+[2023.04.23-17.13.54:326][635]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.04.23-17.13.54:335][636]LogNet: Browse: /Game/Blueprints_Maps/Maps/MainLevel
+[2023.04.23-17.13.54:335][636]LogLoad: LoadMap: /Game/Blueprints_Maps/Maps/MainLevel
+[2023.04.23-17.13.54:335][636]LogWorld: BeginTearingDown for /Game/Blueprints_Maps/Maps/UEDPIE_0_StartMenuMap
+[2023.04.23-17.13.54:335][636]LogWorld: UWorld::CleanupWorld for StartMenuMap, bSessionEnded=true, bCleanupResources=true
+[2023.04.23-17.13.54:335][636]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.23-17.13.54:378][636]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.23-17.13.54:380][636]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2023.04.23-17.13.54:426][636]LogAudio: Display: Audio Device (ID: 56) registered with world 'MainLevel'.
+[2023.04.23-17.13.54:426][636]LogAIModule: Creating AISystem for world MainLevel
+[2023.04.23-17.13.54:427][636]LogLoad: Game class is 'GameModeBase'
+[2023.04.23-17.13.54:438][636]LogWorld: Bringing World /Game/Blueprints_Maps/Maps/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2023.04.23-18.13.54
+[2023.04.23-17.13.54:438][636]LogWorld: Bringing up level for play took: 0.011099
+[2023.04.23-17.13.54:439][636]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.04.23-17.13.54:441][636]LogLoad: Took 0.105832 seconds to LoadMap(/Game/Blueprints_Maps/Maps/MainLevel)
+[2023.04.23-17.13.57:455][995]LogBlueprintUserMessages: [Enemy_2] 65.0
+[2023.04.23-17.13.59:831][280]LogBlueprintUserMessages: [Enemy_2] 45.0
+[2023.04.23-17.14.02:386][582]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.23-17.14.02:386][582]LogWorld: BeginTearingDown for /Game/Blueprints_Maps/Maps/UEDPIE_0_MainLevel
+[2023.04.23-17.14.02:386][582]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2023.04.23-17.14.02:387][582]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.23-17.14.02:397][582]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.23-17.14.02:400][582]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.23-17.14.02:415][582]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.23-17.14.02:415][582]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.23-17.14.02:416][582]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.23-17.14.02:418][582]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.23-17.14.02:422][582]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2023.04.23-17.14.02:462][584]LogPlayLevel: Display: Destroying online subsystem :Context_116
+[2023.04.23-17.14.03:375][684]LogTemp: Repeating last play command: Selected Viewport
+[2023.04.23-17.14.03:381][684]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.23-17.14.03:381][684]PIE: New page: PIE session: StartMenuMap (23 Apr 2023, 19:14:03)
+[2023.04.23-17.14.03:382][684]LogPlayLevel: Creating play world package: /Game/Blueprints_Maps/Maps/UEDPIE_0_StartMenuMap
+[2023.04.23-17.14.03:382][684]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000782s)
+[2023.04.23-17.14.03:383][684]LogAIModule: Creating AISystem for world StartMenuMap
+[2023.04.23-17.14.03:383][684]LogPlayLevel: PIE: World Init took: (0.000611s)
+[2023.04.23-17.14.03:383][684]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Blueprints_Maps/Maps/StartMenuMap.StartMenuMap to /Game/Blueprints_Maps/Maps/UEDPIE_0_StartMenuMap.StartMenuMap (0.001477s)
+[2023.04.23-17.14.03:398][684]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2023.04.23-17.14.03:399][684]LogAudio: Display: Creating Audio Device:                 Id: 57, Scope: Unique, Realtime: True
+[2023.04.23-17.14.03:399][684]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.23-17.14.03:399][684]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.23-17.14.03:399][684]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.23-17.14.03:399][684]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.23-17.14.03:399][684]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.23-17.14.03:399][684]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.23-17.14.03:399][684]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.23-17.14.03:399][684]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.23-17.14.03:400][684]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.23-17.14.03:400][684]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.23-17.14.03:400][684]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.23-17.14.03:400][684]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.23-17.14.03:402][684]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.23-17.14.03:402][684]LogAudioMixer: Display: 1: FrontRight
+[2023.04.23-17.14.03:408][684]LogAudioMixer: Display: Using Audio Device Speakers ([AV] Samsung Soundbar T400 T-Series   Stereo)
+[2023.04.23-17.14.03:408][684]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.23-17.14.03:408][684]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.23-17.14.03:408][684]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.23-17.14.03:408][684]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.23-17.14.03:408][684]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.23-17.14.03:408][684]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.04.23-17.14.03:409][684]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.23-17.14.03:409][684]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.23-17.14.03:409][684]LogInit: FAudioDevice initialized.
+[2023.04.23-17.14.03:409][684]LogAudio: Display: Audio Device (ID: 57) registered with world 'StartMenuMap'.
+[2023.04.23-17.14.03:419][684]LogLoad: Game class is 'StartMenuGameMode_C'
+[2023.04.23-17.14.03:420][684]LogWorld: Bringing World /Game/Blueprints_Maps/Maps/UEDPIE_0_StartMenuMap.StartMenuMap up for play (max tick rate 0) at 2023.04.23-18.14.03
+[2023.04.23-17.14.03:420][684]LogWorld: Bringing up level for play took: 0.000203
+[2023.04.23-17.14.03:420][684]LogOnline: OSS: Creating online subsystem instance for: :Context_117
+[2023.04.23-17.14.03:421][684]PIE: Server logged in
+[2023.04.23-17.14.03:422][684]PIE: Play in editor total start time 0.043 seconds.
+[2023.04.23-17.14.03:424][684]LogAudio: Warning: Detected orphaned looping sound 'BackgroundMenu'.
+[2023.04.23-17.15.19:878][515]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.04.23-17.15.19:878][515]LogNet: Browse: /Game/Blueprints_Maps/Maps/MainLevel
+[2023.04.23-17.15.19:878][515]LogLoad: LoadMap: /Game/Blueprints_Maps/Maps/MainLevel
+[2023.04.23-17.15.19:878][515]LogWorld: BeginTearingDown for /Game/Blueprints_Maps/Maps/UEDPIE_0_StartMenuMap
+[2023.04.23-17.15.19:879][515]LogWorld: UWorld::CleanupWorld for StartMenuMap, bSessionEnded=true, bCleanupResources=true
+[2023.04.23-17.15.19:879][515]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.23-17.15.19:927][515]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.23-17.15.19:929][515]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2023.04.23-17.15.19:971][515]LogAudio: Display: Audio Device (ID: 57) registered with world 'MainLevel'.
+[2023.04.23-17.15.19:972][515]LogAIModule: Creating AISystem for world MainLevel
+[2023.04.23-17.15.19:972][515]LogLoad: Game class is 'GameModeBase'
+[2023.04.23-17.15.19:980][515]LogWorld: Bringing World /Game/Blueprints_Maps/Maps/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2023.04.23-18.15.19
+[2023.04.23-17.15.19:981][515]LogWorld: Bringing up level for play took: 0.008285
+[2023.04.23-17.15.19:981][515]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.04.23-17.15.19:983][515]LogLoad: Took 0.104500 seconds to LoadMap(/Game/Blueprints_Maps/Maps/MainLevel)
+[2023.04.23-17.15.22:998][874]LogBlueprintUserMessages: [Enemy_2] 65.0
+[2023.04.23-17.15.24:139][ 11]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 125.0
+[2023.04.23-17.15.28:099][486]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1
+[2023.04.23-17.15.37:849][656]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 2
+[2023.04.23-17.15.42:976][265]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.23-17.15.42:976][265]LogWorld: BeginTearingDown for /Game/Blueprints_Maps/Maps/UEDPIE_0_MainLevel
+[2023.04.23-17.15.42:977][265]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2023.04.23-17.15.42:977][265]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.23-17.15.42:985][265]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.23-17.15.42:988][265]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.23-17.15.43:003][265]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.23-17.15.43:003][265]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.23-17.15.43:004][265]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.23-17.15.43:012][265]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2023.04.23-17.15.43:053][267]LogPlayLevel: Display: Destroying online subsystem :Context_117
+[2023.04.23-17.15.55:746][871]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2023.04.23-17.15.57:153][871]LogSlate: Window 'Save Content' being destroyed
+[2023.04.23-17.15.57:171][871]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Saved/BackgroundMenu613C789849F4369D10C558987E5312ED.tmp' to '../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Content/Blueprints_Maps/Assets/BackgroundMenu.uasset'
+[2023.04.23-17.15.57:262][871]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Saved/medieval-fantasy-14283741358A874B5D7FA728D861AD0617F207.tmp' to '../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Content/Blueprints_Maps/Assets/medieval-fantasy-142837.uasset'
+[2023.04.23-17.15.57:319][871]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Blueprints_Maps/Maps/MainLevel.MainLevel
+[2023.04.23-17.15.57:319][871]Cmd: MAP LOAD FILE="../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Content/Blueprints_Maps/Maps/MainLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.04.23-17.15.57:319][871]LightingResults: New page: Lighting Build
+[2023.04.23-17.15.57:319][871]LoadErrors: New page: Loading map: MainLevel.umap
+[2023.04.23-17.15.57:335][871]LogWorld: UWorld::CleanupWorld for World_76, bSessionEnded=true, bCleanupResources=true
+[2023.04.23-17.15.57:335][871]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.23-17.15.57:368][871]LogWorld: UWorld::CleanupWorld for StartMenuMap, bSessionEnded=true, bCleanupResources=true
+[2023.04.23-17.15.57:368][871]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.23-17.15.57:368][871]MapCheck: New page: Map Check
+[2023.04.23-17.15.57:368][871]LightingResults: New page: Lighting Build
+[2023.04.23-17.15.57:382][871]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.23-17.15.57:386][871]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2023.04.23-17.15.57:386][871]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainLevel'.
+[2023.04.23-17.15.57:482][871]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.04.23-17.15.57:482][871]LogAIModule: Creating AISystem for world MainLevel
+[2023.04.23-17.15.57:501][871]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2023.04.23-17.15.57:505][871]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.04.23-17.15.57:505][871]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.066ms to complete.
+[2023.04.23-17.15.57:505][871]LogFileHelpers: Loading map 'MainLevel' took 0.185
+[2023.04.23-17.15.57:517][871]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.23-17.15.57:517][871]LogContentValidation: Display: Validating SoundCue /Game/Blueprints_Maps/Assets/BackgroundMenu.BackgroundMenu
+[2023.04.23-17.15.57:517][871]LogContentValidation: Display: Validating SoundWave /Game/Blueprints_Maps/Assets/medieval-fantasy-142837.medieval-fantasy-142837
+[2023.04.23-17.16.01:312][224]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_36 in PCD3D_SM5, Default, SM5 (DDC key hash: B8ED367892EDF87D870FDAB6A18C3FA96B8D8AFE), compiling. 
+[2023.04.23-17.16.01:314][224]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_37 in PCD3D_SM5, Default, SM5 (DDC key hash: 04810316B6BB1A29717951EFC6BBE22FB8683C45), compiling. 
+[2023.04.23-17.16.01:316][224]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_38 in PCD3D_SM5, Default, SM5 (DDC key hash: 2AFBF48A26A41E6DAE8313C890C9B7737D623B7C), compiling. 
+[2023.04.23-17.16.01:317][224]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_39 in PCD3D_SM5, Default, SM5 (DDC key hash: 0EBAB2320D7076672BD370E3430978085CDDCC82), compiling. 
+[2023.04.23-17.16.01:318][224]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_40 in PCD3D_SM5, Default, SM5 (DDC key hash: 66D9178E124498EA11D6AE3851F97AC69AAD0943), compiling. 
+[2023.04.23-17.16.01:320][224]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_41 in PCD3D_SM5, Default, SM5 (DDC key hash: ADD817A5194A0F830673C405CB419DBD614C1AE2), compiling. 
+[2023.04.23-17.16.01:321][224]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_42 in PCD3D_SM5, Default, SM5 (DDC key hash: 4B6172F2EB7AD0B3518C21E9B950106F542EDCB2), compiling. 
+[2023.04.23-17.16.01:322][224]LogTexture: Display: Building textures: Texture2D_5 (G8, 128X128)
+[2023.04.23-17.16.01:459][225]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.04.23-17.16.01:459][225]LogShaderCompilers: Display: Total job queries 3142, among them cache hits 943 (30.01%)
+[2023.04.23-17.16.01:459][225]LogShaderCompilers: Display: Tracking 2129 distinct input hashes that result in 715 distinct outputs (33.58%)
+[2023.04.23-17.16.01:459][225]LogShaderCompilers: Display: RAM used: 4.60 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.56%
+[2023.04.23-17.16.01:459][225]LogShaderCompilers: Display: ================================================
+[2023.04.23-17.16.27:900][191]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2023.04.23-17.16.27:918][191]LogTexture: Display: Building textures: Texture2D_34 (BGRA8, 16X16)
+[2023.04.23-17.16.27:918][191]LogTexture: Display: Building textures: Texture2D_16 (BGRA8, 16X16)
+[2023.04.23-17.16.27:918][191]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 16X16)
+[2023.04.23-17.16.27:919][191]LogTexture: Display: Building textures: Texture2D_9 (BGRA8, 16X16)
+[2023.04.23-17.16.27:919][191]LogTexture: Display: Building textures: Texture2D_17 (BGRA8, 16X16)
+[2023.04.23-17.16.27:919][191]LogTexture: Display: Building textures: Texture2D_11 (BGRA8, 16X16)
+[2023.04.23-17.16.27:920][191]LogTexture: Display: Building textures: Texture2D_69 (BGRA8, 16X16)
+[2023.04.23-17.16.28:025][191]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 128X128)
+[2023.04.23-17.16.28:026][191]LogTexture: Display: Building textures: Texture2D_18 (BGRA8, 16X16)
+[2023.04.23-17.16.28:026][191]LogTexture: Display: Building textures: Texture2D_19 (BGRA8, 16X16)
+[2023.04.23-17.16.28:026][191]LogTexture: Display: Building textures: Texture2D_20 (BGRA8, 16X16)
+[2023.04.23-17.16.28:027][191]LogTexture: Display: Building textures: Texture2D_21 (BGRA8, 16X16)
+[2023.04.23-17.16.28:027][191]LogTexture: Display: Building textures: Texture2D_22 (BGRA8, 16X16)
+[2023.04.23-17.16.28:027][191]LogTexture: Display: Building textures: Texture2D_23 (BGRA8, 16X16)
+[2023.04.23-17.16.28:027][191]LogTexture: Display: Building textures: Texture2D_24 (BGRA8, 16X16)
+[2023.04.23-17.16.28:028][191]LogTexture: Display: Building textures: Texture2D_25 (BGRA8, 16X16)
+[2023.04.23-17.16.28:028][191]LogTexture: Display: Building textures: Texture2D_26 (BGRA8, 16X16)
+[2023.04.23-17.16.28:028][191]LogTexture: Display: Building textures: Texture2D_27 (BGRA8, 16X16)
+[2023.04.23-17.16.28:029][191]LogTexture: Display: Building textures: Texture2D_28 (BGRA8, 16X16)
+[2023.04.23-17.16.28:029][191]LogTexture: Display: Building textures: Texture2D_29 (BGRA8, 16X16)
+[2023.04.23-17.16.28:029][191]LogTexture: Display: Building textures: Texture2D_30 (BGRA8, 16X16)
+[2023.04.23-17.16.28:030][191]LogTexture: Display: Building textures: Texture2D_31 (BGRA8, 16X16)
+[2023.04.23-17.16.28:030][191]LogTexture: Display: Building textures: Texture2D_32 (BGRA8, 16X16)
+[2023.04.23-17.16.28:030][191]LogTexture: Display: Building textures: Texture2D_33 (BGRA8, 16X16)
+[2023.04.23-17.16.28:030][191]LogTexture: Display: Building textures: Texture2D_35 (BGRA8, 16X16)
+[2023.04.23-17.16.28:031][191]LogTexture: Display: Building textures: Texture2D_37 (BGRA8, 16X16)
+[2023.04.23-17.16.28:031][191]LogTexture: Display: Building textures: Texture2D_39 (BGRA8, 16X16)
+[2023.04.23-17.16.28:031][191]LogTexture: Display: Building textures: Texture2D_41 (BGRA8, 16X16)
+[2023.04.23-17.16.28:032][191]LogTexture: Display: Building textures: Texture2D_43 (BGRA8, 16X16)
+[2023.04.23-17.16.28:032][191]LogTexture: Display: Building textures: Texture2D_45 (BGRA8, 16X16)
+[2023.04.23-17.16.28:032][191]LogTexture: Display: Building textures: Texture2D_47 (BGRA8, 16X16)
+[2023.04.23-17.16.28:033][191]LogTexture: Display: Building textures: Texture2D_49 (BGRA8, 16X16)
+[2023.04.23-17.16.28:033][191]LogTexture: Display: Building textures: Texture2D_51 (BGRA8, 16X16)
+[2023.04.23-17.16.28:033][191]LogTexture: Display: Building textures: Texture2D_53 (BGRA8, 16X16)
+[2023.04.23-17.16.28:034][191]LogTexture: Display: Building textures: Texture2D_55 (BGRA8, 16X16)
+[2023.04.23-17.16.28:034][191]LogTexture: Display: Building textures: Texture2D_57 (BGRA8, 16X16)
+[2023.04.23-17.16.28:034][191]LogTexture: Display: Building textures: Texture2D_59 (BGRA8, 16X16)
+[2023.04.23-17.16.28:034][191]LogTexture: Display: Building textures: Texture2D_65 (BGRA8, 16X16)
+[2023.04.23-17.16.28:035][191]LogTexture: Display: Building textures: Texture2D_70 (BGRA8, 16X16)
+[2023.04.23-17.16.28:035][191]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Saved/MainLevel5FA879DF4EA14B05B969138865998E0E.tmp' to '../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Content/Blueprints_Maps/Maps/MainLevel.umap'
+[2023.04.23-17.16.28:608][191]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Saved/MainLevel_BuiltData2C3A4D474503CE7799AB708F237CCFF3.tmp' to '../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Content/Blueprints_Maps/Maps/MainLevel_BuiltData.uasset'
+[2023.04.23-17.16.28:633][191]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.23-17.16.28:633][191]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Blueprints_Maps/Maps/MainLevel_BuiltData.MainLevel_BuiltData
+[2023.04.23-17.16.28:633][191]LogContentValidation: Display: Validating World /Game/Blueprints_Maps/Maps/MainLevel.MainLevel
+[2023.04.23-17.16.30:466][354]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.04.23-17.16.30:540][354]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Blueprints_Maps/Maps/SecondLevel.SecondLevel
+[2023.04.23-17.16.30:547][354]Cmd: MAP LOAD FILE="../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Content/Blueprints_Maps/Maps/SecondLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.04.23-17.16.30:547][354]LightingResults: New page: Lighting Build
+[2023.04.23-17.16.30:556][354]LoadErrors: New page: Loading map: SecondLevel.umap
+[2023.04.23-17.16.30:594][354]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2023.04.23-17.16.30:594][354]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.23-17.16.30:594][354]MapCheck: New page: Map Check
+[2023.04.23-17.16.30:594][354]LightingResults: New page: Lighting Build
+[2023.04.23-17.16.30:608][354]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.23-17.16.30:614][354]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2023.04.23-17.16.30:619][354]LogAudio: Display: Audio Device (ID: 1) registered with world 'SecondLevel'.
+[2023.04.23-17.16.30:720][354]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.04.23-17.16.30:720][354]LogAIModule: Creating AISystem for world SecondLevel
+[2023.04.23-17.16.30:738][354]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2023.04.23-17.16.30:742][354]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.04.23-17.16.30:742][354]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.064ms to complete.
+[2023.04.23-17.16.30:742][354]LogFileHelpers: Loading map 'SecondLevel' took 0.202
+[2023.04.23-17.16.32:704][492]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.04.23-17.16.32:732][492]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Blueprints_Maps/Maps/StartMenuMap.StartMenuMap
+[2023.04.23-17.16.32:732][492]Cmd: MAP LOAD FILE="../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Content/Blueprints_Maps/Maps/StartMenuMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.04.23-17.16.32:732][492]LightingResults: New page: Lighting Build
+[2023.04.23-17.16.32:732][492]LoadErrors: New page: Loading map: StartMenuMap.umap
+[2023.04.23-17.16.32:774][492]LogWorld: UWorld::CleanupWorld for SecondLevel, bSessionEnded=true, bCleanupResources=true
+[2023.04.23-17.16.32:774][492]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.23-17.16.32:774][492]MapCheck: New page: Map Check
+[2023.04.23-17.16.32:774][492]LightingResults: New page: Lighting Build
+[2023.04.23-17.16.32:787][492]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.23-17.16.32:794][492]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2023.04.23-17.16.32:795][492]LogAudio: Display: Audio Device (ID: 1) registered with world 'StartMenuMap'.
+[2023.04.23-17.16.32:811][492]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.04.23-17.16.32:811][492]LogAIModule: Creating AISystem for world StartMenuMap
+[2023.04.23-17.16.32:826][492]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2023.04.23-17.16.32:830][492]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.04.23-17.16.32:830][492]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.058ms to complete.
+[2023.04.23-17.16.32:830][492]LogFileHelpers: Loading map 'StartMenuMap' took 0.099
+[2023.04.23-17.16.33:894][591]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2023.04.23-17.16.33:987][591]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Blueprints_Maps/Maps/ThirdLevel.ThirdLevel
+[2023.04.23-17.16.33:987][591]Cmd: MAP LOAD FILE="../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Content/Blueprints_Maps/Maps/ThirdLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.04.23-17.16.33:987][591]LightingResults: New page: Lighting Build
+[2023.04.23-17.16.33:987][591]LoadErrors: New page: Loading map: ThirdLevel.umap
+[2023.04.23-17.16.33:988][591]LogWorld: UWorld::CleanupWorld for StartMenuMap, bSessionEnded=true, bCleanupResources=true
+[2023.04.23-17.16.33:988][591]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.23-17.16.33:988][591]MapCheck: New page: Map Check
+[2023.04.23-17.16.33:988][591]LightingResults: New page: Lighting Build
+[2023.04.23-17.16.34:001][591]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.23-17.16.34:006][591]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2023.04.23-17.16.34:006][591]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdLevel'.
+[2023.04.23-17.16.34:109][591]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.04.23-17.16.34:109][591]LogAIModule: Creating AISystem for world ThirdLevel
+[2023.04.23-17.16.34:130][591]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2023.04.23-17.16.34:134][591]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.04.23-17.16.34:134][591]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.068ms to complete.
+[2023.04.23-17.16.34:134][591]LogFileHelpers: Loading map 'ThirdLevel' took 0.147
+[2023.04.23-17.16.37:233][936]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2023.04.23-17.16.37:395][936]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Saved/ThirdLevel9B6690E6423625068B69FD86E43A13BB.tmp' to '../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Content/Blueprints_Maps/Maps/ThirdLevel.umap'
+[2023.04.23-17.16.37:762][936]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Saved/ThirdLevel_BuiltData0E892D854C30F3A3CE06D391286B1C2E.tmp' to '../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Content/Blueprints_Maps/Maps/ThirdLevel_BuiltData.uasset'
+[2023.04.23-17.16.37:776][936]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.23-17.16.37:776][936]LogContentValidation: Display: Validating World /Game/Blueprints_Maps/Maps/ThirdLevel.ThirdLevel
+[2023.04.23-17.16.37:776][936]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Blueprints_Maps/Maps/ThirdLevel_BuiltData.ThirdLevel_BuiltData
