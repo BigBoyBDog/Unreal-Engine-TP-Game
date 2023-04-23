@@ -9245,3 +9245,415 @@ Make sure 'HealthPickup_BP_C' has been compiled for  Get CollectionMesh
 [2023.04.23-16.48.57:441][985]Cmd: MAP CHECK NOTIFYRESULTS
 [2023.04.23-16.48.57:441][985]MapCheck: New page: SecondLevel - 23 Apr 2023, 18:48:57
 [2023.04.23-16.48.57:442][985]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.776ms to complete.
+[2023.04.23-16.49.14:366][128]LogSlate: Window 'Message Log' being destroyed
+[2023.04.23-16.49.14:382][128]LogSlate: Window 'Message Log' being destroyed
+[2023.04.23-16.49.27:320][437]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2023.04.23-16.49.27:450][437]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Saved/SecondLevel3B39FB984CC02E89DD1EE2B511011A17.tmp' to '../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Content/Blueprints_Maps/Maps/SecondLevel.umap'
+[2023.04.23-16.49.27:619][437]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Saved/SecondLevel_BuiltData5A07D82C4430945D9578F98391C76EA1.tmp' to '../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Content/Blueprints_Maps/Maps/SecondLevel_BuiltData.uasset'
+[2023.04.23-16.49.27:630][437]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.23-16.49.27:630][437]LogContentValidation: Display: Validating World /Game/Blueprints_Maps/Maps/SecondLevel.SecondLevel
+[2023.04.23-16.49.27:630][437]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Blueprints_Maps/Maps/SecondLevel_BuiltData.SecondLevel_BuiltData
+[2023.04.23-16.49.28:781][545]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2023.04.23-16.49.28:834][545]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Blueprints_Maps/Maps/MainLevel.MainLevel
+[2023.04.23-16.49.28:834][545]Cmd: MAP LOAD FILE="../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Content/Blueprints_Maps/Maps/MainLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.04.23-16.49.28:834][545]LightingResults: New page: Lighting Build
+[2023.04.23-16.49.28:834][545]LoadErrors: New page: Loading map: MainLevel.umap
+[2023.04.23-16.49.28:836][545]LogWorld: UWorld::CleanupWorld for SecondLevel, bSessionEnded=true, bCleanupResources=true
+[2023.04.23-16.49.28:836][545]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.23-16.49.28:836][545]MapCheck: New page: Map Check
+[2023.04.23-16.49.28:836][545]LightingResults: New page: Lighting Build
+[2023.04.23-16.49.28:874][545]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.23-16.49.28:882][545]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2023.04.23-16.49.28:885][545]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainLevel'.
+[2023.04.23-16.49.28:995][545]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.04.23-16.49.28:995][545]LogAIModule: Creating AISystem for world MainLevel
+[2023.04.23-16.49.29:036][545]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2023.04.23-16.49.29:039][545]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.04.23-16.49.29:040][545]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.076ms to complete.
+[2023.04.23-16.49.29:040][545]LogFileHelpers: Loading map 'MainLevel' took 0.206
+[2023.04.23-16.49.35:051][239]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2023.04.23-16.49.35:110][239]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 128X128)
+[2023.04.23-16.49.35:110][239]LogTexture: Display: Building textures: Texture2D_18 (BGRA8, 16X16)
+[2023.04.23-16.49.35:110][239]LogTexture: Display: Building textures: Texture2D_19 (BGRA8, 16X16)
+[2023.04.23-16.49.35:110][239]LogTexture: Display: Building textures: Texture2D_20 (BGRA8, 16X16)
+[2023.04.23-16.49.35:110][239]LogTexture: Display: Building textures: Texture2D_21 (BGRA8, 16X16)
+[2023.04.23-16.49.35:110][239]LogTexture: Display: Building textures: Texture2D_23 (BGRA8, 16X16)
+[2023.04.23-16.49.35:110][239]LogTexture: Display: Building textures: Texture2D_22 (BGRA8, 16X16)
+[2023.04.23-16.49.35:110][239]LogTexture: Display: Building textures: Texture2D_24 (BGRA8, 16X16)
+[2023.04.23-16.49.35:110][239]LogTexture: Display: Building textures: Texture2D_25 (BGRA8, 16X16)
+[2023.04.23-16.49.35:110][239]LogTexture: Display: Building textures: Texture2D_27 (BGRA8, 16X16)
+[2023.04.23-16.49.35:110][239]LogTexture: Display: Building textures: Texture2D_26 (BGRA8, 16X16)
+[2023.04.23-16.49.35:110][239]LogTexture: Display: Building textures: Texture2D_28 (BGRA8, 16X16)
+[2023.04.23-16.49.35:110][239]LogTexture: Display: Building textures: Texture2D_29 (BGRA8, 16X16)
+[2023.04.23-16.49.35:110][239]LogTexture: Display: Building textures: Texture2D_30 (BGRA8, 16X16)
+[2023.04.23-16.49.35:110][239]LogTexture: Display: Building textures: Texture2D_32 (BGRA8, 16X16)
+[2023.04.23-16.49.35:110][239]LogTexture: Display: Building textures: Texture2D_33 (BGRA8, 16X16)
+[2023.04.23-16.49.35:110][239]LogTexture: Display: Building textures: Texture2D_35 (BGRA8, 16X16)
+[2023.04.23-16.49.35:110][239]LogTexture: Display: Building textures: Texture2D_31 (BGRA8, 16X16)
+[2023.04.23-16.49.35:110][239]LogTexture: Display: Building textures: Texture2D_37 (BGRA8, 16X16)
+[2023.04.23-16.49.35:110][239]LogTexture: Display: Building textures: Texture2D_39 (BGRA8, 16X16)
+[2023.04.23-16.49.35:110][239]LogTexture: Display: Building textures: Texture2D_41 (BGRA8, 16X16)
+[2023.04.23-16.49.35:110][239]LogTexture: Display: Building textures: Texture2D_43 (BGRA8, 16X16)
+[2023.04.23-16.49.35:110][239]LogTexture: Display: Building textures: Texture2D_45 (BGRA8, 16X16)
+[2023.04.23-16.49.35:110][239]LogTexture: Display: Building textures: Texture2D_51 (BGRA8, 16X16)
+[2023.04.23-16.49.35:110][239]LogTexture: Display: Building textures: Texture2D_53 (BGRA8, 16X16)
+[2023.04.23-16.49.35:110][239]LogTexture: Display: Building textures: Texture2D_55 (BGRA8, 16X16)
+[2023.04.23-16.49.35:110][239]LogTexture: Display: Building textures: Texture2D_49 (BGRA8, 16X16)
+[2023.04.23-16.49.35:110][239]LogTexture: Display: Building textures: Texture2D_57 (BGRA8, 16X16)
+[2023.04.23-16.49.35:110][239]LogTexture: Display: Building textures: Texture2D_47 (BGRA8, 16X16)
+[2023.04.23-16.49.35:110][239]LogTexture: Display: Building textures: Texture2D_59 (BGRA8, 16X16)
+[2023.04.23-16.49.35:110][239]LogTexture: Display: Building textures: Texture2D_61 (BGRA8, 16X16)
+[2023.04.23-16.49.35:110][239]LogTexture: Display: Building textures: Texture2D_62 (BGRA8, 16X16)
+[2023.04.23-16.49.35:110][239]LogTexture: Display: Building textures: Texture2D_64 (BGRA8, 16X16)
+[2023.04.23-16.49.35:110][239]LogTexture: Display: Building textures: Texture2D_65 (BGRA8, 16X16)
+[2023.04.23-16.49.35:110][239]LogTexture: Display: Building textures: Texture2D_70 (BGRA8, 16X16)
+[2023.04.23-16.49.35:110][239]LogTexture: Display: Building textures: Texture2D_71 (BGRA8, 16X16)
+[2023.04.23-16.49.35:110][239]LogTexture: Display: Building textures: Texture2D_73 (BGRA8, 16X16)
+[2023.04.23-16.49.35:110][239]LogTexture: Display: Building textures: Texture2D_75 (BGRA8, 16X16)
+[2023.04.23-16.49.35:110][239]LogTexture: Display: Building textures: Texture2D_77 (BGRA8, 16X16)
+[2023.04.23-16.49.35:110][239]LogTexture: Display: Building textures: Texture2D_80 (BGRA8, 16X16)
+[2023.04.23-16.49.35:110][239]LogTexture: Display: Building textures: Texture2D_82 (BGRA8, 16X16)
+[2023.04.23-16.49.35:110][239]LogTexture: Display: Building textures: Texture2D_87 (BGRA8, 16X16)
+[2023.04.23-16.49.35:110][239]LogTexture: Display: Building textures: Texture2D_88 (BGRA8, 16X16)
+[2023.04.23-16.49.35:110][239]LogTexture: Display: Building textures: Texture2D_90 (BGRA8, 16X16)
+[2023.04.23-16.49.35:110][239]LogTexture: Display: Building textures: Texture2D_89 (BGRA8, 16X16)
+[2023.04.23-16.49.35:110][239]LogTexture: Display: Building textures: Texture2D_91 (BGRA8, 16X16)
+[2023.04.23-16.49.35:110][239]LogTexture: Display: Building textures: Texture2D_92 (BGRA8, 16X16)
+[2023.04.23-16.49.35:110][239]LogTexture: Display: Building textures: Texture2D_93 (BGRA8, 16X16)
+[2023.04.23-16.49.35:110][239]LogTexture: Display: Building textures: Texture2D_96 (BGRA8, 16X16)
+[2023.04.23-16.49.35:126][239]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Blueprints_Maps/Maps/SecondLevel.SecondLevel
+[2023.04.23-16.49.35:126][239]Cmd: MAP LOAD FILE="../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Content/Blueprints_Maps/Maps/SecondLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.04.23-16.49.35:126][239]LightingResults: New page: Lighting Build
+[2023.04.23-16.49.35:126][239]LoadErrors: New page: Loading map: SecondLevel.umap
+[2023.04.23-16.49.35:154][239]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2023.04.23-16.49.35:154][239]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.23-16.49.35:154][239]MapCheck: New page: Map Check
+[2023.04.23-16.49.35:154][239]LightingResults: New page: Lighting Build
+[2023.04.23-16.49.35:189][239]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.23-16.49.35:198][239]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2023.04.23-16.49.35:199][239]LogAudio: Display: Audio Device (ID: 1) registered with world 'SecondLevel'.
+[2023.04.23-16.49.35:317][239]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.04.23-16.49.35:317][239]LogAIModule: Creating AISystem for world SecondLevel
+[2023.04.23-16.49.35:358][239]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2023.04.23-16.49.35:363][239]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.04.23-16.49.35:363][239]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.082ms to complete.
+[2023.04.23-16.49.35:363][239]LogFileHelpers: Loading map 'SecondLevel' took 0.237
+[2023.04.23-16.49.37:936][485]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2023.04.23-16.49.38:009][485]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Blueprints_Maps/Maps/ThirdLevel.ThirdLevel
+[2023.04.23-16.49.38:009][485]Cmd: MAP LOAD FILE="../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Content/Blueprints_Maps/Maps/ThirdLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.04.23-16.49.38:009][485]LightingResults: New page: Lighting Build
+[2023.04.23-16.49.38:009][485]LoadErrors: New page: Loading map: ThirdLevel.umap
+[2023.04.23-16.49.38:012][485]LogWorld: UWorld::CleanupWorld for SecondLevel, bSessionEnded=true, bCleanupResources=true
+[2023.04.23-16.49.38:012][485]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.23-16.49.38:012][485]MapCheck: New page: Map Check
+[2023.04.23-16.49.38:012][485]LightingResults: New page: Lighting Build
+[2023.04.23-16.49.38:047][485]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.23-16.49.38:056][485]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2023.04.23-16.49.38:057][485]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdLevel'.
+[2023.04.23-16.49.38:166][485]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.04.23-16.49.38:167][485]LogAIModule: Creating AISystem for world ThirdLevel
+[2023.04.23-16.49.38:208][485]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2023.04.23-16.49.38:212][485]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.04.23-16.49.38:212][485]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.082ms to complete.
+[2023.04.23-16.49.38:212][485]LogFileHelpers: Loading map 'ThirdLevel' took 0.203
+[2023.04.23-16.49.46:588][447]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2023.04.23-16.49.46:656][447]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Blueprints_Maps/Maps/SecondLevel.SecondLevel
+[2023.04.23-16.49.46:656][447]Cmd: MAP LOAD FILE="../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Content/Blueprints_Maps/Maps/SecondLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.04.23-16.49.46:656][447]LightingResults: New page: Lighting Build
+[2023.04.23-16.49.46:656][447]LoadErrors: New page: Loading map: SecondLevel.umap
+[2023.04.23-16.49.46:694][447]LogWorld: UWorld::CleanupWorld for ThirdLevel, bSessionEnded=true, bCleanupResources=true
+[2023.04.23-16.49.46:694][447]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.23-16.49.46:694][447]MapCheck: New page: Map Check
+[2023.04.23-16.49.46:694][447]LightingResults: New page: Lighting Build
+[2023.04.23-16.49.46:730][447]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.23-16.49.46:740][447]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2023.04.23-16.49.46:741][447]LogAudio: Display: Audio Device (ID: 1) registered with world 'SecondLevel'.
+[2023.04.23-16.49.46:846][447]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.04.23-16.49.46:846][447]LogAIModule: Creating AISystem for world SecondLevel
+[2023.04.23-16.49.46:887][447]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2023.04.23-16.49.46:891][447]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.04.23-16.49.46:891][447]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.07ms to complete.
+[2023.04.23-16.49.46:891][447]LogFileHelpers: Loading map 'SecondLevel' took 0.235
+[2023.04.23-16.49.49:236][693]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2023.04.23-16.49.49:290][693]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Blueprints_Maps/Maps/MainLevel.MainLevel
+[2023.04.23-16.49.49:290][693]Cmd: MAP LOAD FILE="../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Content/Blueprints_Maps/Maps/MainLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.04.23-16.49.49:291][693]LightingResults: New page: Lighting Build
+[2023.04.23-16.49.49:291][693]LoadErrors: New page: Loading map: MainLevel.umap
+[2023.04.23-16.49.49:293][693]LogWorld: UWorld::CleanupWorld for SecondLevel, bSessionEnded=true, bCleanupResources=true
+[2023.04.23-16.49.49:293][693]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.23-16.49.49:293][693]MapCheck: New page: Map Check
+[2023.04.23-16.49.49:293][693]LightingResults: New page: Lighting Build
+[2023.04.23-16.49.49:328][693]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.23-16.49.49:338][693]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2023.04.23-16.49.49:339][693]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainLevel'.
+[2023.04.23-16.49.49:444][693]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.04.23-16.49.49:444][693]LogAIModule: Creating AISystem for world MainLevel
+[2023.04.23-16.49.49:484][693]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2023.04.23-16.49.49:489][693]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.04.23-16.49.49:489][693]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.077ms to complete.
+[2023.04.23-16.49.49:489][693]LogFileHelpers: Loading map 'MainLevel' took 0.198
+[2023.04.23-16.49.55:530][372]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2023.04.23-16.49.55:552][372]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Blueprints_Maps/Maps/StartMenuMap.StartMenuMap
+[2023.04.23-16.49.55:552][372]Cmd: MAP LOAD FILE="../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Content/Blueprints_Maps/Maps/StartMenuMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.04.23-16.49.55:552][372]LightingResults: New page: Lighting Build
+[2023.04.23-16.49.55:552][372]LoadErrors: New page: Loading map: StartMenuMap.umap
+[2023.04.23-16.49.55:584][372]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2023.04.23-16.49.55:584][372]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.23-16.49.55:584][372]MapCheck: New page: Map Check
+[2023.04.23-16.49.55:584][372]LightingResults: New page: Lighting Build
+[2023.04.23-16.49.55:619][372]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.23-16.49.55:627][372]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2023.04.23-16.49.55:628][372]LogAudio: Display: Audio Device (ID: 1) registered with world 'StartMenuMap'.
+[2023.04.23-16.49.55:643][372]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.04.23-16.49.55:643][372]LogAIModule: Creating AISystem for world StartMenuMap
+[2023.04.23-16.49.55:680][372]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2023.04.23-16.49.55:684][372]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.04.23-16.49.55:684][372]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.07ms to complete.
+[2023.04.23-16.49.55:684][372]LogFileHelpers: Loading map 'StartMenuMap' took 0.132
+[2023.04.23-16.49.57:134][517]LogTemp: Repeating last play command: Selected Viewport
+[2023.04.23-16.49.57:141][517]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.23-16.49.57:141][517]PIE: New page: PIE session: StartMenuMap (23 Apr 2023, 18:49:57)
+[2023.04.23-16.49.57:163][517]LogPlayLevel: Creating play world package: /Game/Blueprints_Maps/Maps/UEDPIE_0_StartMenuMap
+[2023.04.23-16.49.57:164][517]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000818s)
+[2023.04.23-16.49.57:164][517]LogAIModule: Creating AISystem for world StartMenuMap
+[2023.04.23-16.49.57:164][517]LogPlayLevel: PIE: World Init took: (0.000619s)
+[2023.04.23-16.49.57:164][517]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Blueprints_Maps/Maps/StartMenuMap.StartMenuMap to /Game/Blueprints_Maps/Maps/UEDPIE_0_StartMenuMap.StartMenuMap (0.001552s)
+[2023.04.23-16.49.57:201][517]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2023.04.23-16.49.57:202][517]LogAudio: Display: Creating Audio Device:                 Id: 48, Scope: Unique, Realtime: True
+[2023.04.23-16.49.57:202][517]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.23-16.49.57:202][517]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.23-16.49.57:202][517]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.23-16.49.57:202][517]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.23-16.49.57:202][517]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.23-16.49.57:202][517]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.23-16.49.57:202][517]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.23-16.49.57:202][517]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.23-16.49.57:202][517]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.23-16.49.57:202][517]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.23-16.49.57:202][517]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.23-16.49.57:202][517]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.23-16.49.57:205][517]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.23-16.49.57:205][517]LogAudioMixer: Display: 1: FrontRight
+[2023.04.23-16.49.57:212][517]LogAudioMixer: Display: Using Audio Device Speakers ([AV] Samsung Soundbar T400 T-Series   Stereo)
+[2023.04.23-16.49.57:213][517]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.23-16.49.57:213][517]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.23-16.49.57:213][517]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.23-16.49.57:213][517]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.23-16.49.57:213][517]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.23-16.49.57:213][517]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.04.23-16.49.57:214][517]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.23-16.49.57:214][517]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.23-16.49.57:214][517]LogInit: FAudioDevice initialized.
+[2023.04.23-16.49.57:214][517]LogAudio: Display: Audio Device (ID: 48) registered with world 'StartMenuMap'.
+[2023.04.23-16.49.57:221][517]LogLoad: Game class is 'StartMenuGameMode_C'
+[2023.04.23-16.49.57:222][517]LogWorld: Bringing World /Game/Blueprints_Maps/Maps/UEDPIE_0_StartMenuMap.StartMenuMap up for play (max tick rate 0) at 2023.04.23-17.49.57
+[2023.04.23-16.49.57:222][517]LogWorld: Bringing up level for play took: 0.000205
+[2023.04.23-16.49.57:222][517]LogOnline: OSS: Creating online subsystem instance for: :Context_101
+[2023.04.23-16.49.57:224][517]PIE: Server logged in
+[2023.04.23-16.49.57:224][517]PIE: Play in editor total start time 0.087 seconds.
+[2023.04.23-16.50.12:406][305]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.23-16.50.12:406][305]LogWorld: BeginTearingDown for /Game/Blueprints_Maps/Maps/UEDPIE_0_StartMenuMap
+[2023.04.23-16.50.12:406][305]LogWorld: UWorld::CleanupWorld for StartMenuMap, bSessionEnded=true, bCleanupResources=true
+[2023.04.23-16.50.12:406][305]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.23-16.50.12:416][305]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.23-16.50.12:421][305]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.23-16.50.12:454][305]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.23-16.50.12:454][305]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.23-16.50.12:455][305]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.23-16.50.12:460][305]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2023.04.23-16.50.12:481][307]LogPlayLevel: Display: Destroying online subsystem :Context_101
+[2023.04.23-16.50.22:838][463]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints_Maps/InterfaceWidgets/StartMenuWidget.StartMenuWidget
+[2023.04.23-16.51.04:398][952]BlueprintLog: New page: Compile StartMenuWidget
+[2023.04.23-16.51.04:444][952]LogUObjectHash: Compacting FUObjectHashTables data took   3.67ms
+[2023.04.23-16.51.04:904][971]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Saved/StartMenuWidget8E4CA1A24024541AE72B799010C43203.tmp' to '../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Content/Blueprints_Maps/InterfaceWidgets/StartMenuWidget.uasset'
+[2023.04.23-16.51.04:923][971]AssetCheck: New page: Asset Save: StartMenuWidget
+[2023.04.23-16.51.04:923][971]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints_Maps/InterfaceWidgets/StartMenuWidget.StartMenuWidget
+[2023.04.23-16.51.06:461][103]LogTemp: Repeating last play command: Selected Viewport
+[2023.04.23-16.51.06:469][103]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.23-16.51.06:469][103]PIE: New page: PIE session: StartMenuMap (23 Apr 2023, 18:51:06)
+[2023.04.23-16.51.06:469][103]LogPlayLevel: Creating play world package: /Game/Blueprints_Maps/Maps/UEDPIE_0_StartMenuMap
+[2023.04.23-16.51.06:470][103]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000758s)
+[2023.04.23-16.51.06:470][103]LogAIModule: Creating AISystem for world StartMenuMap
+[2023.04.23-16.51.06:470][103]LogPlayLevel: PIE: World Init took: (0.000619s)
+[2023.04.23-16.51.06:470][103]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Blueprints_Maps/Maps/StartMenuMap.StartMenuMap to /Game/Blueprints_Maps/Maps/UEDPIE_0_StartMenuMap.StartMenuMap (0.001461s)
+[2023.04.23-16.51.06:512][103]LogUObjectHash: Compacting FUObjectHashTables data took   3.32ms
+[2023.04.23-16.51.06:513][103]LogAudio: Display: Creating Audio Device:                 Id: 49, Scope: Unique, Realtime: True
+[2023.04.23-16.51.06:513][103]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.23-16.51.06:513][103]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.23-16.51.06:513][103]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.23-16.51.06:513][103]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.23-16.51.06:513][103]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.23-16.51.06:513][103]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.23-16.51.06:513][103]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.23-16.51.06:513][103]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.23-16.51.06:513][103]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.23-16.51.06:513][103]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.23-16.51.06:513][103]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.23-16.51.06:513][103]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.23-16.51.06:516][103]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.23-16.51.06:516][103]LogAudioMixer: Display: 1: FrontRight
+[2023.04.23-16.51.06:522][103]LogAudioMixer: Display: Using Audio Device Speakers ([AV] Samsung Soundbar T400 T-Series   Stereo)
+[2023.04.23-16.51.06:522][103]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.23-16.51.06:522][103]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.23-16.51.06:522][103]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.23-16.51.06:523][103]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.23-16.51.06:523][103]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.23-16.51.06:523][103]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.04.23-16.51.06:523][103]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.23-16.51.06:523][103]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.23-16.51.06:523][103]LogInit: FAudioDevice initialized.
+[2023.04.23-16.51.06:523][103]LogAudio: Display: Audio Device (ID: 49) registered with world 'StartMenuMap'.
+[2023.04.23-16.51.06:531][103]LogLoad: Game class is 'StartMenuGameMode_C'
+[2023.04.23-16.51.06:532][103]LogWorld: Bringing World /Game/Blueprints_Maps/Maps/UEDPIE_0_StartMenuMap.StartMenuMap up for play (max tick rate 0) at 2023.04.23-17.51.06
+[2023.04.23-16.51.06:532][103]LogWorld: Bringing up level for play took: 0.000248
+[2023.04.23-16.51.06:532][103]LogOnline: OSS: Creating online subsystem instance for: :Context_104
+[2023.04.23-16.51.06:533][103]PIE: Server logged in
+[2023.04.23-16.51.06:534][103]PIE: Play in editor total start time 0.068 seconds.
+[2023.04.23-16.51.08:405][326]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.04.23-16.51.08:413][327]LogNet: Browse: /Game/Blueprints_Maps/Maps/MainLevel
+[2023.04.23-16.51.08:414][327]LogLoad: LoadMap: /Game/Blueprints_Maps/Maps/MainLevel
+[2023.04.23-16.51.08:414][327]LogWorld: BeginTearingDown for /Game/Blueprints_Maps/Maps/UEDPIE_0_StartMenuMap
+[2023.04.23-16.51.08:414][327]LogWorld: UWorld::CleanupWorld for StartMenuMap, bSessionEnded=true, bCleanupResources=true
+[2023.04.23-16.51.08:414][327]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.23-16.51.08:449][327]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.23-16.51.08:452][327]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2023.04.23-16.51.08:496][327]LogAudio: Display: Audio Device (ID: 49) registered with world 'MainLevel'.
+[2023.04.23-16.51.08:496][327]LogAIModule: Creating AISystem for world MainLevel
+[2023.04.23-16.51.08:496][327]LogLoad: Game class is 'GameModeBase'
+[2023.04.23-16.51.08:506][327]LogWorld: Bringing World /Game/Blueprints_Maps/Maps/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2023.04.23-17.51.08
+[2023.04.23-16.51.08:506][327]LogWorld: Bringing up level for play took: 0.009453
+[2023.04.23-16.51.08:507][327]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.04.23-16.51.08:509][327]LogLoad: Took 0.094816 seconds to LoadMap(/Game/Blueprints_Maps/Maps/MainLevel)
+[2023.04.23-16.51.08:899][371]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockInFullscreen
+[2023.04.23-16.51.08:900][371]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2023.04.23-16.51.09:714][468]LogViewport: Display: Viewport MouseLockMode Changed, LockInFullscreen -> LockOnCapture
+[2023.04.23-16.51.09:714][468]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2023.04.23-16.51.12:312][780]LogBlueprintUserMessages: [Enemy_2] 65.0
+[2023.04.23-16.51.12:436][795]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockInFullscreen
+[2023.04.23-16.51.12:436][795]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2023.04.23-16.51.13:753][953]LogViewport: Display: Viewport MouseLockMode Changed, LockInFullscreen -> LockOnCapture
+[2023.04.23-16.51.13:753][953]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2023.04.23-16.51.15:687][185]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1
+[2023.04.23-16.51.20:070][711]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 125.0
+[2023.04.23-16.51.26:996][542]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 2
+[2023.04.23-16.51.31:337][ 63]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 100.0
+[2023.04.23-16.51.34:712][468]LogBlueprintUserMessages: [Enemy_2] 40.0
+[2023.04.23-16.51.35:788][597]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 3
+[2023.04.23-16.51.40:521][165]LogScript: Warning: Accessed None trying to read property ChildActor
+	LevelCompleteBP_C /Game/Blueprints_Maps/Maps/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.LevelCompleteBP_2
+	Function /Game/Blueprints_Maps/Blueprints/LevelCompleteBP.LevelCompleteBP_C:ExecuteUbergraph_LevelCompleteBP:0117
+[2023.04.23-16.51.40:521][165]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ChildActor". Blueprint:  LevelCompleteBP Function:  Execute Ubergraph Level Complete BP Graph:  EventGraph Node:  Set Owner
+[2023.04.23-16.51.40:521][165]LogScript: Warning: Accessed None
+	LevelCompleteBP_C /Game/Blueprints_Maps/Maps/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.LevelCompleteBP_2
+	Function /Game/Blueprints_Maps/Blueprints/LevelCompleteBP.LevelCompleteBP_C:ExecuteUbergraph_LevelCompleteBP:012C
+[2023.04.23-16.51.40:521][165]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  LevelCompleteBP Function:  Execute Ubergraph Level Complete BP Graph:  EventGraph Node:  Set Owner
+[2023.04.23-16.51.41:788][317]LogNet: Browse: /Game/Blueprints_Maps/Maps/SecondLevel
+[2023.04.23-16.51.41:788][317]LogLoad: LoadMap: /Game/Blueprints_Maps/Maps/SecondLevel
+[2023.04.23-16.51.41:788][317]LogWorld: BeginTearingDown for /Game/Blueprints_Maps/Maps/UEDPIE_0_MainLevel
+[2023.04.23-16.51.41:789][317]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2023.04.23-16.51.41:790][317]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.23-16.51.41:860][317]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.23-16.51.41:866][317]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2023.04.23-16.51.41:922][317]LogAudio: Display: Audio Device (ID: 49) registered with world 'SecondLevel'.
+[2023.04.23-16.51.41:923][317]LogAIModule: Creating AISystem for world SecondLevel
+[2023.04.23-16.51.41:923][317]LogLoad: Game class is 'GameModeBase'
+[2023.04.23-16.51.41:936][317]LogWorld: Bringing World /Game/Blueprints_Maps/Maps/UEDPIE_0_SecondLevel.SecondLevel up for play (max tick rate 0) at 2023.04.23-17.51.41
+[2023.04.23-16.51.41:937][317]LogWorld: Bringing up level for play took: 0.013086
+[2023.04.23-16.51.41:937][317]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.04.23-16.51.41:939][317]LogLoad: Took 0.151199 seconds to LoadMap(/Game/Blueprints_Maps/Maps/SecondLevel)
+[2023.04.23-16.51.50:936][389]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1
+[2023.04.23-16.51.53:520][699]LogBlueprintUserMessages: [Enemy2] 30.0
+[2023.04.23-16.52.00:937][589]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 2
+[2023.04.23-16.52.03:029][840]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockInFullscreen
+[2023.04.23-16.52.03:029][840]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2023.04.23-16.52.03:529][900]LogViewport: Display: Viewport MouseLockMode Changed, LockInFullscreen -> LockOnCapture
+[2023.04.23-16.52.03:529][900]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2023.04.23-16.52.03:962][952]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockInFullscreen
+[2023.04.23-16.52.03:963][952]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2023.04.23-16.52.05:279][110]LogViewport: Display: Viewport MouseLockMode Changed, LockInFullscreen -> LockOnCapture
+[2023.04.23-16.52.05:279][110]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2023.04.23-16.52.07:179][338]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockInFullscreen
+[2023.04.23-16.52.07:179][338]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2023.04.23-16.52.08:253][467]LogViewport: Display: Viewport MouseLockMode Changed, LockInFullscreen -> LockOnCapture
+[2023.04.23-16.52.08:253][467]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2023.04.23-16.52.19:254][787]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 3
+[2023.04.23-16.52.23:139][253]LogScript: Warning: Accessed None trying to read property ChildActor
+	LevelCompleteTwoBP_C /Game/Blueprints_Maps/Maps/UEDPIE_0_SecondLevel.SecondLevel:PersistentLevel.LevelCompleteTwoBP_2
+	Function /Game/Blueprints_Maps/Blueprints/LevelCompleteTwoBP.LevelCompleteTwoBP_C:ExecuteUbergraph_LevelCompleteTwoBP:0117
+[2023.04.23-16.52.23:139][253]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ChildActor". Blueprint:  LevelCompleteTwoBP Function:  Execute Ubergraph Level Complete Two BP Graph:  EventGraph Node:  Set Owner
+[2023.04.23-16.52.23:139][253]LogScript: Warning: Accessed None
+	LevelCompleteTwoBP_C /Game/Blueprints_Maps/Maps/UEDPIE_0_SecondLevel.SecondLevel:PersistentLevel.LevelCompleteTwoBP_2
+	Function /Game/Blueprints_Maps/Blueprints/LevelCompleteTwoBP.LevelCompleteTwoBP_C:ExecuteUbergraph_LevelCompleteTwoBP:012C
+[2023.04.23-16.52.23:139][253]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  LevelCompleteTwoBP Function:  Execute Ubergraph Level Complete Two BP Graph:  EventGraph Node:  Set Owner
+[2023.04.23-16.52.24:264][388]LogNet: Browse: /Game/Blueprints_Maps/Maps/ThirdLevel
+[2023.04.23-16.52.24:264][388]LogLoad: LoadMap: /Game/Blueprints_Maps/Maps/ThirdLevel
+[2023.04.23-16.52.24:264][388]LogWorld: BeginTearingDown for /Game/Blueprints_Maps/Maps/UEDPIE_0_SecondLevel
+[2023.04.23-16.52.24:265][388]LogWorld: UWorld::CleanupWorld for SecondLevel, bSessionEnded=true, bCleanupResources=true
+[2023.04.23-16.52.24:265][388]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.23-16.52.24:340][388]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.23-16.52.24:346][388]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2023.04.23-16.52.24:408][388]LogAudio: Display: Audio Device (ID: 49) registered with world 'ThirdLevel'.
+[2023.04.23-16.52.24:408][388]LogAIModule: Creating AISystem for world ThirdLevel
+[2023.04.23-16.52.24:408][388]LogLoad: Game class is 'GameModeBase'
+[2023.04.23-16.52.24:422][388]LogWorld: Bringing World /Game/Blueprints_Maps/Maps/UEDPIE_0_ThirdLevel.ThirdLevel up for play (max tick rate 0) at 2023.04.23-17.52.24
+[2023.04.23-16.52.24:422][388]LogWorld: Bringing up level for play took: 0.013486
+[2023.04.23-16.52.24:422][388]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.04.23-16.52.24:426][388]LogLoad: Took 0.161590 seconds to LoadMap(/Game/Blueprints_Maps/Maps/ThirdLevel)
+[2023.04.23-16.52.28:111][827]LogBlueprintUserMessages: [Enemy2] 15.0
+[2023.04.23-16.52.28:662][893]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1
+[2023.04.23-16.52.34:796][629]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 2
+[2023.04.23-16.52.38:788][108]LogBlueprintUserMessages: [Enemy5] 30.0
+[2023.04.23-16.52.44:829][833]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 3
+[2023.04.23-16.52.45:896][961]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 75.0
+[2023.04.23-16.52.55:734][137]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 50.0
+[2023.04.23-16.52.57:109][302]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 75.0
+[2023.04.23-16.53.00:092][660]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 100.0
+[2023.04.23-16.53.00:135][665]LogBlueprintUserMessages: [Enemy4] 15.0
+[2023.04.23-16.53.01:484][827]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 75.0
+[2023.04.23-16.53.04:777][222]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 50.0
+[2023.04.23-16.53.06:452][423]LogScript: Warning: Accessed None trying to read property ChildActor
+	LevelCompleteThreeBP_C /Game/Blueprints_Maps/Maps/UEDPIE_0_ThirdLevel.ThirdLevel:PersistentLevel.LevelCompleteThreeBP_2
+	Function /Game/Blueprints_Maps/Blueprints/LevelCompleteThreeBP.LevelCompleteThreeBP_C:ExecuteUbergraph_LevelCompleteThreeBP:0117
+[2023.04.23-16.53.06:453][423]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ChildActor". Blueprint:  LevelCompleteThreeBP Function:  Execute Ubergraph Level Complete Three BP Graph:  EventGraph Node:  Set Owner
+[2023.04.23-16.53.06:453][423]LogScript: Warning: Accessed None
+	LevelCompleteThreeBP_C /Game/Blueprints_Maps/Maps/UEDPIE_0_ThirdLevel.ThirdLevel:PersistentLevel.LevelCompleteThreeBP_2
+	Function /Game/Blueprints_Maps/Blueprints/LevelCompleteThreeBP.LevelCompleteThreeBP_C:ExecuteUbergraph_LevelCompleteThreeBP:012C
+[2023.04.23-16.53.06:453][423]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  LevelCompleteThreeBP Function:  Execute Ubergraph Level Complete Three BP Graph:  EventGraph Node:  Set Owner
+[2023.04.23-16.53.07:836][589]LogNet: Browse: /Game/Blueprints_Maps/Maps/StartMenuMap
+[2023.04.23-16.53.07:836][589]LogLoad: LoadMap: /Game/Blueprints_Maps/Maps/StartMenuMap
+[2023.04.23-16.53.07:836][589]LogWorld: BeginTearingDown for /Game/Blueprints_Maps/Maps/UEDPIE_0_ThirdLevel
+[2023.04.23-16.53.07:837][589]LogWorld: UWorld::CleanupWorld for ThirdLevel, bSessionEnded=true, bCleanupResources=true
+[2023.04.23-16.53.07:838][589]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.23-16.53.07:900][589]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.23-16.53.07:906][589]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2023.04.23-16.53.07:907][589]LogPlayLevel: Creating play world package: /Game/Blueprints_Maps/Maps/UEDPIE_0_StartMenuMap
+[2023.04.23-16.53.07:908][589]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000769s)
+[2023.04.23-16.53.07:909][589]LogAIModule: Creating AISystem for world StartMenuMap
+[2023.04.23-16.53.07:909][589]LogPlayLevel: PIE: World Init took: (0.000638s)
+[2023.04.23-16.53.07:909][589]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Blueprints_Maps/Maps/StartMenuMap.StartMenuMap to /Game/Blueprints_Maps/Maps/UEDPIE_0_StartMenuMap.StartMenuMap (0.001511s)
+[2023.04.23-16.53.07:909][589]LogAudio: Display: Audio Device (ID: 49) registered with world 'StartMenuMap'.
+[2023.04.23-16.53.07:909][589]LogLoad: Game class is 'StartMenuGameMode_C'
+[2023.04.23-16.53.07:909][589]LogWorld: Bringing World /Game/Blueprints_Maps/Maps/UEDPIE_0_StartMenuMap.StartMenuMap up for play (max tick rate 0) at 2023.04.23-17.53.07
+[2023.04.23-16.53.07:909][589]LogWorld: Bringing up level for play took: 0.000164
+[2023.04.23-16.53.07:910][589]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.04.23-16.53.07:910][589]LogLoad: Took 0.074284 seconds to LoadMap(/Game/Blueprints_Maps/Maps/UEDPIE_0_StartMenuMap)
+[2023.04.23-16.53.14:068][327]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.23-16.53.14:071][327]LogWorld: BeginTearingDown for /Game/Blueprints_Maps/Maps/UEDPIE_0_StartMenuMap
+[2023.04.23-16.53.14:093][327]LogWorld: UWorld::CleanupWorld for StartMenuMap, bSessionEnded=true, bCleanupResources=true
+[2023.04.23-16.53.14:093][327]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.23-16.53.14:101][327]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.23-16.53.14:106][327]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.23-16.53.14:140][327]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.23-16.53.14:140][327]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.23-16.53.14:141][327]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.23-16.53.14:144][327]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.23-16.53.14:147][327]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2023.04.23-16.53.14:231][328]LogPlayLevel: Display: Destroying online subsystem :Context_104
+[2023.04.23-16.53.15:311][381]LogSlate: Window 'Message Log' being destroyed
+[2023.04.23-16.53.15:335][381]LogSlate: Window 'Message Log' being destroyed
+[2023.04.23-16.53.17:105][533]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2023.04.23-16.53.17:109][533]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Saved/StartMenuMap33E9E8714FA321D7937703A11DF93D43.tmp' to '../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Content/Blueprints_Maps/Maps/StartMenuMap.umap'
+[2023.04.23-16.53.17:115][533]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Saved/StartMenuMap_BuiltDataA7F659A8454EBA02DD5B9E876F235A8D.tmp' to '../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Content/Blueprints_Maps/Maps/StartMenuMap_BuiltData.uasset'
+[2023.04.23-16.53.17:125][533]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.23-16.53.17:125][533]LogContentValidation: Display: Validating World /Game/Blueprints_Maps/Maps/StartMenuMap.StartMenuMap
+[2023.04.23-16.53.17:125][533]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Blueprints_Maps/Maps/StartMenuMap_BuiltData.StartMenuMap_BuiltData
