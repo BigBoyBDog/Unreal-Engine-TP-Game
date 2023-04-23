@@ -5665,3 +5665,246 @@ Make sure 'HealthPickup_BP_C' has been compiled for  Get CollectionMesh
 [2023.04.23-15.49.22:159][ 23]AssetCheck: New page: Asset Save: multiple assets
 [2023.04.23-15.49.22:159][ 23]LogContentValidation: Display: Validating World /Game/Blueprints_Maps/Maps/SecondLevel.SecondLevel
 [2023.04.23-15.49.22:159][ 23]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Blueprints_Maps/Maps/SecondLevel_BuiltData.SecondLevel_BuiltData
+[2023.04.23-15.50.05:426][ 38]LogTemp: Repeating last play command: Selected Viewport
+[2023.04.23-15.50.05:432][ 38]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.23-15.50.05:432][ 38]PIE: New page: PIE session: SecondLevel (23 Apr 2023, 17:50:05)
+[2023.04.23-15.50.05:463][ 38]LogPlayLevel: Creating play world package: /Game/Blueprints_Maps/Maps/UEDPIE_0_SecondLevel
+[2023.04.23-15.50.05:484][ 38]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021815s)
+[2023.04.23-15.50.05:485][ 38]LogAIModule: Creating AISystem for world SecondLevel
+[2023.04.23-15.50.05:485][ 38]LogPlayLevel: PIE: World Init took: (0.000727s)
+[2023.04.23-15.50.05:485][ 38]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Blueprints_Maps/Maps/SecondLevel.SecondLevel to /Game/Blueprints_Maps/Maps/UEDPIE_0_SecondLevel.SecondLevel (0.022673s)
+[2023.04.23-15.50.05:508][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2023.04.23-15.50.05:511][ 38]LogAudio: Display: Creating Audio Device:                 Id: 32, Scope: Unique, Realtime: True
+[2023.04.23-15.50.05:511][ 38]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.23-15.50.05:511][ 38]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.23-15.50.05:511][ 38]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.23-15.50.05:511][ 38]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.23-15.50.05:511][ 38]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.23-15.50.05:511][ 38]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.23-15.50.05:511][ 38]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.23-15.50.05:511][ 38]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.23-15.50.05:511][ 38]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.23-15.50.05:512][ 38]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.23-15.50.05:512][ 38]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.23-15.50.05:512][ 38]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.23-15.50.05:514][ 38]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.23-15.50.05:515][ 38]LogAudioMixer: Display: 1: FrontRight
+[2023.04.23-15.50.05:522][ 38]LogAudioMixer: Display: Using Audio Device Speakers ([AV] Samsung Soundbar T400 T-Series   Stereo)
+[2023.04.23-15.50.05:522][ 38]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.23-15.50.05:522][ 38]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.23-15.50.05:522][ 38]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.23-15.50.05:522][ 38]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.23-15.50.05:522][ 38]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.23-15.50.05:522][ 38]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.04.23-15.50.05:523][ 38]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.23-15.50.05:523][ 38]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.23-15.50.05:523][ 38]LogInit: FAudioDevice initialized.
+[2023.04.23-15.50.05:523][ 38]LogAudio: Display: Audio Device (ID: 32) registered with world 'SecondLevel'.
+[2023.04.23-15.50.05:529][ 38]LogLoad: Game class is 'GameModeBase'
+[2023.04.23-15.50.05:533][ 38]LogWorld: Bringing World /Game/Blueprints_Maps/Maps/UEDPIE_0_SecondLevel.SecondLevel up for play (max tick rate 0) at 2023.04.23-16.50.05
+[2023.04.23-15.50.05:533][ 38]LogWorld: Bringing up level for play took: 0.003462
+[2023.04.23-15.50.05:533][ 38]LogOnline: OSS: Creating online subsystem instance for: :Context_71
+[2023.04.23-15.50.05:536][ 38]PIE: Server logged in
+[2023.04.23-15.50.05:536][ 38]PIE: Play in editor total start time 0.107 seconds.
+[2023.04.23-15.50.17:236][432]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.23-15.50.17:236][432]LogWorld: BeginTearingDown for /Game/Blueprints_Maps/Maps/UEDPIE_0_SecondLevel
+[2023.04.23-15.50.17:236][432]LogWorld: UWorld::CleanupWorld for SecondLevel, bSessionEnded=true, bCleanupResources=true
+[2023.04.23-15.50.17:237][432]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.23-15.50.17:247][432]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.23-15.50.17:250][432]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.23-15.50.17:271][432]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.23-15.50.17:271][432]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.23-15.50.17:272][432]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.23-15.50.17:274][432]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.23-15.50.17:279][432]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2023.04.23-15.50.17:302][433]LogPlayLevel: Display: Destroying online subsystem :Context_71
+[2023.04.23-15.50.29:796][920]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2023.04.23-15.50.29:918][920]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Saved/SecondLevel45B97FAD42E0F5525E357BB160456518.tmp' to '../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Content/Blueprints_Maps/Maps/SecondLevel.umap'
+[2023.04.23-15.50.30:188][920]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Saved/SecondLevel_BuiltData77A9A5D540A7DC0614ED5A9D595EFE81.tmp' to '../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Content/Blueprints_Maps/Maps/SecondLevel_BuiltData.uasset'
+[2023.04.23-15.50.30:203][920]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.23-15.50.30:203][920]LogContentValidation: Display: Validating World /Game/Blueprints_Maps/Maps/SecondLevel.SecondLevel
+[2023.04.23-15.50.30:203][920]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Blueprints_Maps/Maps/SecondLevel_BuiltData.SecondLevel_BuiltData
+[2023.04.23-15.50.31:028][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2023.04.23-15.50.32:240][ 16]LogSlate: Window 'Save Content' being destroyed
+[2023.04.23-15.50.32:267][ 16]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Saved/Key_Material201EFC6D46FF7DE40E0E5A86FF33F9DF.tmp' to '../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Content/Blueprints_Maps/Assets/Key_Material.uasset'
+[2023.04.23-15.50.32:278][ 16]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Saved/love_heartA210D607426E8DB514B5ACAE8E10173F.tmp' to '../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Content/Blueprints_Maps/Assets/love_heart.uasset'
+[2023.04.23-15.50.32:330][ 16]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Blueprints_Maps/Maps/MainLevel.MainLevel
+[2023.04.23-15.50.32:330][ 16]Cmd: MAP LOAD FILE="../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Content/Blueprints_Maps/Maps/MainLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.04.23-15.50.32:331][ 16]LightingResults: New page: Lighting Build
+[2023.04.23-15.50.32:331][ 16]LoadErrors: New page: Loading map: MainLevel.umap
+[2023.04.23-15.50.32:364][ 16]LogWorld: UWorld::CleanupWorld for SecondLevel, bSessionEnded=true, bCleanupResources=true
+[2023.04.23-15.50.32:364][ 16]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.23-15.50.32:364][ 16]MapCheck: New page: Map Check
+[2023.04.23-15.50.32:364][ 16]LightingResults: New page: Lighting Build
+[2023.04.23-15.50.32:386][ 16]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.23-15.50.32:393][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2023.04.23-15.50.32:398][ 16]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainLevel'.
+[2023.04.23-15.50.32:504][ 16]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.04.23-15.50.32:504][ 16]LogAIModule: Creating AISystem for world MainLevel
+[2023.04.23-15.50.32:530][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2023.04.23-15.50.32:534][ 16]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.04.23-15.50.32:534][ 16]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.066ms to complete.
+[2023.04.23-15.50.32:534][ 16]LogFileHelpers: Loading map 'MainLevel' took 0.204
+[2023.04.23-15.50.32:556][ 16]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.23-15.50.32:556][ 16]LogContentValidation: Display: Validating StaticMesh /Game/Blueprints_Maps/Assets/love_heart.love_heart
+[2023.04.23-15.50.32:556][ 16]LogContentValidation: Display: Validating Material /Game/Blueprints_Maps/Assets/Key_Material.Key_Material
+[2023.04.23-15.51.08:681][297]LogActorComponent: UnregisterComponent: (/Engine/Transient.SphereBrushComponent) Not registered. Aborting.
+[2023.04.23-15.51.31:498][966]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Flora/StaticMesh/SM_Plains_Grass01.SM_Plains_Grass01
+[2023.04.23-15.51.32:272][967]LogRenderer: Reallocating scene render targets to support 1912x1280 Format 10 NumSamples 1 (Frame:1).
+[2023.04.23-15.51.36:172][319]LogStaticMesh: Building static mesh SM_Plains_Grass01...
+[2023.04.23-15.51.36:184][319]LogStaticMesh: Built static mesh [0.01s] /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Flora/StaticMesh/SM_Plains_Grass01.SM_Plains_Grass01
+[2023.04.23-15.51.36:190][319]LogMaterial: Display: Material /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Floors/Materials/M_Plains_Floors_Block.M_Plains_Floors_Block needed to have new flag set bUsedWithInstancedStaticMeshes !
+[2023.04.23-15.51.36:191][319]LogMaterial: Display: Missing cached shadermap for M_Plains_Floors_Block in PCD3D_SM5, Default, SM5 (DDC key hash: 357DEEE416D0CED017580F008D75ED2584677B0E), compiling. 
+[2023.04.23-15.51.36:229][319]LogShaderCompilers: Display: Submitted 50 shader compile jobs with 'Low' priority
+[2023.04.23-15.51.36:242][319]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 50
+[2023.04.23-15.51.36:242][319]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 45
+[2023.04.23-15.51.36:242][319]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 40
+[2023.04.23-15.51.36:242][319]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 35
+[2023.04.23-15.51.36:242][319]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 30
+[2023.04.23-15.51.36:242][319]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 25
+[2023.04.23-15.51.36:242][319]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 20
+[2023.04.23-15.51.36:242][319]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 15
+[2023.04.23-15.51.36:242][319]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 10
+[2023.04.23-15.51.36:242][319]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 5
+[2023.04.23-15.51.36:242][319]LogShaderCompilers: Display: Started 50 'Local' shader compile jobs with 'Low' priority
+[2023.04.23-15.51.37:585][384]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.04.23-15.51.37:585][384]LogShaderCompilers: Display: Total job queries 1276, among them cache hits 556 (43.57%)
+[2023.04.23-15.51.37:585][384]LogShaderCompilers: Display: Tracking 663 distinct input hashes that result in 324 distinct outputs (48.87%)
+[2023.04.23-15.51.37:585][384]LogShaderCompilers: Display: RAM used: 1.87 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.23%
+[2023.04.23-15.51.37:585][384]LogShaderCompilers: Display: ================================================
+[2023.04.23-15.51.53:915][128]LogTexture: Display: Building textures: T_SoftSnow (OODLE_AutoDXT, 512X512)
+[2023.04.23-15.51.53:915][128]LogMaterial: Display: Missing cached shadermap for M_SoftSnow in PCD3D_SM5, Default, SM5 (DDC key hash: 55936F63327A2AE94FA10E1C1283363FAE7079C7), compiling. 
+[2023.04.23-15.51.53:926][128]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2023.04.23-15.51.53:929][128]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 25
+[2023.04.23-15.51.53:929][128]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 22
+[2023.04.23-15.51.53:929][128]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 19
+[2023.04.23-15.51.53:929][128]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 16
+[2023.04.23-15.51.53:929][128]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 13
+[2023.04.23-15.51.53:929][128]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 10
+[2023.04.23-15.51.53:929][128]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 7
+[2023.04.23-15.51.53:929][128]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 4
+[2023.04.23-15.51.53:929][128]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 1
+[2023.04.23-15.51.53:929][128]LogShaderCompilers: Display: Started 25 'Local' shader compile jobs with 'Low' priority
+[2023.04.23-15.51.53:930][128]LogMaterial: Display: Material /Game/InfinityBladeIceLands/Environments/Ice/EXO_MountainSide/Materials/M_SoftSnow.M_SoftSnow needed to have new flag set bUsedWithInstancedStaticMeshes !
+[2023.04.23-15.51.53:931][128]LogMaterial: Display: Missing cached shadermap for M_SoftSnow in PCD3D_SM5, Default, SM5 (DDC key hash: 1F8D72DF3789F8ED9F8F0FB9E2A213864A8718D8), compiling. 
+[2023.04.23-15.51.53:954][128]LogShaderCompilers: Display: Submitted 26 shader compile jobs with 'Low' priority
+[2023.04.23-15.51.53:955][128]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 26
+[2023.04.23-15.51.53:955][128]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 23
+[2023.04.23-15.51.53:955][128]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 20
+[2023.04.23-15.51.53:955][128]LogShaderCompilers: Display: Started 9 'Local' shader compile jobs with 'Low' priority
+[2023.04.23-15.51.54:609][150]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 2
+[2023.04.23-15.51.54:609][150]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.04.23-15.51.54:835][158]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 1
+[2023.04.23-15.51.54:835][158]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.04.23-15.51.54:865][159]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 15
+[2023.04.23-15.51.54:865][159]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.04.23-15.51.55:068][166]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 13
+[2023.04.23-15.51.55:068][166]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 11
+[2023.04.23-15.51.55:068][166]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2023.04.23-15.51.55:095][167]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 9
+[2023.04.23-15.51.55:096][167]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.04.23-15.51.55:118][168]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 8
+[2023.04.23-15.51.55:118][168]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.04.23-15.51.55:247][174]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 7
+[2023.04.23-15.51.55:247][174]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.04.23-15.51.55:272][175]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 6
+[2023.04.23-15.51.55:272][175]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.04.23-15.51.55:272][175]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 5
+[2023.04.23-15.51.55:272][175]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.04.23-15.51.55:324][177]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 4
+[2023.04.23-15.51.55:324][177]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.04.23-15.51.55:364][178]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 3
+[2023.04.23-15.51.55:365][178]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.04.23-15.51.55:445][180]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 2
+[2023.04.23-15.51.55:445][180]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.04.23-15.51.55:445][180]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 1
+[2023.04.23-15.51.55:445][180]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.04.23-15.52.10:620][786]LogTexture: Display: Building textures: T_Fire_Burnt_Grass_E (OODLE_AutoDXT, 1024X1024)
+[2023.04.23-15.52.10:620][786]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.04.23-15.52.10:620][786]LogTexture: Display: Building textures: T_Env_Fire_Grass_N (OODLE_BC5, 2048X2048)
+[2023.04.23-15.52.10:620][786]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.04.23-15.52.10:620][786]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.04.23-15.52.10:620][786]LogMaterial: Display: Missing cached shadermap for M_Fire_Burnt_Grass in PCD3D_SM5, Default, SM5 (DDC key hash: EF84D48AB2930CED6FB2E4726E90CEE16AA183BC), compiling. 
+[2023.04.23-15.52.10:629][786]LogShaderCompilers: Display: Submitted 16 shader compile jobs with 'Low' priority
+[2023.04.23-15.52.10:632][786]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 16
+[2023.04.23-15.52.10:632][786]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 14
+[2023.04.23-15.52.10:632][786]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 12
+[2023.04.23-15.52.10:632][786]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 10
+[2023.04.23-15.52.10:632][786]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 8
+[2023.04.23-15.52.10:632][786]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 6
+[2023.04.23-15.52.10:632][786]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 4
+[2023.04.23-15.52.10:632][786]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 2
+[2023.04.23-15.52.10:632][786]LogShaderCompilers: Display: Started 16 'Local' shader compile jobs with 'Low' priority
+[2023.04.23-15.52.10:633][786]LogMaterial: Display: Material /Game/InfinityBladeFireLands/Environments/Fire/Env_Fire_Terrain/Materials/M_Fire_Burnt_Grass.M_Fire_Burnt_Grass needed to have new flag set bUsedWithInstancedStaticMeshes !
+[2023.04.23-15.52.10:634][786]LogMaterial: Display: Missing cached shadermap for M_Fire_Burnt_Grass in PCD3D_SM5, Default, SM5 (DDC key hash: 115BF91185AFB12B4FA9BECF5F321A09D92BDAB3), compiling. 
+[2023.04.23-15.52.10:649][786]LogShaderCompilers: Display: Submitted 17 shader compile jobs with 'Low' priority
+[2023.04.23-15.52.10:649][786]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 17
+[2023.04.23-15.52.10:649][786]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 15
+[2023.04.23-15.52.10:649][786]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 13
+[2023.04.23-15.52.10:649][786]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 11
+[2023.04.23-15.52.10:649][786]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Low' priority
+[2023.04.23-15.52.11:050][798]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 2
+[2023.04.23-15.52.11:050][798]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.04.23-15.52.11:165][802]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2023.04.23-15.52.11:165][802]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.04.23-15.52.11:234][805]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 7
+[2023.04.23-15.52.11:235][805]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.04.23-15.52.11:312][808]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 6
+[2023.04.23-15.52.11:313][808]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.04.23-15.52.11:313][808]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 5
+[2023.04.23-15.52.11:313][808]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.04.23-15.52.11:393][811]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 4
+[2023.04.23-15.52.11:393][811]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.04.23-15.52.11:435][813]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 3
+[2023.04.23-15.52.11:435][813]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.04.23-15.52.11:435][813]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 2
+[2023.04.23-15.52.11:435][813]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.04.23-15.52.11:480][815]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 1
+[2023.04.23-15.52.11:480][815]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.04.23-15.52.15:177][232]LogWorld: UWorld::CleanupWorld for World_53, bSessionEnded=true, bCleanupResources=true
+[2023.04.23-15.52.15:178][232]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.23-15.52.18:952][658]Cmd: TRANSACTION UNDO
+[2023.04.23-15.52.18:952][658]LogEditorTransaction: Undo StaticMesh: Material changed
+[2023.04.23-15.52.19:047][658]LogMaterial: Display: Missing cached shadermap for Landscape_Mat_2PaintLayer in PCD3D_SM5, Default, SM5 (DDC key hash: AE543B147EA405B46F6F4A5E7E912485DB2B16E4), compiling. 
+[2023.04.23-15.52.19:051][658]MaterialEditorStats: Texture samplers: 0/16
+[2023.04.23-15.52.19:051][658]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2023.04.23-15.52.19:051][658]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.04.23-15.52.19:119][660]MaterialEditorStats: Base pass shader: 137 instructions
+[2023.04.23-15.52.19:119][660]MaterialEditorStats: Base pass shader with Surface Lightmap: 164 instructions
+[2023.04.23-15.52.19:119][660]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 211 instructions
+[2023.04.23-15.52.19:119][660]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.04.23-15.52.19:119][660]MaterialEditorStats: Texture samplers: 6/16
+[2023.04.23-15.52.19:119][660]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2023.04.23-15.52.19:119][660]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.04.23-15.52.23:288][129]Cmd: TRANSACTION UNDO
+[2023.04.23-15.52.23:288][129]LogEditorTransaction: Undo StaticMesh: Material changed
+[2023.04.23-15.52.23:293][129]LogMaterial: Display: Missing cached shadermap for Landscape_Mat_2PaintLayer in PCD3D_SM5, Default, SM5 (DDC key hash: 61DD3BF6DC0921F671774DDA1C45C277640E6526), compiling. 
+[2023.04.23-15.52.23:297][129]MaterialEditorStats: Texture samplers: 0/16
+[2023.04.23-15.52.23:297][129]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2023.04.23-15.52.23:297][129]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.04.23-15.52.23:365][132]MaterialEditorStats: Base pass shader: 137 instructions
+[2023.04.23-15.52.23:365][132]MaterialEditorStats: Base pass shader with Surface Lightmap: 164 instructions
+[2023.04.23-15.52.23:365][132]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 211 instructions
+[2023.04.23-15.52.23:365][132]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.04.23-15.52.23:365][132]MaterialEditorStats: Texture samplers: 6/16
+[2023.04.23-15.52.23:365][132]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2023.04.23-15.52.23:365][132]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.04.23-15.52.23:890][175]Cmd: TRANSACTION UNDO
+[2023.04.23-15.52.23:890][175]LogEditorTransaction: Undo StaticMesh: Material changed
+[2023.04.23-15.52.23:894][175]LogMaterial: Display: Missing cached shadermap for Landscape_Mat_2PaintLayer in PCD3D_SM5, Default, SM5 (DDC key hash: 527782F3DF8B0865A23C49CC7B865BDC29712FF8), compiling. 
+[2023.04.23-15.52.23:896][175]MaterialEditorStats: Texture samplers: 0/16
+[2023.04.23-15.52.23:896][175]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2023.04.23-15.52.23:896][175]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.04.23-15.52.23:927][178]MaterialEditorStats: Base pass shader: 137 instructions
+[2023.04.23-15.52.23:927][178]MaterialEditorStats: Base pass shader with Surface Lightmap: 164 instructions
+[2023.04.23-15.52.23:927][178]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 211 instructions
+[2023.04.23-15.52.23:927][178]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.04.23-15.52.23:927][178]MaterialEditorStats: Texture samplers: 6/16
+[2023.04.23-15.52.23:927][178]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2023.04.23-15.52.23:927][178]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.04.23-15.52.27:891][641]LogUObjectHash: Compacting FUObjectHashTables data took   3.89ms
+[2023.04.23-15.52.28:020][641]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Saved/MainLevelA97F197E4BE8C2D45DE8EAB295130719.tmp' to '../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Content/Blueprints_Maps/Maps/MainLevel.umap'
+[2023.04.23-15.52.28:599][641]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Saved/MainLevel_BuiltDataE00380AD4E2D2C2E752A8195C1C69D88.tmp' to '../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Content/Blueprints_Maps/Maps/MainLevel_BuiltData.uasset'
+[2023.04.23-15.52.28:624][641]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.23-15.52.28:624][641]LogContentValidation: Display: Validating World /Game/Blueprints_Maps/Maps/MainLevel.MainLevel
+[2023.04.23-15.52.28:624][641]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Blueprints_Maps/Maps/MainLevel_BuiltData.MainLevel_BuiltData
