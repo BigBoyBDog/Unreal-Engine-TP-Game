@@ -4323,3 +4323,785 @@ Please see Output Log for details.
 [2023.04.23-15.26.49:403][262]AssetCheck: New page: Asset Save: multiple assets
 [2023.04.23-15.26.49:403][262]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Blueprints_Maps/Maps/SecondLevel_BuiltData.SecondLevel_BuiltData
 [2023.04.23-15.26.49:403][262]LogContentValidation: Display: Validating World /Game/Blueprints_Maps/Maps/SecondLevel.SecondLevel
+[2023.04.23-15.27.12:387][606]LogTemp: Repeating last play command: Selected Viewport
+[2023.04.23-15.27.12:396][606]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.23-15.27.12:396][606]PIE: New page: PIE session: SecondLevel (23 Apr 2023, 17:27:12)
+[2023.04.23-15.27.12:396][606]LogPlayLevel: Creating play world package: /Game/Blueprints_Maps/Maps/UEDPIE_0_SecondLevel
+[2023.04.23-15.27.12:419][606]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023047s)
+[2023.04.23-15.27.12:419][606]LogAIModule: Creating AISystem for world SecondLevel
+[2023.04.23-15.27.12:420][606]LogPlayLevel: PIE: World Init took: (0.000693s)
+[2023.04.23-15.27.12:420][606]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Blueprints_Maps/Maps/SecondLevel.SecondLevel to /Game/Blueprints_Maps/Maps/UEDPIE_0_SecondLevel.SecondLevel (0.023842s)
+[2023.04.23-15.27.12:444][606]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2023.04.23-15.27.12:445][606]LogAudio: Display: Creating Audio Device:                 Id: 25, Scope: Unique, Realtime: True
+[2023.04.23-15.27.12:445][606]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.23-15.27.12:445][606]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.23-15.27.12:445][606]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.23-15.27.12:445][606]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.23-15.27.12:445][606]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.23-15.27.12:445][606]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.23-15.27.12:445][606]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.23-15.27.12:445][606]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.23-15.27.12:446][606]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.23-15.27.12:446][606]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.23-15.27.12:446][606]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.23-15.27.12:446][606]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.23-15.27.12:448][606]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.23-15.27.12:448][606]LogAudioMixer: Display: 1: FrontRight
+[2023.04.23-15.27.12:454][606]LogAudioMixer: Display: Using Audio Device Speakers ([AV] Samsung Soundbar T400 T-Series   Stereo)
+[2023.04.23-15.27.12:454][606]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.23-15.27.12:454][606]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.23-15.27.12:454][606]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.23-15.27.12:455][606]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.23-15.27.12:455][606]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.23-15.27.12:455][606]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.04.23-15.27.12:456][606]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.23-15.27.12:456][606]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.23-15.27.12:456][606]LogInit: FAudioDevice initialized.
+[2023.04.23-15.27.12:456][606]LogAudio: Display: Audio Device (ID: 25) registered with world 'SecondLevel'.
+[2023.04.23-15.27.12:464][606]LogLoad: Game class is 'GameModeBase'
+[2023.04.23-15.27.12:467][606]LogWorld: Bringing World /Game/Blueprints_Maps/Maps/UEDPIE_0_SecondLevel.SecondLevel up for play (max tick rate 0) at 2023.04.23-16.27.12
+[2023.04.23-15.27.12:468][606]LogWorld: Bringing up level for play took: 0.003919
+[2023.04.23-15.27.12:468][606]LogOnline: OSS: Creating online subsystem instance for: :Context_58
+[2023.04.23-15.27.12:471][606]PIE: Server logged in
+[2023.04.23-15.27.12:472][606]PIE: Play in editor total start time 0.08 seconds.
+[2023.04.23-15.27.15:686][987]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1
+[2023.04.23-15.27.25:171][125]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 75.0
+[2023.04.23-15.27.25:654][183]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 2
+[2023.04.23-15.27.40:391][951]LogBlueprintUserMessages: [Enemy_2] 45.0
+[2023.04.23-15.27.41:949][138]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 3
+[2023.04.23-15.27.44:283][418]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 100.0
+[2023.04.23-15.27.45:158][523]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 75.0
+[2023.04.23-15.27.46:925][735]LogScript: Warning: Accessed None trying to read property ChildActor
+	LevelCompleteTwoBP_C /Game/Blueprints_Maps/Maps/UEDPIE_0_SecondLevel.SecondLevel:PersistentLevel.LevelCompleteTwoBP_2
+	Function /Game/Blueprints_Maps/Blueprints/LevelCompleteTwoBP.LevelCompleteTwoBP_C:ExecuteUbergraph_LevelCompleteTwoBP:0117
+[2023.04.23-15.27.46:925][735]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ChildActor". Blueprint:  LevelCompleteTwoBP Function:  Execute Ubergraph Level Complete Two BP Graph:  EventGraph Node:  Set Owner
+[2023.04.23-15.27.46:926][735]LogScript: Warning: Accessed None
+	LevelCompleteTwoBP_C /Game/Blueprints_Maps/Maps/UEDPIE_0_SecondLevel.SecondLevel:PersistentLevel.LevelCompleteTwoBP_2
+	Function /Game/Blueprints_Maps/Blueprints/LevelCompleteTwoBP.LevelCompleteTwoBP_C:ExecuteUbergraph_LevelCompleteTwoBP:012C
+[2023.04.23-15.27.46:926][735]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  LevelCompleteTwoBP Function:  Execute Ubergraph Level Complete Two BP Graph:  EventGraph Node:  Set Owner
+[2023.04.23-15.27.47:925][855]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.04.23-15.27.47:925][855]LogNet: Browse: /Game/Blueprints_Maps/Maps/ThirdLevel
+[2023.04.23-15.27.47:925][855]LogLoad: LoadMap: /Game/Blueprints_Maps/Maps/ThirdLevel
+[2023.04.23-15.27.47:925][855]LogWorld: BeginTearingDown for /Game/Blueprints_Maps/Maps/UEDPIE_0_SecondLevel
+[2023.04.23-15.27.47:926][855]LogWorld: UWorld::CleanupWorld for SecondLevel, bSessionEnded=true, bCleanupResources=true
+[2023.04.23-15.27.47:927][855]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.23-15.27.47:976][855]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.23-15.27.47:980][855]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2023.04.23-15.27.48:031][855]LogAudio: Display: Audio Device (ID: 25) registered with world 'ThirdLevel'.
+[2023.04.23-15.27.48:032][855]LogAIModule: Creating AISystem for world ThirdLevel
+[2023.04.23-15.27.48:032][855]LogLoad: Game class is 'GameModeBase'
+[2023.04.23-15.27.48:041][855]LogWorld: Bringing World /Game/Blueprints_Maps/Maps/UEDPIE_0_ThirdLevel.ThirdLevel up for play (max tick rate 0) at 2023.04.23-16.27.48
+[2023.04.23-15.27.48:041][855]LogWorld: Bringing up level for play took: 0.008908
+[2023.04.23-15.27.48:042][855]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.04.23-15.27.48:043][855]LogLoad: Took 0.118579 seconds to LoadMap(/Game/Blueprints_Maps/Maps/ThirdLevel)
+[2023.04.23-15.27.49:456][ 15]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.23-15.27.49:456][ 15]LogWorld: BeginTearingDown for /Game/Blueprints_Maps/Maps/UEDPIE_0_ThirdLevel
+[2023.04.23-15.27.49:457][ 15]LogWorld: UWorld::CleanupWorld for ThirdLevel, bSessionEnded=true, bCleanupResources=true
+[2023.04.23-15.27.49:457][ 15]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.23-15.27.49:466][ 15]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.23-15.27.49:474][ 15]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.23-15.27.49:495][ 15]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.23-15.27.49:496][ 15]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.23-15.27.49:497][ 15]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.23-15.27.49:503][ 15]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2023.04.23-15.27.49:584][ 16]LogPlayLevel: Display: Destroying online subsystem :Context_58
+[2023.04.23-15.27.50:594][ 65]LogSlate: Window 'Message Log' being destroyed
+[2023.04.23-15.27.50:618][ 65]LogSlate: Window 'Message Log' being destroyed
+[2023.04.23-15.27.53:132][230]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2023.04.23-15.27.53:258][230]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Saved/SecondLevel2D7C02AF43E4CA323E9055AD17D3F485.tmp' to '../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Content/Blueprints_Maps/Maps/SecondLevel.umap'
+[2023.04.23-15.27.53:600][230]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Saved/SecondLevel_BuiltDataE71978FF449A5C9DD46AACBBCB88A721.tmp' to '../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Content/Blueprints_Maps/Maps/SecondLevel_BuiltData.uasset'
+[2023.04.23-15.27.53:624][230]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.23-15.27.53:624][230]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Blueprints_Maps/Maps/SecondLevel_BuiltData.SecondLevel_BuiltData
+[2023.04.23-15.27.53:624][230]LogContentValidation: Display: Validating World /Game/Blueprints_Maps/Maps/SecondLevel.SecondLevel
+[2023.04.23-15.28.02:877][207]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_EX_EnvAssets_LargeSack)
+[2023.04.23-15.28.13:434][429]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2023.04.23-15.28.14:626][429]LogSlate: Window 'Save Content' being destroyed
+[2023.04.23-15.28.14:663][429]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2023.04.23-15.28.14:789][429]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Saved/SecondLevel345DF6434E7DCFE25BB202B4B40CFCBD.tmp' to '../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Content/Blueprints_Maps/Maps/SecondLevel.umap'
+[2023.04.23-15.28.14:794][429]LogFileHelpers: Saving map 'SecondLevel' took 0.153
+[2023.04.23-15.28.14:816][429]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Blueprints_Maps/Maps/StartMenuMap.StartMenuMap
+[2023.04.23-15.28.14:816][429]Cmd: MAP LOAD FILE="../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Content/Blueprints_Maps/Maps/StartMenuMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.04.23-15.28.14:816][429]LightingResults: New page: Lighting Build
+[2023.04.23-15.28.14:816][429]LoadErrors: New page: Loading map: StartMenuMap.umap
+[2023.04.23-15.28.14:854][429]LogWorld: UWorld::CleanupWorld for SecondLevel, bSessionEnded=true, bCleanupResources=true
+[2023.04.23-15.28.14:854][429]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.23-15.28.14:855][429]MapCheck: New page: Map Check
+[2023.04.23-15.28.14:855][429]LightingResults: New page: Lighting Build
+[2023.04.23-15.28.14:878][429]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.23-15.28.14:885][429]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2023.04.23-15.28.14:893][429]LogAudio: Display: Audio Device (ID: 1) registered with world 'StartMenuMap'.
+[2023.04.23-15.28.14:944][429]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.04.23-15.28.14:944][429]LogAIModule: Creating AISystem for world StartMenuMap
+[2023.04.23-15.28.14:968][429]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2023.04.23-15.28.14:972][429]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.04.23-15.28.14:972][429]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.057ms to complete.
+[2023.04.23-15.28.14:972][429]LogFileHelpers: Loading map 'StartMenuMap' took 0.156
+[2023.04.23-15.28.14:989][429]AssetCheck: New page: Asset Save: SecondLevel
+[2023.04.23-15.28.14:989][429]LogContentValidation: Display: Validating World /Game/Blueprints_Maps/Maps/SecondLevel.SecondLevel
+[2023.04.23-15.28.15:055][429]LogTexture: Display: Building textures: Texture2D_30 (BGRA8, 16X16)
+[2023.04.23-15.28.15:055][429]LogTexture: Display: Building textures: Texture2D_23 (BGRA8, 16X16)
+[2023.04.23-15.28.15:055][429]LogTexture: Display: Building textures: Texture2D_28 (BGRA8, 16X16)
+[2023.04.23-15.28.15:055][429]LogTexture: Display: Building textures: Texture2D_45 (BGRA8, 16X16)
+[2023.04.23-15.28.15:071][429]LogTexture: Display: Building textures: Texture2D_19 (BGRA8, 16X16)
+[2023.04.23-15.28.15:071][429]LogTexture: Display: Building textures: Texture2D_20 (BGRA8, 16X16)
+[2023.04.23-15.28.15:071][429]LogTexture: Display: Building textures: Texture2D_27 (BGRA8, 16X16)
+[2023.04.23-15.28.15:071][429]LogTexture: Display: Building textures: Texture2D_22 (BGRA8, 16X16)
+[2023.04.23-15.28.15:071][429]LogTexture: Display: Building textures: Texture2D_26 (BGRA8, 16X16)
+[2023.04.23-15.28.15:071][429]LogTexture: Display: Building textures: Texture2D_18 (BGRA8, 16X16)
+[2023.04.23-15.28.15:071][429]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 128X128)
+[2023.04.23-15.28.15:071][429]LogTexture: Display: Building textures: Texture2D_29 (BGRA8, 16X16)
+[2023.04.23-15.28.15:071][429]LogTexture: Display: Building textures: Texture2D_21 (BGRA8, 16X16)
+[2023.04.23-15.28.15:071][429]LogTexture: Display: Building textures: Texture2D_25 (BGRA8, 16X16)
+[2023.04.23-15.28.15:071][429]LogTexture: Display: Building textures: Texture2D_24 (BGRA8, 16X16)
+[2023.04.23-15.28.15:071][429]LogTexture: Display: Building textures: Texture2D_35 (BGRA8, 16X16)
+[2023.04.23-15.28.15:071][429]LogTexture: Display: Building textures: Texture2D_43 (BGRA8, 16X16)
+[2023.04.23-15.28.15:071][429]LogTexture: Display: Building textures: Texture2D_31 (BGRA8, 16X16)
+[2023.04.23-15.28.15:071][429]LogTexture: Display: Building textures: Texture2D_32 (BGRA8, 16X16)
+[2023.04.23-15.28.15:071][429]LogTexture: Display: Building textures: Texture2D_47 (BGRA8, 16X16)
+[2023.04.23-15.28.15:071][429]LogTexture: Display: Building textures: Texture2D_33 (BGRA8, 16X16)
+[2023.04.23-15.28.15:071][429]LogTexture: Display: Building textures: Texture2D_41 (BGRA8, 16X16)
+[2023.04.23-15.28.15:071][429]LogTexture: Display: Building textures: Texture2D_37 (BGRA8, 16X16)
+[2023.04.23-15.28.15:071][429]LogTexture: Display: Building textures: Texture2D_39 (BGRA8, 16X16)
+[2023.04.23-15.28.15:071][429]LogTexture: Display: Building textures: Texture2D_55 (BGRA8, 16X16)
+[2023.04.23-15.28.15:071][429]LogTexture: Display: Building textures: Texture2D_53 (BGRA8, 16X16)
+[2023.04.23-15.28.15:071][429]LogTexture: Display: Building textures: Texture2D_51 (BGRA8, 16X16)
+[2023.04.23-15.28.15:071][429]LogTexture: Display: Building textures: Texture2D_59 (BGRA8, 16X16)
+[2023.04.23-15.28.15:071][429]LogTexture: Display: Building textures: Texture2D_57 (BGRA8, 16X16)
+[2023.04.23-15.28.15:071][429]LogTexture: Display: Building textures: Texture2D_65 (BGRA8, 16X16)
+[2023.04.23-15.28.15:071][429]LogTexture: Display: Building textures: Texture2D_70 (BGRA8, 16X16)
+[2023.04.23-15.28.15:071][429]LogTexture: Display: Building textures: Texture2D_73 (BGRA8, 16X16)
+[2023.04.23-15.28.15:071][429]LogTexture: Display: Building textures: Texture2D_49 (BGRA8, 16X16)
+[2023.04.23-15.28.15:071][429]LogTexture: Display: Building textures: Texture2D_71 (BGRA8, 16X16)
+[2023.04.23-15.28.15:071][429]LogTexture: Display: Building textures: Texture2D_61 (BGRA8, 16X16)
+[2023.04.23-15.28.15:071][429]LogTexture: Display: Building textures: Texture2D_62 (BGRA8, 16X16)
+[2023.04.23-15.28.15:071][429]LogTexture: Display: Building textures: Texture2D_77 (BGRA8, 16X16)
+[2023.04.23-15.28.15:071][429]LogTexture: Display: Building textures: Texture2D_75 (BGRA8, 16X16)
+[2023.04.23-15.28.15:071][429]LogTexture: Display: Building textures: Texture2D_80 (BGRA8, 16X16)
+[2023.04.23-15.28.15:071][429]LogTexture: Display: Building textures: Texture2D_82 (BGRA8, 16X16)
+[2023.04.23-15.28.15:071][429]LogTexture: Display: Building textures: Texture2D_88 (BGRA8, 16X16)
+[2023.04.23-15.28.15:071][429]LogTexture: Display: Building textures: Texture2D_87 (BGRA8, 16X16)
+[2023.04.23-15.28.15:071][429]LogTexture: Display: Building textures: Texture2D_89 (BGRA8, 16X16)
+[2023.04.23-15.28.15:071][429]LogTexture: Display: Building textures: Texture2D_92 (BGRA8, 16X16)
+[2023.04.23-15.28.15:071][429]LogTexture: Display: Building textures: Texture2D_90 (BGRA8, 16X16)
+[2023.04.23-15.28.15:071][429]LogTexture: Display: Building textures: Texture2D_93 (BGRA8, 16X16)
+[2023.04.23-15.28.15:071][429]LogTexture: Display: Building textures: Texture2D_91 (BGRA8, 16X16)
+[2023.04.23-15.28.15:071][429]LogTexture: Display: Building textures: Texture2D_96 (BGRA8, 16X16)
+[2023.04.23-15.28.15:071][429]LogTexture: Display: Building textures: Texture2D_64 (BGRA8, 16X16)
+[2023.04.23-15.28.16:343][544]LogTemp: Repeating last play command: Selected Viewport
+[2023.04.23-15.28.16:350][544]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.23-15.28.16:350][544]PIE: New page: PIE session: StartMenuMap (23 Apr 2023, 17:28:16)
+[2023.04.23-15.28.16:351][544]LogPlayLevel: Creating play world package: /Game/Blueprints_Maps/Maps/UEDPIE_0_StartMenuMap
+[2023.04.23-15.28.16:352][544]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000893s)
+[2023.04.23-15.28.16:352][544]LogAIModule: Creating AISystem for world StartMenuMap
+[2023.04.23-15.28.16:352][544]LogPlayLevel: PIE: World Init took: (0.000683s)
+[2023.04.23-15.28.16:352][544]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Blueprints_Maps/Maps/StartMenuMap.StartMenuMap to /Game/Blueprints_Maps/Maps/UEDPIE_0_StartMenuMap.StartMenuMap (0.001683s)
+[2023.04.23-15.28.16:377][544]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2023.04.23-15.28.16:378][544]LogAudio: Display: Creating Audio Device:                 Id: 26, Scope: Unique, Realtime: True
+[2023.04.23-15.28.16:378][544]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.23-15.28.16:378][544]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.23-15.28.16:378][544]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.23-15.28.16:378][544]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.23-15.28.16:378][544]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.23-15.28.16:378][544]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.23-15.28.16:378][544]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.23-15.28.16:378][544]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.23-15.28.16:378][544]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.23-15.28.16:378][544]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.23-15.28.16:378][544]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.23-15.28.16:378][544]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.23-15.28.16:381][544]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.23-15.28.16:381][544]LogAudioMixer: Display: 1: FrontRight
+[2023.04.23-15.28.16:387][544]LogAudioMixer: Display: Using Audio Device Speakers ([AV] Samsung Soundbar T400 T-Series   Stereo)
+[2023.04.23-15.28.16:387][544]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.23-15.28.16:387][544]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.23-15.28.16:387][544]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.23-15.28.16:388][544]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.23-15.28.16:388][544]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.23-15.28.16:388][544]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.04.23-15.28.16:388][544]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.23-15.28.16:388][544]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.23-15.28.16:388][544]LogInit: FAudioDevice initialized.
+[2023.04.23-15.28.16:388][544]LogAudio: Display: Audio Device (ID: 26) registered with world 'StartMenuMap'.
+[2023.04.23-15.28.16:394][544]LogLoad: Game class is 'StartMenuGameMode_C'
+[2023.04.23-15.28.16:394][544]LogWorld: Bringing World /Game/Blueprints_Maps/Maps/UEDPIE_0_StartMenuMap.StartMenuMap up for play (max tick rate 0) at 2023.04.23-16.28.16
+[2023.04.23-15.28.16:394][544]LogWorld: Bringing up level for play took: 0.000202
+[2023.04.23-15.28.16:395][544]LogOnline: OSS: Creating online subsystem instance for: :Context_59
+[2023.04.23-15.28.16:396][544]PIE: Server logged in
+[2023.04.23-15.28.16:397][544]PIE: Play in editor total start time 0.049 seconds.
+[2023.04.23-15.28.22:916][287]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.23-15.28.22:916][287]LogWorld: BeginTearingDown for /Game/Blueprints_Maps/Maps/UEDPIE_0_StartMenuMap
+[2023.04.23-15.28.22:916][287]LogWorld: UWorld::CleanupWorld for StartMenuMap, bSessionEnded=true, bCleanupResources=true
+[2023.04.23-15.28.22:916][287]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.23-15.28.22:921][287]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.23-15.28.22:924][287]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.23-15.28.22:946][287]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.23-15.28.22:946][287]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.23-15.28.22:947][287]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.23-15.28.22:949][287]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.23-15.28.22:951][287]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2023.04.23-15.28.22:987][291]LogPlayLevel: Display: Destroying online subsystem :Context_59
+[2023.04.23-15.28.32:696][334]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints_Maps/InterfaceWidgets/StartMenuWidget.StartMenuWidget
+[2023.04.23-15.28.40:644][813]BlueprintLog: New page: Compile StartMenuWidget
+[2023.04.23-15.28.40:677][813]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2023.04.23-15.28.41:110][831]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Saved/StartMenuWidget477A61064D0CB025877572997DF33C2E.tmp' to '../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Content/Blueprints_Maps/InterfaceWidgets/StartMenuWidget.uasset'
+[2023.04.23-15.28.41:128][831]AssetCheck: New page: Asset Save: StartMenuWidget
+[2023.04.23-15.28.41:128][831]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints_Maps/InterfaceWidgets/StartMenuWidget.StartMenuWidget
+[2023.04.23-15.28.42:600][957]LogTemp: Repeating last play command: Selected Viewport
+[2023.04.23-15.28.42:607][957]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.23-15.28.42:607][957]PIE: New page: PIE session: StartMenuMap (23 Apr 2023, 17:28:42)
+[2023.04.23-15.28.42:607][957]LogPlayLevel: Creating play world package: /Game/Blueprints_Maps/Maps/UEDPIE_0_StartMenuMap
+[2023.04.23-15.28.42:608][957]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000815s)
+[2023.04.23-15.28.42:609][957]LogAIModule: Creating AISystem for world StartMenuMap
+[2023.04.23-15.28.42:609][957]LogPlayLevel: PIE: World Init took: (0.000614s)
+[2023.04.23-15.28.42:609][957]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Blueprints_Maps/Maps/StartMenuMap.StartMenuMap to /Game/Blueprints_Maps/Maps/UEDPIE_0_StartMenuMap.StartMenuMap (0.001512s)
+[2023.04.23-15.28.42:637][957]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2023.04.23-15.28.42:637][957]LogAudio: Display: Creating Audio Device:                 Id: 27, Scope: Unique, Realtime: True
+[2023.04.23-15.28.42:637][957]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.23-15.28.42:637][957]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.23-15.28.42:637][957]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.23-15.28.42:637][957]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.23-15.28.42:637][957]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.23-15.28.42:637][957]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.23-15.28.42:637][957]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.23-15.28.42:637][957]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.23-15.28.42:638][957]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.23-15.28.42:638][957]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.23-15.28.42:638][957]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.23-15.28.42:638][957]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.23-15.28.42:640][957]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.23-15.28.42:640][957]LogAudioMixer: Display: 1: FrontRight
+[2023.04.23-15.28.42:645][957]LogAudioMixer: Display: Using Audio Device Speakers ([AV] Samsung Soundbar T400 T-Series   Stereo)
+[2023.04.23-15.28.42:646][957]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.23-15.28.42:646][957]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.23-15.28.42:646][957]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.23-15.28.42:646][957]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.23-15.28.42:646][957]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.23-15.28.42:646][957]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.04.23-15.28.42:647][957]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.23-15.28.42:647][957]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.23-15.28.42:647][957]LogInit: FAudioDevice initialized.
+[2023.04.23-15.28.42:647][957]LogAudio: Display: Audio Device (ID: 27) registered with world 'StartMenuMap'.
+[2023.04.23-15.28.42:655][957]LogLoad: Game class is 'StartMenuGameMode_C'
+[2023.04.23-15.28.42:655][957]LogWorld: Bringing World /Game/Blueprints_Maps/Maps/UEDPIE_0_StartMenuMap.StartMenuMap up for play (max tick rate 0) at 2023.04.23-16.28.42
+[2023.04.23-15.28.42:655][957]LogWorld: Bringing up level for play took: 0.000202
+[2023.04.23-15.28.42:655][957]LogOnline: OSS: Creating online subsystem instance for: :Context_62
+[2023.04.23-15.28.42:657][957]PIE: Server logged in
+[2023.04.23-15.28.42:657][957]PIE: Play in editor total start time 0.053 seconds.
+[2023.04.23-15.28.44:628][190]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.04.23-15.28.44:637][191]LogNet: Browse: /Game/Blueprints_Maps/Maps/MainLevel
+[2023.04.23-15.28.44:637][191]LogLoad: LoadMap: /Game/Blueprints_Maps/Maps/MainLevel
+[2023.04.23-15.28.44:637][191]LogWorld: BeginTearingDown for /Game/Blueprints_Maps/Maps/UEDPIE_0_StartMenuMap
+[2023.04.23-15.28.44:637][191]LogWorld: UWorld::CleanupWorld for StartMenuMap, bSessionEnded=true, bCleanupResources=true
+[2023.04.23-15.28.44:637][191]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.23-15.28.44:662][191]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.23-15.28.44:665][191]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2023.04.23-15.28.44:723][191]LogAudio: Display: Audio Device (ID: 27) registered with world 'MainLevel'.
+[2023.04.23-15.28.44:723][191]LogAIModule: Creating AISystem for world MainLevel
+[2023.04.23-15.28.44:724][191]LogLoad: Game class is 'GameModeBase'
+[2023.04.23-15.28.44:732][191]LogWorld: Bringing World /Game/Blueprints_Maps/Maps/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2023.04.23-16.28.44
+[2023.04.23-15.28.44:733][191]LogWorld: Bringing up level for play took: 0.008780
+[2023.04.23-15.28.44:733][191]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.04.23-15.28.44:735][191]LogLoad: Took 0.098775 seconds to LoadMap(/Game/Blueprints_Maps/Maps/MainLevel)
+[2023.04.23-15.28.47:733][547]LogBlueprintUserMessages: [Enemy_2] 45.0
+[2023.04.23-15.28.48:133][595]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1
+[2023.04.23-15.28.54:850][401]LogBlueprintUserMessages: [Enemy2] 10.0
+[2023.04.23-15.28.56:259][570]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 2
+[2023.04.23-15.29.00:769][111]LogBlueprintUserMessages: [Enemy_2] 35.0
+[2023.04.23-15.29.01:894][246]LogBlueprintUserMessages: [Enemy_2] 25.0
+[2023.04.23-15.29.03:135][395]LogBlueprintUserMessages: [Enemy_2] 15.0
+[2023.04.23-15.29.04:361][542]LogBlueprintUserMessages: [Enemy_2] 5.0
+[2023.04.23-15.29.04:644][576]PIE: Error: Blueprint Runtime Error: "Attempted to access Enemy2 via property CallFunc_Array_Get_Item, but Enemy2 is pending kill". Blueprint:  EnemyFightDirector Function:  Enemy Grade by Position Graph:  EnemyGradeByPosition Node:  Add
+[2023.04.23-15.29.05:302][655]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 90.0
+[2023.04.23-15.29.06:645][816]PIE: Error: Blueprint Runtime Error: "Attempted to access Enemy2 via property CallFunc_Array_Get_Item, but Enemy2 is pending kill". Blueprint:  EnemyFightDirector Function:  Enemy Grade by Position Graph:  EnemyGradeByPosition Node:  Add
+[2023.04.23-15.29.08:645][ 56]PIE: Error: Blueprint Runtime Error: "Attempted to access Enemy2 via property CallFunc_Array_Get_Item, but Enemy2 is pending kill". Blueprint:  EnemyFightDirector Function:  Enemy Grade by Position Graph:  EnemyGradeByPosition Node:  Add
+[2023.04.23-15.29.09:328][138]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 80.0
+[2023.04.23-15.29.10:645][296]PIE: Error: Blueprint Runtime Error: "Attempted to access Enemy_2 via property CallFunc_Array_Get_Item, but Enemy_2 is pending kill". Blueprint:  EnemyFightDirector Function:  Enemy Grade by Position Graph:  EnemyGradeByPosition Node:  Add
+[2023.04.23-15.29.10:645][296]PIE: Error: Blueprint Runtime Error: "Attempted to access Enemy2 via property CallFunc_Array_Get_Item, but Enemy2 is pending kill". Blueprint:  EnemyFightDirector Function:  Enemy Grade by Position Graph:  EnemyGradeByPosition Node:  Add
+[2023.04.23-15.29.12:645][536]PIE: Error: Blueprint Runtime Error: "Attempted to access Enemy_2 via property CallFunc_Array_Get_Item, but Enemy_2 is pending kill". Blueprint:  EnemyFightDirector Function:  Enemy Grade by Position Graph:  EnemyGradeByPosition Node:  Add
+[2023.04.23-15.29.12:645][536]PIE: Error: Blueprint Runtime Error: "Attempted to access Enemy2 via property CallFunc_Array_Get_Item, but Enemy2 is pending kill". Blueprint:  EnemyFightDirector Function:  Enemy Grade by Position Graph:  EnemyGradeByPosition Node:  Add
+[2023.04.23-15.29.14:645][776]PIE: Error: Blueprint Runtime Error: "Attempted to access Enemy_2 via property CallFunc_Array_Get_Item, but Enemy_2 is pending kill". Blueprint:  EnemyFightDirector Function:  Enemy Grade by Position Graph:  EnemyGradeByPosition Node:  Add
+[2023.04.23-15.29.14:645][776]PIE: Error: Blueprint Runtime Error: "Attempted to access Enemy2 via property CallFunc_Array_Get_Item, but Enemy2 is pending kill". Blueprint:  EnemyFightDirector Function:  Enemy Grade by Position Graph:  EnemyGradeByPosition Node:  Add
+[2023.04.23-15.29.16:645][ 16]PIE: Error: Blueprint Runtime Error: "Attempted to access Enemy_2 via property CallFunc_Array_Get_Item, but Enemy_2 is pending kill". Blueprint:  EnemyFightDirector Function:  Enemy Grade by Position Graph:  EnemyGradeByPosition Node:  Add
+[2023.04.23-15.29.16:645][ 16]PIE: Error: Blueprint Runtime Error: "Attempted to access Enemy2 via property CallFunc_Array_Get_Item, but Enemy2 is pending kill". Blueprint:  EnemyFightDirector Function:  Enemy Grade by Position Graph:  EnemyGradeByPosition Node:  Add
+[2023.04.23-15.29.17:212][ 84]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 3
+[2023.04.23-15.29.18:645][256]PIE: Error: Blueprint Runtime Error: "Attempted to access Enemy_2 via property CallFunc_Array_Get_Item, but Enemy_2 is pending kill". Blueprint:  EnemyFightDirector Function:  Enemy Grade by Position Graph:  EnemyGradeByPosition Node:  Add
+[2023.04.23-15.29.18:645][256]PIE: Error: Blueprint Runtime Error: "Attempted to access Enemy2 via property CallFunc_Array_Get_Item, but Enemy2 is pending kill". Blueprint:  EnemyFightDirector Function:  Enemy Grade by Position Graph:  EnemyGradeByPosition Node:  Add
+[2023.04.23-15.29.20:637][495]PIE: Error: Blueprint Runtime Error: "Attempted to access Enemy_2 via property CallFunc_Array_Get_Item, but Enemy_2 is pending kill". Blueprint:  EnemyFightDirector Function:  Enemy Grade by Position Graph:  EnemyGradeByPosition Node:  Add
+[2023.04.23-15.29.20:637][495]PIE: Error: Blueprint Runtime Error: "Attempted to access Enemy2 via property CallFunc_Array_Get_Item, but Enemy2 is pending kill". Blueprint:  EnemyFightDirector Function:  Enemy Grade by Position Graph:  EnemyGradeByPosition Node:  Add
+[2023.04.23-15.29.21:929][650]LogScript: Warning: Accessed None trying to read property ChildActor
+	LevelCompleteBP_C /Game/Blueprints_Maps/Maps/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.LevelCompleteBP_2
+	Function /Game/Blueprints_Maps/Blueprints/LevelCompleteBP.LevelCompleteBP_C:ExecuteUbergraph_LevelCompleteBP:0117
+[2023.04.23-15.29.21:929][650]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ChildActor". Blueprint:  LevelCompleteBP Function:  Execute Ubergraph Level Complete BP Graph:  EventGraph Node:  Set Owner
+[2023.04.23-15.29.21:929][650]LogScript: Warning: Accessed None
+	LevelCompleteBP_C /Game/Blueprints_Maps/Maps/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.LevelCompleteBP_2
+	Function /Game/Blueprints_Maps/Blueprints/LevelCompleteBP.LevelCompleteBP_C:ExecuteUbergraph_LevelCompleteBP:012C
+[2023.04.23-15.29.21:929][650]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  LevelCompleteBP Function:  Execute Ubergraph Level Complete BP Graph:  EventGraph Node:  Set Owner
+[2023.04.23-15.29.23:304][815]LogNet: Browse: /Game/Blueprints_Maps/Maps/SecondLevel
+[2023.04.23-15.29.23:304][815]LogLoad: LoadMap: /Game/Blueprints_Maps/Maps/SecondLevel
+[2023.04.23-15.29.23:304][815]LogWorld: BeginTearingDown for /Game/Blueprints_Maps/Maps/UEDPIE_0_MainLevel
+[2023.04.23-15.29.23:305][815]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2023.04.23-15.29.23:305][815]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.23-15.29.23:359][815]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.23-15.29.23:363][815]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2023.04.23-15.29.23:367][815]LogPlayLevel: Creating play world package: /Game/Blueprints_Maps/Maps/UEDPIE_0_SecondLevel
+[2023.04.23-15.29.23:406][815]LogPlayLevel: PIE: StaticDuplicateObject took: (0.038805s)
+[2023.04.23-15.29.23:406][815]LogAIModule: Creating AISystem for world SecondLevel
+[2023.04.23-15.29.23:407][815]LogPlayLevel: PIE: World Init took: (0.000657s)
+[2023.04.23-15.29.23:407][815]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Blueprints_Maps/Maps/SecondLevel.SecondLevel to /Game/Blueprints_Maps/Maps/UEDPIE_0_SecondLevel.SecondLevel (0.039580s)
+[2023.04.23-15.29.23:407][815]LogAudio: Display: Audio Device (ID: 27) registered with world 'SecondLevel'.
+[2023.04.23-15.29.23:407][815]LogLoad: Game class is 'GameModeBase'
+[2023.04.23-15.29.23:415][815]LogWorld: Bringing World /Game/Blueprints_Maps/Maps/UEDPIE_0_SecondLevel.SecondLevel up for play (max tick rate 0) at 2023.04.23-16.29.23
+[2023.04.23-15.29.23:415][815]LogWorld: Bringing up level for play took: 0.008489
+[2023.04.23-15.29.23:416][815]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.04.23-15.29.23:418][815]LogLoad: Took 0.113720 seconds to LoadMap(/Game/Blueprints_Maps/Maps/UEDPIE_0_SecondLevel)
+[2023.04.23-15.29.26:832][221]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1
+[2023.04.23-15.29.33:310][998]PIE: Error: Blueprint Runtime Error: "Attempted to access Enemy_2 via property CallFunc_Array_Get_Item, but Enemy_2 is pending kill". Blueprint:  EnemyFightDirector Function:  Enemy Grade by Position Graph:  EnemyGradeByPosition Node:  Add
+[2023.04.23-15.29.35:310][238]PIE: Error: Blueprint Runtime Error: "Attempted to access Enemy_2 via property CallFunc_Array_Get_Item, but Enemy_2 is pending kill". Blueprint:  EnemyFightDirector Function:  Enemy Grade by Position Graph:  EnemyGradeByPosition Node:  Add
+[2023.04.23-15.29.36:176][342]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 75.0
+[2023.04.23-15.29.36:669][401]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 2
+[2023.04.23-15.29.37:310][478]PIE: Error: Blueprint Runtime Error: "Attempted to access Enemy_2 via property CallFunc_Array_Get_Item, but Enemy_2 is pending kill". Blueprint:  EnemyFightDirector Function:  Enemy Grade by Position Graph:  EnemyGradeByPosition Node:  Add
+[2023.04.23-15.29.39:310][715]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  EnemyFightDirector Function:  Enemy Grade by Position Graph:  EnemyGradeByPosition Node:  Add
+[2023.04.23-15.29.41:310][955]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  EnemyFightDirector Function:  Enemy Grade by Position Graph:  EnemyGradeByPosition Node:  Add
+[2023.04.23-15.29.43:309][195]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  EnemyFightDirector Function:  Enemy Grade by Position Graph:  EnemyGradeByPosition Node:  Add
+[2023.04.23-15.29.45:310][435]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  EnemyFightDirector Function:  Enemy Grade by Position Graph:  EnemyGradeByPosition Node:  Add
+[2023.04.23-15.29.47:310][675]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  EnemyFightDirector Function:  Enemy Grade by Position Graph:  EnemyGradeByPosition Node:  Add
+[2023.04.23-15.29.49:311][915]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  EnemyFightDirector Function:  Enemy Grade by Position Graph:  EnemyGradeByPosition Node:  Add
+[2023.04.23-15.29.51:311][155]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  EnemyFightDirector Function:  Enemy Grade by Position Graph:  EnemyGradeByPosition Node:  Add
+[2023.04.23-15.29.53:310][395]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  EnemyFightDirector Function:  Enemy Grade by Position Graph:  EnemyGradeByPosition Node:  Add
+[2023.04.23-15.29.54:152][496]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 3
+[2023.04.23-15.29.55:311][635]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  EnemyFightDirector Function:  Enemy Grade by Position Graph:  EnemyGradeByPosition Node:  Add
+[2023.04.23-15.29.57:311][875]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  EnemyFightDirector Function:  Enemy Grade by Position Graph:  EnemyGradeByPosition Node:  Add
+[2023.04.23-15.29.58:860][ 61]LogScript: Warning: Accessed None trying to read property ChildActor
+	LevelCompleteTwoBP_C /Game/Blueprints_Maps/Maps/UEDPIE_0_SecondLevel.SecondLevel:PersistentLevel.LevelCompleteTwoBP_2
+	Function /Game/Blueprints_Maps/Blueprints/LevelCompleteTwoBP.LevelCompleteTwoBP_C:ExecuteUbergraph_LevelCompleteTwoBP:0117
+[2023.04.23-15.29.58:860][ 61]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ChildActor". Blueprint:  LevelCompleteTwoBP Function:  Execute Ubergraph Level Complete Two BP Graph:  EventGraph Node:  Set Owner
+[2023.04.23-15.29.58:860][ 61]LogScript: Warning: Accessed None
+	LevelCompleteTwoBP_C /Game/Blueprints_Maps/Maps/UEDPIE_0_SecondLevel.SecondLevel:PersistentLevel.LevelCompleteTwoBP_2
+	Function /Game/Blueprints_Maps/Blueprints/LevelCompleteTwoBP.LevelCompleteTwoBP_C:ExecuteUbergraph_LevelCompleteTwoBP:012C
+[2023.04.23-15.29.58:860][ 61]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  LevelCompleteTwoBP Function:  Execute Ubergraph Level Complete Two BP Graph:  EventGraph Node:  Set Owner
+[2023.04.23-15.29.59:919][188]LogNet: Browse: /Game/Blueprints_Maps/Maps/ThirdLevel
+[2023.04.23-15.29.59:919][188]LogLoad: LoadMap: /Game/Blueprints_Maps/Maps/ThirdLevel
+[2023.04.23-15.29.59:919][188]LogWorld: BeginTearingDown for /Game/Blueprints_Maps/Maps/UEDPIE_0_SecondLevel
+[2023.04.23-15.29.59:919][188]LogWorld: UWorld::CleanupWorld for SecondLevel, bSessionEnded=true, bCleanupResources=true
+[2023.04.23-15.29.59:920][188]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.23-15.29.59:988][188]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.23-15.29.59:992][188]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2023.04.23-15.30.00:034][188]LogAudio: Display: Audio Device (ID: 27) registered with world 'ThirdLevel'.
+[2023.04.23-15.30.00:034][188]LogAIModule: Creating AISystem for world ThirdLevel
+[2023.04.23-15.30.00:035][188]LogLoad: Game class is 'GameModeBase'
+[2023.04.23-15.30.00:042][188]LogWorld: Bringing World /Game/Blueprints_Maps/Maps/UEDPIE_0_ThirdLevel.ThirdLevel up for play (max tick rate 0) at 2023.04.23-16.30.00
+[2023.04.23-15.30.00:044][188]LogWorld: Bringing up level for play took: 0.008212
+[2023.04.23-15.30.00:044][188]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.04.23-15.30.00:046][188]LogLoad: Took 0.126576 seconds to LoadMap(/Game/Blueprints_Maps/Maps/ThirdLevel)
+[2023.04.23-15.30.01:006][295]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.23-15.30.01:006][295]LogWorld: BeginTearingDown for /Game/Blueprints_Maps/Maps/UEDPIE_0_ThirdLevel
+[2023.04.23-15.30.01:006][295]LogWorld: UWorld::CleanupWorld for ThirdLevel, bSessionEnded=true, bCleanupResources=true
+[2023.04.23-15.30.01:007][295]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.23-15.30.01:012][295]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.23-15.30.01:017][295]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.23-15.30.01:042][295]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.23-15.30.01:042][295]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.23-15.30.01:043][295]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.23-15.30.01:045][295]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.23-15.30.01:050][295]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2023.04.23-15.30.01:106][296]LogPlayLevel: Display: Destroying online subsystem :Context_62
+[2023.04.23-15.30.03:964][428]LogSlate: Window 'Message Log' being destroyed
+[2023.04.23-15.30.03:988][428]LogSlate: Window 'Message Log' being destroyed
+[2023.04.23-15.30.07:373][743]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2023.04.23-15.30.07:384][743]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Blueprints_Maps/Maps/SecondLevel.SecondLevel
+[2023.04.23-15.30.07:384][743]Cmd: MAP LOAD FILE="../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Content/Blueprints_Maps/Maps/SecondLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.04.23-15.30.07:385][743]LightingResults: New page: Lighting Build
+[2023.04.23-15.30.07:385][743]LoadErrors: New page: Loading map: SecondLevel.umap
+[2023.04.23-15.30.07:386][743]LogWorld: UWorld::CleanupWorld for StartMenuMap, bSessionEnded=true, bCleanupResources=true
+[2023.04.23-15.30.07:386][743]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.23-15.30.07:386][743]MapCheck: New page: Map Check
+[2023.04.23-15.30.07:386][743]LightingResults: New page: Lighting Build
+[2023.04.23-15.30.07:410][743]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.23-15.30.07:413][743]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2023.04.23-15.30.07:413][743]LogAudio: Display: Audio Device (ID: 1) registered with world 'SecondLevel'.
+[2023.04.23-15.30.07:513][743]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.04.23-15.30.07:513][743]LogAIModule: Creating AISystem for world SecondLevel
+[2023.04.23-15.30.07:544][743]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2023.04.23-15.30.07:548][743]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.04.23-15.30.07:548][743]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.065ms to complete.
+[2023.04.23-15.30.07:548][743]LogFileHelpers: Loading map 'SecondLevel' took 0.163
+[2023.04.23-15.30.12:330][302]LogEditorViewport: Clicking on Actor (LMB): CollectionPickup_BP_C (CollectionPickup_BP3)
+[2023.04.23-15.30.17:595][923]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (S_EX_EnvAssets_TavernBar)
+[2023.04.23-15.30.19:090][ 75]LogTemp: Repeating last play command: Selected Viewport
+[2023.04.23-15.30.19:097][ 75]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.23-15.30.19:097][ 75]PIE: New page: PIE session: SecondLevel (23 Apr 2023, 17:30:19)
+[2023.04.23-15.30.19:097][ 75]LogPlayLevel: Creating play world package: /Game/Blueprints_Maps/Maps/UEDPIE_0_SecondLevel
+[2023.04.23-15.30.19:119][ 75]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022493s)
+[2023.04.23-15.30.19:119][ 75]LogAIModule: Creating AISystem for world SecondLevel
+[2023.04.23-15.30.19:120][ 75]LogPlayLevel: PIE: World Init took: (0.000675s)
+[2023.04.23-15.30.19:120][ 75]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Blueprints_Maps/Maps/SecondLevel.SecondLevel to /Game/Blueprints_Maps/Maps/UEDPIE_0_SecondLevel.SecondLevel (0.023275s)
+[2023.04.23-15.30.19:148][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2023.04.23-15.30.19:150][ 75]LogAudio: Display: Creating Audio Device:                 Id: 28, Scope: Unique, Realtime: True
+[2023.04.23-15.30.19:150][ 75]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.23-15.30.19:150][ 75]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.23-15.30.19:150][ 75]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.23-15.30.19:150][ 75]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.23-15.30.19:150][ 75]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.23-15.30.19:150][ 75]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.23-15.30.19:150][ 75]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.23-15.30.19:150][ 75]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.23-15.30.19:150][ 75]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.23-15.30.19:150][ 75]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.23-15.30.19:150][ 75]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.23-15.30.19:150][ 75]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.23-15.30.19:153][ 75]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.23-15.30.19:153][ 75]LogAudioMixer: Display: 1: FrontRight
+[2023.04.23-15.30.19:159][ 75]LogAudioMixer: Display: Using Audio Device Speakers ([AV] Samsung Soundbar T400 T-Series   Stereo)
+[2023.04.23-15.30.19:159][ 75]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.23-15.30.19:159][ 75]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.23-15.30.19:159][ 75]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.23-15.30.19:159][ 75]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.23-15.30.19:159][ 75]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.23-15.30.19:159][ 75]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.04.23-15.30.19:160][ 75]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.23-15.30.19:160][ 75]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.23-15.30.19:160][ 75]LogInit: FAudioDevice initialized.
+[2023.04.23-15.30.19:160][ 75]LogAudio: Display: Audio Device (ID: 28) registered with world 'SecondLevel'.
+[2023.04.23-15.30.19:168][ 75]LogLoad: Game class is 'GameModeBase'
+[2023.04.23-15.30.19:172][ 75]LogWorld: Bringing World /Game/Blueprints_Maps/Maps/UEDPIE_0_SecondLevel.SecondLevel up for play (max tick rate 0) at 2023.04.23-16.30.19
+[2023.04.23-15.30.19:172][ 75]LogWorld: Bringing up level for play took: 0.003703
+[2023.04.23-15.30.19:172][ 75]LogOnline: OSS: Creating online subsystem instance for: :Context_63
+[2023.04.23-15.30.19:175][ 75]PIE: Server logged in
+[2023.04.23-15.30.19:176][ 75]PIE: Play in editor total start time 0.082 seconds.
+[2023.04.23-15.30.23:109][544]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 75.0
+[2023.04.23-15.30.30:218][397]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1
+[2023.04.23-15.30.31:766][579]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.23-15.30.31:766][579]LogWorld: BeginTearingDown for /Game/Blueprints_Maps/Maps/UEDPIE_0_SecondLevel
+[2023.04.23-15.30.31:766][579]LogWorld: UWorld::CleanupWorld for SecondLevel, bSessionEnded=true, bCleanupResources=true
+[2023.04.23-15.30.31:767][579]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.23-15.30.31:778][579]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.23-15.30.31:791][579]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.23-15.30.31:815][579]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.23-15.30.31:816][579]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.23-15.30.31:816][579]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.23-15.30.31:822][579]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2023.04.23-15.30.31:855][580]LogPlayLevel: Display: Destroying online subsystem :Context_63
+[2023.04.23-15.30.33:759][783]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2023.04.23-15.30.33:894][783]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Saved/SecondLevel7DDE3B6A4C37203DFA6C21A1BD5BCEF6.tmp' to '../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Content/Blueprints_Maps/Maps/SecondLevel.umap'
+[2023.04.23-15.30.34:540][783]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Saved/SecondLevel_BuiltDataE37362FE45E01FEF0875628D52604F57.tmp' to '../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Content/Blueprints_Maps/Maps/SecondLevel_BuiltData.uasset'
+[2023.04.23-15.30.34:565][783]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.23-15.30.34:565][783]LogContentValidation: Display: Validating World /Game/Blueprints_Maps/Maps/SecondLevel.SecondLevel
+[2023.04.23-15.30.34:565][783]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Blueprints_Maps/Maps/SecondLevel_BuiltData.SecondLevel_BuiltData
+[2023.04.23-15.30.45:008][325]LogEditorViewport: Clicking on Actor (LMB): Damage_BP_C (Damage_BP2)
+[2023.04.23-15.30.51:601][962]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints_Maps/Blueprints/Damage_BP.Damage_BP
+[2023.04.23-15.31.18:632][304]LogEditorTransaction: Undo Edit Static Mesh
+[2023.04.23-15.31.18:650][304]LogMaterial: Display: Missing cached shadermap for Material__30 in PCD3D_SM5, Default, SM5 (DDC key hash: 41A31373037F9FA54A26571D90B6F62C71C2C66B), compiling. 
+[2023.04.23-15.31.18:652][304]LogMaterial: Display: Missing cached shadermap for Landscape_Mat_2PaintLayer in PCD3D_SM5, Default, SM5 (DDC key hash: FC7E59A876A166C8C12D3E92380F14B85FC886BD), compiling. 
+[2023.04.23-15.31.18:659][304]MaterialEditorStats: Texture samplers: 0/16
+[2023.04.23-15.31.18:659][304]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.04.23-15.31.18:659][304]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.04.23-15.31.18:659][304]MaterialEditorStats: Texture samplers: 0/16
+[2023.04.23-15.31.18:659][304]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2023.04.23-15.31.18:659][304]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.04.23-15.31.18:746][306]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.04.23-15.31.18:746][306]LogShaderCompilers: Display: Total job queries 971, among them cache hits 361 (37.18%)
+[2023.04.23-15.31.18:746][306]LogShaderCompilers: Display: Tracking 598 distinct input hashes that result in 322 distinct outputs (53.85%)
+[2023.04.23-15.31.18:746][306]LogShaderCompilers: Display: RAM used: 1.86 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.23%
+[2023.04.23-15.31.18:746][306]LogShaderCompilers: Display: ================================================
+[2023.04.23-15.31.18:763][307]MaterialEditorStats: Base pass shader: 120 instructions
+[2023.04.23-15.31.18:763][307]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2023.04.23-15.31.18:763][307]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.04.23-15.31.18:763][307]MaterialEditorStats: Texture samplers: 3/16
+[2023.04.23-15.31.18:763][307]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.04.23-15.31.18:763][307]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.04.23-15.31.18:763][307]MaterialEditorStats: Base pass shader: 137 instructions
+[2023.04.23-15.31.18:763][307]MaterialEditorStats: Base pass shader with Surface Lightmap: 164 instructions
+[2023.04.23-15.31.18:763][307]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 211 instructions
+[2023.04.23-15.31.18:763][307]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.04.23-15.31.18:763][307]MaterialEditorStats: Texture samplers: 6/16
+[2023.04.23-15.31.18:763][307]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2023.04.23-15.31.18:763][307]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.04.23-15.31.19:062][321]LogEditorTransaction: Undo Edit Static Mesh
+[2023.04.23-15.31.19:072][321]LogMaterial: Display: Missing cached shadermap for Material__30 in PCD3D_SM5, Default, SM5 (DDC key hash: 8F5B61142D3BF8DE1F0904DDFABDF3548708D9C8), compiling. 
+[2023.04.23-15.31.19:074][321]LogMaterial: Display: Missing cached shadermap for Landscape_Mat_2PaintLayer in PCD3D_SM5, Default, SM5 (DDC key hash: 4690EA67AB568C2DDEA64FEC652F0597DE1E52BB), compiling. 
+[2023.04.23-15.31.19:077][321]MaterialEditorStats: Texture samplers: 0/16
+[2023.04.23-15.31.19:077][321]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.04.23-15.31.19:077][321]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.04.23-15.31.19:077][321]MaterialEditorStats: Texture samplers: 0/16
+[2023.04.23-15.31.19:077][321]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2023.04.23-15.31.19:077][321]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.04.23-15.31.19:182][324]MaterialEditorStats: Base pass shader: 120 instructions
+[2023.04.23-15.31.19:182][324]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2023.04.23-15.31.19:182][324]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.04.23-15.31.19:182][324]MaterialEditorStats: Texture samplers: 3/16
+[2023.04.23-15.31.19:182][324]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.04.23-15.31.19:182][324]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.04.23-15.31.19:182][324]MaterialEditorStats: Base pass shader: 137 instructions
+[2023.04.23-15.31.19:182][324]MaterialEditorStats: Base pass shader with Surface Lightmap: 164 instructions
+[2023.04.23-15.31.19:182][324]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 211 instructions
+[2023.04.23-15.31.19:182][324]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.04.23-15.31.19:182][324]MaterialEditorStats: Texture samplers: 6/16
+[2023.04.23-15.31.19:182][324]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2023.04.23-15.31.19:182][324]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.04.23-15.31.21:041][408]BlueprintLog: New page: Compile Damage_BP
+[2023.04.23-15.31.21:097][408]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2023.04.23-15.31.21:650][425]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Saved/Damage_BP6063A85F4D4632E09B4CD08E13722CB0.tmp' to '../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Content/Blueprints_Maps/Blueprints/Damage_BP.uasset'
+[2023.04.23-15.31.21:684][425]AssetCheck: New page: Asset Save: Damage_BP
+[2023.04.23-15.31.21:684][425]LogContentValidation: Display: Validating Blueprint /Game/Blueprints_Maps/Blueprints/Damage_BP.Damage_BP
+[2023.04.23-15.31.45:578][542]LogEditorViewport: Clicking on Actor (LMB): CollectionPickup_BP_C (CollectionPickup_BP)
+[2023.04.23-15.31.51:463][ 99]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints_Maps/Blueprints/HealthPickup_BP.HealthPickup_BP
+[2023.04.23-15.36.47:038][340]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\brand\Downloads\love_heart.fbx)
+[2023.04.23-15.36.47:044][340]LogFbx: Loading FBX Scene from C:\Users\brand\Downloads\love_heart.fbx
+[2023.04.23-15.36.47:284][340]LogFbx: FBX Scene Loaded Succesfully
+[2023.04.23-15.36.49:076][340]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.04.23-15.36.49:087][340]LogMaterial: Display: Missing cached shadermap for Material_003 in PCD3D_SM5, Default, SM5 (DDC key hash: 3FE5A5C176DFC16D37C564B8521B01D422434436), compiling. 
+[2023.04.23-15.36.49:090][340]LogFbx: Display: Triangulating static mesh Vert
+[2023.04.23-15.36.49:097][340]LogStaticMesh: Building static mesh love_heart...
+[2023.04.23-15.36.49:101][340]LogStaticMesh: Built static mesh [0.00s] /Game/Blueprints_Maps/Assets/love_heart.love_heart
+[2023.04.23-15.36.49:106][340]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.04.23-15.36.49:199][345]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.04.23-15.36.49:199][345]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2023.04.23-15.36.49:199][345]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2023.04.23-15.36.49:199][345]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.04.23-15.36.49:203][345]LogShaderCompilers: Display: Submitted 14 shader compile jobs with 'Normal' priority
+[2023.04.23-15.36.49:205][345]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 14
+[2023.04.23-15.36.49:205][345]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 12
+[2023.04.23-15.36.49:205][345]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 10
+[2023.04.23-15.36.49:205][345]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 8
+[2023.04.23-15.36.49:205][345]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 6
+[2023.04.23-15.36.49:205][345]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 4
+[2023.04.23-15.36.49:205][345]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 2
+[2023.04.23-15.36.49:205][345]LogShaderCompilers: Display: Started 14 'Local' shader compile jobs with 'Normal' priority
+[2023.04.23-15.36.49:628][362]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.04.23-15.36.49:628][362]LogShaderCompilers: Display: Total job queries 1009, among them cache hits 383 (37.96%)
+[2023.04.23-15.36.49:628][362]LogShaderCompilers: Display: Tracking 599 distinct input hashes that result in 322 distinct outputs (53.76%)
+[2023.04.23-15.36.49:628][362]LogShaderCompilers: Display: RAM used: 1.86 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.23%
+[2023.04.23-15.36.49:628][362]LogShaderCompilers: Display: ================================================
+[2023.04.23-15.36.51:210][469]LogSlate: Window 'Message Log' being destroyed
+[2023.04.23-15.36.51:230][469]LogSlate: Window 'Message Log' being destroyed
+[2023.04.23-15.36.52:651][582]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Blueprints_Maps/Assets/Material_003.Material_003
+[2023.04.23-15.36.52:651][582]LogMaterial: Display: Missing cached shadermap for Material_003 in PCD3D_SM5, Default, SM5 (DDC key hash: 1E94C7157B2B743737884EBECFF1DD6D5B18B938), compiling. 
+[2023.04.23-15.36.52:713][582]LogMaterial: Display: Missing cached shadermap for Material_003 in PCD3D_SM5, Default, SM5 (DDC key hash: 773BD083369ABF036EA9C2330E92B232EBFC81EA), compiling. 
+[2023.04.23-15.36.52:714][582]LogMaterial: Display: Missing cached shadermap for Material_003 in PCD3D_SM5, Default, SM5 (DDC key hash: 9477988C2F211E1B149871574A4EA9BFF3859DD8), compiling. 
+[2023.04.23-15.36.52:715][582]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 9BB36A1A16A13843D00865835BA75F28289B0396), compiling. 
+[2023.04.23-15.36.52:723][582]MaterialEditorStats: Texture samplers: 0/16
+[2023.04.23-15.36.52:791][584]MaterialEditorStats: Base pass shader: 119 instructions
+[2023.04.23-15.36.52:791][584]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2023.04.23-15.36.52:791][584]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.04.23-15.36.52:791][584]MaterialEditorStats: Texture samplers: 2/16
+[2023.04.23-15.37.00:555][ 17]LogMaterial: Display: Missing cached shadermap for Material_003 in PCD3D_SM5, Default, SM5 (DDC key hash: A9487FA962C62A7156E980A41DAD24622E9E32F6), compiling. 
+[2023.04.23-15.37.00:557][ 17]MaterialEditorStats: Texture samplers: 0/16
+[2023.04.23-15.37.00:580][ 18]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.04.23-15.37.00:580][ 18]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2023.04.23-15.37.00:580][ 18]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2023.04.23-15.37.00:580][ 18]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2023.04.23-15.37.00:580][ 18]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 8
+[2023.04.23-15.37.00:580][ 18]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 7
+[2023.04.23-15.37.00:580][ 18]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 6
+[2023.04.23-15.37.00:580][ 18]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 5
+[2023.04.23-15.37.00:580][ 18]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 4
+[2023.04.23-15.37.00:580][ 18]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 3
+[2023.04.23-15.37.00:580][ 18]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 2
+[2023.04.23-15.37.00:580][ 18]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 1
+[2023.04.23-15.37.00:580][ 18]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2023.04.23-15.37.00:580][ 18]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.04.23-15.37.01:002][ 36]MaterialEditorStats: Texture samplers: 2/16
+[2023.04.23-15.37.01:110][ 45]MaterialEditorStats: Base pass shader: 117 instructions
+[2023.04.23-15.37.01:111][ 45]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2023.04.23-15.37.01:111][ 45]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.04.23-15.37.01:111][ 45]MaterialEditorStats: Texture samplers: 2/16
+[2023.04.23-15.37.03:979][187]LogMaterial: Display: Missing cached shadermap for Material_003 in PCD3D_SM5, Default, SM5 (DDC key hash: C69A75FB00DEB776F9ED131D3E21045B7893F035), compiling. 
+[2023.04.23-15.37.03:981][187]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: AA9A44EAC978C7BC0C314E8E526C8A120186D473), compiling. 
+[2023.04.23-15.37.03:983][187]MaterialEditorStats: Texture samplers: 0/16
+[2023.04.23-15.37.04:022][189]MaterialEditorStats: Base pass shader: 117 instructions
+[2023.04.23-15.37.04:022][189]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2023.04.23-15.37.04:022][189]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.04.23-15.37.04:022][189]MaterialEditorStats: Texture samplers: 2/16
+[2023.04.23-15.37.27:230][277]LogMaterial: Display: Missing cached shadermap for Material_003 in PCD3D_SM5, Default, SM5 (DDC key hash: 80C4078BEDE6AAE032DA2EAC07C74F7A5ABEF276), compiling. 
+[2023.04.23-15.37.27:232][277]MaterialEditorStats: Texture samplers: 0/16
+[2023.04.23-15.37.27:270][279]MaterialEditorStats: Base pass shader: 117 instructions
+[2023.04.23-15.37.27:270][279]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2023.04.23-15.37.27:270][279]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.04.23-15.37.27:270][279]MaterialEditorStats: Texture samplers: 2/16
+[2023.04.23-15.37.51:728][591]LogMaterial: Display: Missing cached shadermap for Material_003 in PCD3D_SM5, Default, SM5 (DDC key hash: 5585AEA7C6207594364FDE3B431DA2592A3A135C), compiling. 
+[2023.04.23-15.37.51:729][591]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: A23A035ED97ED4862765F5AD93DA6D23CAD5CAE4), compiling. 
+[2023.04.23-15.37.51:732][591]MaterialEditorStats: Texture samplers: 0/16
+[2023.04.23-15.37.51:773][593]MaterialEditorStats: Base pass shader: 117 instructions
+[2023.04.23-15.37.51:773][593]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2023.04.23-15.37.51:773][593]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.04.23-15.37.51:773][593]MaterialEditorStats: Texture samplers: 2/16
+[2023.04.23-15.38.05:085][184]LogMaterial: Display: Missing cached shadermap for Material_003 in PCD3D_SM5, Default, SM5 (DDC key hash: 9BE6509163B974CF0776408DE39E69AEB489A43B), compiling. 
+[2023.04.23-15.38.05:087][184]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 73AA9FC72FD59C487A51979BB8C6D35A0A74E775), compiling. 
+[2023.04.23-15.38.05:088][184]LogMaterial: Display: Missing cached shadermap for Material_003 in PCD3D_SM5, Default, SM5 (DDC key hash: E9A57205B7459F600DD162C273215CE686587C45), compiling. 
+[2023.04.23-15.38.05:092][184]MaterialEditorStats: Texture samplers: 0/16
+[2023.04.23-15.38.05:108][185]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.04.23-15.38.05:109][185]MaterialEditorStats: Base pass shader: 117 instructions
+[2023.04.23-15.38.05:109][185]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2023.04.23-15.38.05:109][185]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.04.23-15.38.05:109][185]MaterialEditorStats: Texture samplers: 2/16
+[2023.04.23-15.38.05:117][186]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2023.04.23-15.38.05:117][186]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2023.04.23-15.38.05:117][186]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.04.23-15.38.58:513][506]LogMaterial: Display: Missing cached shadermap for Material_003 in PCD3D_SM5, Default, SM5 (DDC key hash: 1BCE995114D2C8AC898F03D74FB14591B39B5CF9), compiling. 
+[2023.04.23-15.38.58:515][506]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 74F0299163467A3B95B4D632FFEBC9F81A261B0C), compiling. 
+[2023.04.23-15.38.58:516][506]LogMaterial: Display: Missing cached shadermap for Material_003 in PCD3D_SM5, Default, SM5 (DDC key hash: F9C45473E15C51E35DD382AF917088E5FB9C12AB), compiling. 
+[2023.04.23-15.38.58:520][506]MaterialEditorStats: Texture samplers: 0/16
+[2023.04.23-15.38.58:545][507]MaterialEditorStats: Base pass shader: 117 instructions
+[2023.04.23-15.38.58:545][507]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2023.04.23-15.38.58:545][507]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.04.23-15.38.58:545][507]MaterialEditorStats: Texture samplers: 2/16
+[2023.04.23-15.39.02:043][688]LogMaterial: Display: Missing cached shadermap for Material_003 in PCD3D_SM5, Default, SM5 (DDC key hash: 3369F5FDACD11B8454395C74346C25218D34EEF3), compiling. 
+[2023.04.23-15.39.02:045][688]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: C200FD1E83236D8EAC8BB800EE509B61BF5FB0CA), compiling. 
+[2023.04.23-15.39.02:048][688]MaterialEditorStats: Texture samplers: 0/16
+[2023.04.23-15.39.02:048][688]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.04.23-15.39.02:048][688]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.04.23-15.39.02:057][689]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.04.23-15.39.02:066][690]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2023.04.23-15.39.02:066][690]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2023.04.23-15.39.02:066][690]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2023.04.23-15.39.02:066][690]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 8
+[2023.04.23-15.39.02:066][690]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 7
+[2023.04.23-15.39.02:066][690]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 6
+[2023.04.23-15.39.02:066][690]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 5
+[2023.04.23-15.39.02:066][690]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 4
+[2023.04.23-15.39.02:066][690]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 3
+[2023.04.23-15.39.02:066][690]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 2
+[2023.04.23-15.39.02:066][690]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 1
+[2023.04.23-15.39.02:066][690]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2023.04.23-15.39.02:066][690]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.04.23-15.39.02:694][718]MaterialEditorStats: Texture samplers: 3/16
+[2023.04.23-15.39.02:694][718]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.04.23-15.39.02:694][718]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.04.23-15.39.02:740][722]MaterialEditorStats: Base pass shader: 120 instructions
+[2023.04.23-15.39.02:740][722]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2023.04.23-15.39.02:740][722]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.04.23-15.39.02:740][722]MaterialEditorStats: Texture samplers: 3/16
+[2023.04.23-15.39.02:740][722]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.04.23-15.39.02:740][722]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.04.23-15.39.04:313][822]LogMaterialEditor: Applying material Material_003
+[2023.04.23-15.39.04:560][822]LogMaterial: Display: Missing cached shadermap for Material_003 in PCD3D_SM5, Default, SM5 (DDC key hash: D4753B19FE48997ECBEDABA1497BD91F56594D3A), compiling. 
+[2023.04.23-15.39.04:578][822]LogMaterial: Display: Missing cached shadermap for Material_003 in PCD3D_SM5, Default, SM5 (DDC key hash: 193192D8D577CFB3DDA5F96005A9B8F5663CC94B), compiling. 
+[2023.04.23-15.39.04:618][822]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2023.04.23-15.39.04:623][822]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'ForceLocal' priority
+[2023.04.23-15.39.04:828][822]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 1
+[2023.04.23-15.39.04:828][822]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.04.23-15.39.04:857][822]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2023.04.23-15.39.04:862][822]MaterialEditorStats: Texture samplers: 1/16
+[2023.04.23-15.39.04:862][822]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.04.23-15.39.04:862][822]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.04.23-15.39.04:882][824]LogShaderCompilers: Display: Submitted 5 shader compile jobs with 'Normal' priority
+[2023.04.23-15.39.04:882][824]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 5
+[2023.04.23-15.39.04:882][824]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 4
+[2023.04.23-15.39.04:882][824]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 3
+[2023.04.23-15.39.04:882][824]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 2
+[2023.04.23-15.39.04:882][824]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 1
+[2023.04.23-15.39.04:882][824]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Normal' priority
+[2023.04.23-15.39.04:888][824]MaterialEditorStats: Texture samplers: 3/16
+[2023.04.23-15.39.04:889][824]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.04.23-15.39.04:889][824]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.04.23-15.39.05:172][844]MaterialEditorStats: Texture samplers: 4/16
+[2023.04.23-15.39.05:172][844]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.04.23-15.39.05:172][844]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.04.23-15.39.05:188][845]MaterialEditorStats: Base pass shader: 120 instructions
+[2023.04.23-15.39.05:188][845]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2023.04.23-15.39.05:188][845]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.04.23-15.39.05:188][845]MaterialEditorStats: Texture samplers: 4/16
+[2023.04.23-15.39.05:188][845]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.04.23-15.39.05:188][845]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.04.23-15.39.06:075][892]LogMaterialEditor: Saving and Compiling material Material_003
+[2023.04.23-15.39.06:134][892]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Saved/Material_003CAC4C6564425554B6638A3BF7775DB1A.tmp' to '../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Content/Blueprints_Maps/Assets/Material_003.uasset'
+[2023.04.23-15.39.06:149][892]AssetCheck: New page: Asset Save: Material_003
+[2023.04.23-15.39.06:149][892]LogContentValidation: Display: Validating Material /Game/Blueprints_Maps/Assets/Material_003.Material_003
+[2023.04.23-15.39.26:880][354]LogMaterial: Display: Missing cached shadermap for Material_003 in PCD3D_SM5, Default, SM5 (DDC key hash: 279243C43B05D96D0B94D16706EEB43666049F80), compiling. 
+[2023.04.23-15.39.26:881][354]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: FE1948C913CBC1430CB42F6F1D93E4DFFBB0462A), compiling. 
+[2023.04.23-15.39.26:882][354]LogMaterial: Display: Missing cached shadermap for Material_003 in PCD3D_SM5, Default, SM5 (DDC key hash: 2ED3361696D8F5381528B8A4108F8A28F39EA269), compiling. 
+[2023.04.23-15.39.26:886][354]MaterialEditorStats: Texture samplers: 0/16
+[2023.04.23-15.39.26:886][354]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.04.23-15.39.26:886][354]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.04.23-15.39.26:913][355]MaterialEditorStats: Base pass shader: 120 instructions
+[2023.04.23-15.39.26:913][355]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2023.04.23-15.39.26:913][355]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.04.23-15.39.26:913][355]MaterialEditorStats: Texture samplers: 3/16
+[2023.04.23-15.39.26:913][355]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.04.23-15.39.26:913][355]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.04.23-15.39.30:200][578]LogMaterialEditor: Applying material Material_003
+[2023.04.23-15.39.30:443][578]LogMaterial: Display: Missing cached shadermap for Material_003 in PCD3D_SM5, Default, SM5 (DDC key hash: E7F44A00A084C36EE3DA924D5B2B0CAB9EEEBF2A), compiling. 
+[2023.04.23-15.39.30:458][578]LogMaterial: Display: Missing cached shadermap for Material_003 in PCD3D_SM5, Default, SM5 (DDC key hash: 14A67F1F6490276370110D803952423F759033C8), compiling. 
+[2023.04.23-15.39.30:490][578]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2023.04.23-15.39.30:627][578]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2023.04.23-15.39.30:631][578]MaterialEditorStats: Texture samplers: 1/16
+[2023.04.23-15.39.30:631][578]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.04.23-15.39.30:631][578]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.04.23-15.39.30:657][580]MaterialEditorStats: Base pass shader: 120 instructions
+[2023.04.23-15.39.30:657][580]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2023.04.23-15.39.30:657][580]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.04.23-15.39.30:657][580]MaterialEditorStats: Texture samplers: 4/16
+[2023.04.23-15.39.30:657][580]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.04.23-15.39.30:657][580]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.04.23-15.40.05:134][288]LogContentBrowser: Attempting asset rename: Material_003 -> Heart_Material
+[2023.04.23-15.40.05:180][288]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Saved/Heart_Material54C7669246A5C38E5A309E8CBCED9FC7.tmp' to '../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Content/Blueprints_Maps/Assets/Heart_Material.uasset'
+[2023.04.23-15.40.05:341][288]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2023.04.23-15.40.05:373][288]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2023.04.23-15.40.05:398][288]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2023.04.23-15.40.05:433][288]AssetCheck: New page: Asset Save: Heart_Material
+[2023.04.23-15.40.05:433][288]LogContentValidation: Display: Validating Material /Game/Blueprints_Maps/Assets/Heart_Material.Heart_Material
+[2023.04.23-15.40.45:238][ 58]BlueprintLog: New page: Compile HealthPickup_BP
+[2023.04.23-15.40.45:301][ 58]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2023.04.23-15.40.45:743][ 76]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Saved/HealthPickup_BP09EC80054E06FAED7FF7C0AB95A931A5.tmp' to '../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Content/Blueprints_Maps/Blueprints/HealthPickup_BP.uasset'
+[2023.04.23-15.40.45:758][ 76]AssetCheck: New page: Asset Save: HealthPickup_BP
+[2023.04.23-15.40.45:759][ 76]LogContentValidation: Display: Validating Blueprint /Game/Blueprints_Maps/Blueprints/HealthPickup_BP.HealthPickup_BP
+[2023.04.23-15.40.47:931][255]LogTemp: Repeating last play command: Selected Viewport
+[2023.04.23-15.40.47:938][255]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.23-15.40.47:938][255]PIE: New page: PIE session: SecondLevel (23 Apr 2023, 17:40:47)
+[2023.04.23-15.40.47:963][255]LogPlayLevel: Creating play world package: /Game/Blueprints_Maps/Maps/UEDPIE_0_SecondLevel
+[2023.04.23-15.40.47:986][255]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022658s)
+[2023.04.23-15.40.47:986][255]LogAIModule: Creating AISystem for world SecondLevel
+[2023.04.23-15.40.47:986][255]LogPlayLevel: PIE: World Init took: (0.000745s)
+[2023.04.23-15.40.47:987][255]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Blueprints_Maps/Maps/SecondLevel.SecondLevel to /Game/Blueprints_Maps/Maps/UEDPIE_0_SecondLevel.SecondLevel (0.023528s)
+[2023.04.23-15.40.48:016][255]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2023.04.23-15.40.48:017][255]LogAudio: Display: Creating Audio Device:                 Id: 29, Scope: Unique, Realtime: True
+[2023.04.23-15.40.48:017][255]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.23-15.40.48:017][255]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.23-15.40.48:017][255]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.23-15.40.48:017][255]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.23-15.40.48:017][255]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.23-15.40.48:017][255]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.23-15.40.48:017][255]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.23-15.40.48:017][255]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.23-15.40.48:018][255]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.23-15.40.48:018][255]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.23-15.40.48:018][255]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.23-15.40.48:018][255]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.23-15.40.48:020][255]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.23-15.40.48:020][255]LogAudioMixer: Display: 1: FrontRight
+[2023.04.23-15.40.48:027][255]LogAudioMixer: Display: Using Audio Device Speakers ([AV] Samsung Soundbar T400 T-Series   Stereo)
+[2023.04.23-15.40.48:027][255]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.23-15.40.48:027][255]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.23-15.40.48:027][255]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.23-15.40.48:028][255]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.23-15.40.48:028][255]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.23-15.40.48:028][255]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.04.23-15.40.48:029][255]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.23-15.40.48:029][255]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.23-15.40.48:029][255]LogInit: FAudioDevice initialized.
+[2023.04.23-15.40.48:029][255]LogAudio: Display: Audio Device (ID: 29) registered with world 'SecondLevel'.
+[2023.04.23-15.40.48:039][255]LogLoad: Game class is 'GameModeBase'
+[2023.04.23-15.40.48:044][255]LogWorld: Bringing World /Game/Blueprints_Maps/Maps/UEDPIE_0_SecondLevel.SecondLevel up for play (max tick rate 0) at 2023.04.23-16.40.48
+[2023.04.23-15.40.48:044][255]LogWorld: Bringing up level for play took: 0.003676
+[2023.04.23-15.40.48:044][255]LogOnline: OSS: Creating online subsystem instance for: :Context_67
+[2023.04.23-15.40.48:046][255]PIE: Server logged in
+[2023.04.23-15.40.48:047][255]PIE: Play in editor total start time 0.112 seconds.
+[2023.04.23-15.40.55:641][163]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 125.0
+[2023.04.23-15.40.56:926][312]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.23-15.40.56:926][312]LogWorld: BeginTearingDown for /Game/Blueprints_Maps/Maps/UEDPIE_0_SecondLevel
+[2023.04.23-15.40.56:926][312]LogWorld: UWorld::CleanupWorld for SecondLevel, bSessionEnded=true, bCleanupResources=true
+[2023.04.23-15.40.56:927][312]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.23-15.40.56:940][312]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.23-15.40.56:948][312]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.23-15.40.56:975][312]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.23-15.40.56:975][312]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.23-15.40.56:976][312]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.23-15.40.56:979][312]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.23-15.40.56:982][312]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2023.04.23-15.40.57:010][313]LogPlayLevel: Display: Destroying online subsystem :Context_67
+[2023.04.23-15.40.57:968][397]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2023.04.23-15.40.58:095][397]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Saved/SecondLevel0A245AC842452C110C9B5C8F7DB8EC61.tmp' to '../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Content/Blueprints_Maps/Maps/SecondLevel.umap'
+[2023.04.23-15.40.58:437][397]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Saved/SecondLevel_BuiltData3CB8BDA1483C60217D6AFD999DE140F6.tmp' to '../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Content/Blueprints_Maps/Maps/SecondLevel_BuiltData.uasset'
+[2023.04.23-15.40.58:450][397]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.23-15.40.58:450][397]LogContentValidation: Display: Validating World /Game/Blueprints_Maps/Maps/SecondLevel.SecondLevel
+[2023.04.23-15.40.58:450][397]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Blueprints_Maps/Maps/SecondLevel_BuiltData.SecondLevel_BuiltData
