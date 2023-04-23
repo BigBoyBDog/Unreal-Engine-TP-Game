@@ -5105,3 +5105,563 @@ Please see Output Log for details.
 [2023.04.23-15.40.58:450][397]AssetCheck: New page: Asset Save: multiple assets
 [2023.04.23-15.40.58:450][397]LogContentValidation: Display: Validating World /Game/Blueprints_Maps/Maps/SecondLevel.SecondLevel
 [2023.04.23-15.40.58:450][397]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Blueprints_Maps/Maps/SecondLevel_BuiltData.SecondLevel_BuiltData
+[2023.04.23-15.41.39:924][699]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2023.04.23-15.41.40:051][699]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Saved/SecondLevelD74BE4294D39F3F45488B79765F2EDFB.tmp' to '../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Content/Blueprints_Maps/Maps/SecondLevel.umap'
+[2023.04.23-15.41.40:397][699]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Saved/SecondLevel_BuiltDataA44B452D41FF9BFE0B99CD89C26FD99E.tmp' to '../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Content/Blueprints_Maps/Maps/SecondLevel_BuiltData.uasset'
+[2023.04.23-15.41.40:410][699]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.23-15.41.40:410][699]LogContentValidation: Display: Validating World /Game/Blueprints_Maps/Maps/SecondLevel.SecondLevel
+[2023.04.23-15.41.40:410][699]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Blueprints_Maps/Maps/SecondLevel_BuiltData.SecondLevel_BuiltData
+[2023.04.23-15.41.58:729][ 94]LogWorld: UWorld::CleanupWorld for World_47, bSessionEnded=true, bCleanupResources=true
+[2023.04.23-15.41.58:729][ 94]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.23-15.41.58:734][ 94]LogWorld: UWorld::CleanupWorld for World_46, bSessionEnded=true, bCleanupResources=true
+[2023.04.23-15.41.58:734][ 94]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.23-15.42.00:403][191]LogWorld: UWorld::CleanupWorld for World_49, bSessionEnded=true, bCleanupResources=true
+[2023.04.23-15.42.00:403][191]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.23-15.42.03:040][325]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.04.23-15.42.03:040][325]LogWorld: UWorld::CleanupWorld for World_50, bSessionEnded=true, bCleanupResources=true
+[2023.04.23-15.42.03:040][325]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.23-15.42.07:916][398]LogSlate: Window 'Message' being destroyed
+[2023.04.23-15.42.07:922][398]Message dialog closed, result: Yes, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/Blueprints_Maps/Assets/Key_Material.Key_Material
+(Selecting 'No' will cause all changes to be lost!)
+[2023.04.23-15.42.08:161][398]LogMaterial: Display: Missing cached shadermap for Material__30 in PCD3D_SM5, Default, SM5 (DDC key hash: 1F59FF8529A3C39FEF6A41C119CD1DDDE776A9EE), compiling. 
+[2023.04.23-15.42.08:179][398]LogMaterial: Display: Missing cached shadermap for Key_Material in PCD3D_SM5, Default, SM5 (DDC key hash: AF367AB5D59D39AA8956DC68802A42E8F5393A21), compiling. 
+[2023.04.23-15.42.08:205][398]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.04.23-15.42.08:205][398]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2023.04.23-15.42.08:205][398]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2023.04.23-15.42.08:205][398]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.04.23-15.42.08:215][398]LogShaderCompilers: Display: Submitted 14 shader compile jobs with 'Normal' priority
+[2023.04.23-15.42.08:215][398]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 14
+[2023.04.23-15.42.08:215][398]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 12
+[2023.04.23-15.42.08:215][398]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 10
+[2023.04.23-15.42.08:215][398]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 8
+[2023.04.23-15.42.08:215][398]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 6
+[2023.04.23-15.42.08:215][398]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 4
+[2023.04.23-15.42.08:215][398]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 2
+[2023.04.23-15.42.08:215][398]LogShaderCompilers: Display: Started 14 'Local' shader compile jobs with 'Normal' priority
+[2023.04.23-15.42.08:227][398]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2023.04.23-15.42.08:338][398]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.04.23-15.42.08:338][398]LogShaderCompilers: Display: Total job queries 1226, among them cache hits 556 (45.35%)
+[2023.04.23-15.42.08:338][398]LogShaderCompilers: Display: Tracking 642 distinct input hashes that result in 322 distinct outputs (50.16%)
+[2023.04.23-15.42.08:338][398]LogShaderCompilers: Display: RAM used: 1.86 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.23%
+[2023.04.23-15.42.08:338][398]LogShaderCompilers: Display: ================================================
+[2023.04.23-15.42.08:878][398]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2023.04.23-15.42.09:024][398]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2023.04.23-15.42.09:024][398]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.23-15.42.11:096][510]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2023.04.23-15.42.11:096][510]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.23-15.42.11:102][510]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2023.04.23-15.42.11:102][510]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.23-15.42.12:417][561]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.04.23-15.42.12:417][561]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2023.04.23-15.42.12:417][561]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.23-15.42.13:370][602]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2023.04.23-15.42.13:370][602]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.23-15.42.13:377][602]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2023.04.23-15.42.13:377][602]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.23-15.42.38:007][228]LogWorld: UWorld::CleanupWorld for World_51, bSessionEnded=true, bCleanupResources=true
+[2023.04.23-15.42.38:007][228]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.23-15.42.42:123][524]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints_Maps/Blueprints/HealthPickup_BP.HealthPickup_BP
+[2023.04.23-15.42.45:085][707]BlueprintLog: New page: Compile HealthPickup_BP
+[2023.04.23-15.42.45:099][707]LogBlueprint: Warning: [AssetLog] D:\Unreal Engine Projects\Unreal-Engine-TP-Game\ThirdPersonGame\Content\Blueprints_Maps\Blueprints\HealthPickup_BP.uasset: [Compiler] Could not find a variable named "CollectionMesh" in 'HealthPickup_BP_C'.
+Make sure 'HealthPickup_BP_C' has been compiled for  Get CollectionMesh
+[2023.04.23-15.42.45:108][707]LogBlueprint: Error: [AssetLog] D:\Unreal Engine Projects\Unreal-Engine-TP-Game\ThirdPersonGame\Content\Blueprints_Maps\Blueprints\HealthPickup_BP.uasset: [Compiler] The property associated with  Collection Mesh  could not be found in '/Game/Blueprints_Maps/Blueprints/HealthPickup_BP.HealthPickup_BP_C'
+[2023.04.23-15.42.45:174][707]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2023.04.23-15.42.57:680][373]BlueprintLog: New page: Compile HealthPickup_BP
+[2023.04.23-15.42.57:723][373]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2023.04.23-15.42.58:170][392]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Saved/HealthPickup_BP09F6E5484AAC3C3B62C2D9810F3EA752.tmp' to '../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Content/Blueprints_Maps/Blueprints/HealthPickup_BP.uasset'
+[2023.04.23-15.42.58:184][392]AssetCheck: New page: Asset Save: HealthPickup_BP
+[2023.04.23-15.42.58:184][392]LogContentValidation: Display: Validating Blueprint /Game/Blueprints_Maps/Blueprints/HealthPickup_BP.HealthPickup_BP
+[2023.04.23-15.42.59:702][525]LogTemp: Repeating last play command: Selected Viewport
+[2023.04.23-15.42.59:709][525]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.23-15.42.59:709][525]PIE: New page: PIE session: SecondLevel (23 Apr 2023, 17:42:59)
+[2023.04.23-15.42.59:733][525]LogPlayLevel: Creating play world package: /Game/Blueprints_Maps/Maps/UEDPIE_0_SecondLevel
+[2023.04.23-15.42.59:756][525]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022957s)
+[2023.04.23-15.42.59:757][525]LogAIModule: Creating AISystem for world SecondLevel
+[2023.04.23-15.42.59:757][525]LogPlayLevel: PIE: World Init took: (0.000660s)
+[2023.04.23-15.42.59:757][525]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Blueprints_Maps/Maps/SecondLevel.SecondLevel to /Game/Blueprints_Maps/Maps/UEDPIE_0_SecondLevel.SecondLevel (0.023738s)
+[2023.04.23-15.42.59:779][525]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2023.04.23-15.42.59:780][525]LogAudio: Display: Creating Audio Device:                 Id: 30, Scope: Unique, Realtime: True
+[2023.04.23-15.42.59:780][525]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.23-15.42.59:780][525]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.23-15.42.59:780][525]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.23-15.42.59:780][525]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.23-15.42.59:780][525]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.23-15.42.59:780][525]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.23-15.42.59:780][525]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.23-15.42.59:780][525]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.23-15.42.59:781][525]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.23-15.42.59:781][525]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.23-15.42.59:781][525]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.23-15.42.59:781][525]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.23-15.42.59:783][525]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.23-15.42.59:783][525]LogAudioMixer: Display: 1: FrontRight
+[2023.04.23-15.42.59:790][525]LogAudioMixer: Display: Using Audio Device Speakers ([AV] Samsung Soundbar T400 T-Series   Stereo)
+[2023.04.23-15.42.59:790][525]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.23-15.42.59:790][525]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.23-15.42.59:790][525]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.23-15.42.59:791][525]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.23-15.42.59:791][525]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.23-15.42.59:791][525]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.04.23-15.42.59:792][525]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.23-15.42.59:792][525]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.23-15.42.59:792][525]LogInit: FAudioDevice initialized.
+[2023.04.23-15.42.59:792][525]LogAudio: Display: Audio Device (ID: 30) registered with world 'SecondLevel'.
+[2023.04.23-15.42.59:798][525]LogLoad: Game class is 'GameModeBase'
+[2023.04.23-15.42.59:802][525]LogWorld: Bringing World /Game/Blueprints_Maps/Maps/UEDPIE_0_SecondLevel.SecondLevel up for play (max tick rate 0) at 2023.04.23-16.42.59
+[2023.04.23-15.42.59:802][525]LogWorld: Bringing up level for play took: 0.003586
+[2023.04.23-15.42.59:802][525]LogOnline: OSS: Creating online subsystem instance for: :Context_69
+[2023.04.23-15.42.59:805][525]PIE: Server logged in
+[2023.04.23-15.42.59:805][525]PIE: Play in editor total start time 0.1 seconds.
+[2023.04.23-15.43.05:316][177]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.23-15.43.05:316][177]LogWorld: BeginTearingDown for /Game/Blueprints_Maps/Maps/UEDPIE_0_SecondLevel
+[2023.04.23-15.43.05:317][177]LogWorld: UWorld::CleanupWorld for SecondLevel, bSessionEnded=true, bCleanupResources=true
+[2023.04.23-15.43.05:318][177]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.23-15.43.05:331][177]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.23-15.43.05:338][177]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.23-15.43.05:359][177]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.23-15.43.05:359][177]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.23-15.43.05:360][177]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.23-15.43.05:362][177]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.23-15.43.05:366][177]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2023.04.23-15.43.05:396][178]LogPlayLevel: Display: Destroying online subsystem :Context_69
+[2023.04.23-15.43.10:458][554]BlueprintLog: New page: Compile HealthPickup_BP
+[2023.04.23-15.43.10:500][554]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2023.04.23-15.43.11:018][577]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Saved/HealthPickup_BP69EB84DA4827BACE6F38FD9805A02669.tmp' to '../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Content/Blueprints_Maps/Blueprints/HealthPickup_BP.uasset'
+[2023.04.23-15.43.11:032][577]AssetCheck: New page: Asset Save: HealthPickup_BP
+[2023.04.23-15.43.11:032][577]LogContentValidation: Display: Validating Blueprint /Game/Blueprints_Maps/Blueprints/HealthPickup_BP.HealthPickup_BP
+[2023.04.23-15.43.12:532][701]LogTemp: Repeating last play command: Selected Viewport
+[2023.04.23-15.43.12:539][701]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.23-15.43.12:539][701]PIE: New page: PIE session: SecondLevel (23 Apr 2023, 17:43:12)
+[2023.04.23-15.43.12:539][701]LogPlayLevel: Creating play world package: /Game/Blueprints_Maps/Maps/UEDPIE_0_SecondLevel
+[2023.04.23-15.43.12:562][701]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022533s)
+[2023.04.23-15.43.12:562][701]LogAIModule: Creating AISystem for world SecondLevel
+[2023.04.23-15.43.12:562][701]LogPlayLevel: PIE: World Init took: (0.000639s)
+[2023.04.23-15.43.12:563][701]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Blueprints_Maps/Maps/SecondLevel.SecondLevel to /Game/Blueprints_Maps/Maps/UEDPIE_0_SecondLevel.SecondLevel (0.023325s)
+[2023.04.23-15.43.12:585][701]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2023.04.23-15.43.12:587][701]LogAudio: Display: Creating Audio Device:                 Id: 31, Scope: Unique, Realtime: True
+[2023.04.23-15.43.12:587][701]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.23-15.43.12:587][701]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.23-15.43.12:587][701]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.23-15.43.12:587][701]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.23-15.43.12:587][701]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.23-15.43.12:587][701]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.23-15.43.12:587][701]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.23-15.43.12:587][701]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.23-15.43.12:587][701]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.23-15.43.12:587][701]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.23-15.43.12:587][701]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.23-15.43.12:587][701]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.23-15.43.12:589][701]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.23-15.43.12:589][701]LogAudioMixer: Display: 1: FrontRight
+[2023.04.23-15.43.12:596][701]LogAudioMixer: Display: Using Audio Device Speakers ([AV] Samsung Soundbar T400 T-Series   Stereo)
+[2023.04.23-15.43.12:596][701]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.23-15.43.12:596][701]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.23-15.43.12:596][701]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.23-15.43.12:596][701]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.23-15.43.12:596][701]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.23-15.43.12:596][701]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.04.23-15.43.12:597][701]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.23-15.43.12:597][701]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.23-15.43.12:597][701]LogInit: FAudioDevice initialized.
+[2023.04.23-15.43.12:597][701]LogAudio: Display: Audio Device (ID: 31) registered with world 'SecondLevel'.
+[2023.04.23-15.43.12:603][701]LogLoad: Game class is 'GameModeBase'
+[2023.04.23-15.43.12:607][701]LogWorld: Bringing World /Game/Blueprints_Maps/Maps/UEDPIE_0_SecondLevel.SecondLevel up for play (max tick rate 0) at 2023.04.23-16.43.12
+[2023.04.23-15.43.12:607][701]LogWorld: Bringing up level for play took: 0.003800
+[2023.04.23-15.43.12:607][701]LogOnline: OSS: Creating online subsystem instance for: :Context_70
+[2023.04.23-15.43.12:610][701]PIE: Server logged in
+[2023.04.23-15.43.12:611][701]PIE: Play in editor total start time 0.075 seconds.
+[2023.04.23-15.43.23:490][  1]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 125.0
+[2023.04.23-15.43.26:296][334]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.23-15.43.26:296][334]LogWorld: BeginTearingDown for /Game/Blueprints_Maps/Maps/UEDPIE_0_SecondLevel
+[2023.04.23-15.43.26:296][334]LogWorld: UWorld::CleanupWorld for SecondLevel, bSessionEnded=true, bCleanupResources=true
+[2023.04.23-15.43.26:297][334]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.23-15.43.26:307][334]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.23-15.43.26:315][334]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.23-15.43.26:335][334]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.23-15.43.26:335][334]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.23-15.43.26:336][334]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.23-15.43.26:338][334]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.23-15.43.26:342][334]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2023.04.23-15.43.26:371][335]LogPlayLevel: Display: Destroying online subsystem :Context_70
+[2023.04.23-15.43.28:289][471]MapCheck: New page: Map Check
+[2023.04.23-15.43.28:300][471]LightingResults: New page: Lighting Build - 23 Apr 2023, 17:43:28
+[2023.04.23-15.43.28:308][471]LightingResults: Warning: InstancedFoliageActor_0 The total lightmap size for this InstancedStaticMeshComponent is large, consider reducing the component's lightmap resolution or number of mesh instances in this component
+[2023.04.23-15.43.28:310][471]LightingResults: Warning: InstancedFoliageActor_0 The total lightmap size for this InstancedStaticMeshComponent is large, consider reducing the component's lightmap resolution or number of mesh instances in this component
+[2023.04.23-15.43.28:310][471]LightingResults: Warning: InstancedFoliageActor_0 The total lightmap size for this InstancedStaticMeshComponent is large, consider reducing the component's lightmap resolution or number of mesh instances in this component
+[2023.04.23-15.43.28:310][471]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2023.04.23-15.43.28:313][471]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2023.04.23-15.43.28:313][471]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2023.04.23-15.43.28:314][471]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2023.04.23-15.43.28:314][471]LogSwarmInterface: [TryOpenConnection] Local Process ID is 26248
+[2023.04.23-15.43.32:874][471]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2023.04.23-15.43.32:881][471]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2023.04.23-15.43.32:881][471]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2023.04.23-15.43.32:881][471]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2023.04.23-15.43.32:881][471]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2023.04.23-15.43.32:881][471]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2023.04.23-15.43.32:991][471]LogEditorBuildUtils: Build time 0:04
+[2023.04.23-15.43.33:100][473]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2023.04.23-15.43.39:605][631]LightingResults: Warning: SM_EX_EnvAssets_Pine2 Object has overlapping UVs.
+[2023.04.23-15.43.39:605][631]LightingResults: SM_EX_EnvAssets_Pine2 Lightmap UV are overlapping by 1.2%. Please adjust content - Enable Error Coloring to visualize.
+[2023.04.23-15.43.39:605][631]LightingResults: Warning: SM_EX_EnvAssets_Pine2 Object has overlapping UVs.
+[2023.04.23-15.43.39:605][631]LightingResults: SM_EX_EnvAssets_Pine2 Lightmap UV are overlapping by 1.2%. Please adjust content - Enable Error Coloring to visualize.
+[2023.04.23-15.43.39:605][631]LightingResults: Warning: SM_EX_EnvAssets_Pine2 Object has overlapping UVs.
+[2023.04.23-15.43.39:605][631]LightingResults: SM_EX_EnvAssets_Pine2 Lightmap UV are overlapping by 1.2%. Please adjust content - Enable Error Coloring to visualize.
+[2023.04.23-15.43.40:273][633]LightingResults: Warning: SM_EX_EnvAssets_Pine2 Object has overlapping UVs.
+[2023.04.23-15.43.40:273][633]LightingResults: SM_EX_EnvAssets_Pine2 Lightmap UV are overlapping by 1.2%. Please adjust content - Enable Error Coloring to visualize.
+[2023.04.23-15.43.40:609][634]LightingResults: Warning: SM_EX_EnvAssets_Pine2 Object has overlapping UVs.
+[2023.04.23-15.43.40:609][634]LightingResults: SM_EX_EnvAssets_Pine2 Lightmap UV are overlapping by 1.2%. Please adjust content - Enable Error Coloring to visualize.
+[2023.04.23-15.43.40:937][635]LightingResults: Warning: SM_EX_EnvAssets_Pine2 Object has overlapping UVs.
+[2023.04.23-15.43.40:937][635]LightingResults: SM_EX_EnvAssets_Pine2 Lightmap UV are overlapping by 1.2%. Please adjust content - Enable Error Coloring to visualize.
+[2023.04.23-15.43.41:273][636]LightingResults: Warning: SM_EX_EnvAssets_Pine2 Object has overlapping UVs.
+[2023.04.23-15.43.41:273][636]LightingResults: SM_EX_EnvAssets_Pine2 Lightmap UV are overlapping by 1.2%. Please adjust content - Enable Error Coloring to visualize.
+[2023.04.23-15.43.41:949][638]LightingResults: Warning: SM_EX_EnvAssets_Pine2 Object has overlapping UVs.
+[2023.04.23-15.43.41:949][638]LightingResults: SM_EX_EnvAssets_Pine2 Lightmap UV are overlapping by 1.2%. Please adjust content - Enable Error Coloring to visualize.
+[2023.04.23-15.43.41:949][638]LightingResults: Warning: SM_EX_EnvAssets_Pine2 Object has overlapping UVs.
+[2023.04.23-15.43.41:949][638]LightingResults: SM_EX_EnvAssets_Pine2 Lightmap UV are overlapping by 1.2%. Please adjust content - Enable Error Coloring to visualize.
+[2023.04.23-15.43.42:277][639]LightingResults: Warning: SM_EX_EnvAssets_Pine2 Object has overlapping UVs.
+[2023.04.23-15.43.42:277][639]LightingResults: SM_EX_EnvAssets_Pine2 Lightmap UV are overlapping by 1.2%. Please adjust content - Enable Error Coloring to visualize.
+[2023.04.23-15.43.42:605][640]LightingResults: Warning: SM_EX_EnvAssets_Pine2 Object has overlapping UVs.
+[2023.04.23-15.43.42:605][640]LightingResults: SM_EX_EnvAssets_Pine2 Lightmap UV are overlapping by 1.2%. Please adjust content - Enable Error Coloring to visualize.
+[2023.04.23-15.43.43:277][642]LightingResults: Warning: SM_EX_EnvAssets_Pine2 Object has overlapping UVs.
+[2023.04.23-15.43.43:277][642]LightingResults: SM_EX_EnvAssets_Pine2 Lightmap UV are overlapping by 1.2%. Please adjust content - Enable Error Coloring to visualize.
+[2023.04.23-15.43.43:277][642]LightingResults: Warning: SM_EX_EnvAssets_Pine2 Object has overlapping UVs.
+[2023.04.23-15.43.43:277][642]LightingResults: SM_EX_EnvAssets_Pine2 Lightmap UV are overlapping by 1.2%. Please adjust content - Enable Error Coloring to visualize.
+[2023.04.23-15.43.48:649][658]LightingResults: Warning: SM_EX_EnvAssets_Well Object has overlapping UVs.
+[2023.04.23-15.43.48:649][658]LightingResults: SM_EX_EnvAssets_Well Lightmap UV are overlapping by 1.7%. Please adjust content - Enable Error Coloring to visualize.
+[2023.04.23-15.44.13:701][851]Job is a success!
+[2023.04.23-15.44.13:857][852]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.076s
+[2023.04.23-15.44.13:857][852]LogVolumetricLightmapImport:      Indirection Texture 32x32x16 = 0.1Mb
+[2023.04.23-15.44.13:857][852]LogVolumetricLightmapImport:      BrickData (all levels) 3.8Mb (trimmed 0.2Mb due to 0.010000 MinBrickError)
+[2023.04.23-15.44.13:857][852]LogVolumetricLightmapImport:      Bricks at depth
+[2023.04.23-15.44.13:857][852]LogVolumetricLightmapImport:          0: 0.8% covering 100.0% of volume
+[2023.04.23-15.44.13:857][852]LogVolumetricLightmapImport:          1: 4.8% covering 9.8% of volume
+[2023.04.23-15.44.13:857][852]LogVolumetricLightmapImport:          2: 94.4% covering 3.0% of volume
+[2023.04.23-15.44.13:857][852]LogVolumetricLightmapImport:      Bricks in each level
+[2023.04.23-15.44.13:857][852]LogVolumetricLightmapImport:          SecondLevel 			 521 bricks 	 100.0% (Persistent Level)
+[2023.04.23-15.44.17:403][852]LogTexture: Display: Building textures: SkyOcclusion0_1 (OODLE_AutoDXT, 4096X2048)
+[2023.04.23-15.44.17:403][852]LogTextureFormatOodle: Display: non-RDO encode 4096 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.04.23-15.44.17:403][852]LogTextureFormatOodle: Display: non-RDO encode 2048 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.04.23-15.44.17:403][852]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.04.23-15.44.17:403][852]LogTexture: Display: Building textures: HQ_Lightmap0_1 (OODLE_AutoDXT, 4096X4096)
+[2023.04.23-15.44.17:403][852]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.04.23-15.44.17:403][852]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.04.23-15.44.17:403][852]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.04.23-15.44.17:403][852]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (OODLE_DXT1, 4096X4096)
+[2023.04.23-15.44.17:403][852]LogTexture: Display: Building textures: SkyOcclusion0_2 (OODLE_AutoDXT, 64X32)
+[2023.04.23-15.44.17:403][852]LogTexture: Display: Building textures: HQ_Lightmap0_2 (OODLE_AutoDXT, 64X64)
+[2023.04.23-15.44.17:403][852]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (OODLE_DXT1, 64X64)
+[2023.04.23-15.44.17:403][852]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.04.23-15.44.17:403][852]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.04.23-15.44.17:403][852]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.04.23-15.44.17:603][852]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 32X32)
+[2023.04.23-15.44.18:443][852]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 4096X2048)
+[2023.04.23-15.44.18:443][852]Lightmass on DESKTOP-I13HMQJ: 44.9 sec total, 204 ms importing, 523 ms setup, 4.41 sec photons, 39.7 sec processing, 0 ms extra exporting [4389/4389 mappings]. Threads: 9:56 min total, 6:50 min processing.
+[2023.04.23-15.44.18:453][852]LogStaticLightingSystem: SecondLevel_BuiltData storing lightmap data for 163 meshes in 3 LightmapResourceClusters (54.3 Meshes per cluster).
+[2023.04.23-15.44.18:488][852]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2023.04.23-15.44.18:519][852]LogStaticLightingSystem: Illumination: 50.1 sec (2.00 sec encoding lightmaps, 983 ms encoding shadowmaps)
+[2023.04.23-15.44.18:519][852]LogStaticLightingSystem: Lightmap texture memory:  42.7 MB (42.7 MB streaming, 0.0 MB non-streaming), 4 textures
+[2023.04.23-15.44.18:519][852]LogStaticLightingSystem: Shadowmap texture memory: 10.7 MB (10.7 MB streaming, 0.0 MB non-streaming), 2 textures
+[2023.04.23-15.44.18:902][852]DumpUnbuiltLightIteractions
+[2023.04.23-15.44.18:902][852]Lights with unbuilt interactions: 0
+[2023.04.23-15.44.18:902][852]
+[2023.04.23-15.44.18:902][852]Primitives with unbuilt interactions: 0
+[2023.04.23-15.44.18:966][853]Cmd: MAP CHECK NOTIFYRESULTS
+[2023.04.23-15.44.18:967][853]MapCheck: New page: SecondLevel - 23 Apr 2023, 17:44:18
+[2023.04.23-15.44.18:967][853]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.556ms to complete.
+[2023.04.23-15.44.20:634][ 35]LogSlate: Window 'Message Log' being destroyed
+[2023.04.23-15.44.20:637][ 35]LogSlate: Window 'Message Log' being destroyed
+[2023.04.23-15.44.21:468][129]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2023.04.23-15.44.21:599][129]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Saved/SecondLevelF824E5254531817630B7BF994EDD570B.tmp' to '../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Content/Blueprints_Maps/Maps/SecondLevel.umap'
+[2023.04.23-15.44.22:354][129]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Saved/SecondLevel_BuiltDataD9A8BB1B4EC48C8CE88DA68DEE5FE2E6.tmp' to '../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Content/Blueprints_Maps/Maps/SecondLevel_BuiltData.uasset'
+[2023.04.23-15.44.22:379][129]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.23-15.44.22:379][129]LogContentValidation: Display: Validating World /Game/Blueprints_Maps/Maps/SecondLevel.SecondLevel
+[2023.04.23-15.44.22:380][129]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Blueprints_Maps/Maps/SecondLevel_BuiltData.SecondLevel_BuiltData
+[2023.04.23-15.45.43:201][176]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Snowy_Farm2)
+[2023.04.23-15.45.44:001][264]Cmd: DELETE
+[2023.04.23-15.45.44:001][264]Cmd: ACTOR DELETE
+[2023.04.23-15.45.44:008][264]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.23-15.45.44:031][264]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2023.04.23-15.45.44:034][264]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2023.04.23-15.45.44:407][308]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Viking_House_A3)
+[2023.04.23-15.45.44:516][318]Cmd: DELETE
+[2023.04.23-15.45.44:516][318]Cmd: ACTOR DELETE
+[2023.04.23-15.45.44:524][318]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.23-15.45.44:546][318]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2023.04.23-15.45.44:547][318]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2023.04.23-15.45.44:863][355]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Viking_House_A4)
+[2023.04.23-15.45.44:961][364]Cmd: DELETE
+[2023.04.23-15.45.44:962][364]Cmd: ACTOR DELETE
+[2023.04.23-15.45.44:969][364]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.23-15.45.44:990][364]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2023.04.23-15.45.44:991][364]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2023.04.23-15.45.46:031][484]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2023.04.23-15.45.46:157][484]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Saved/SecondLevel75DC7FCF414CEA09B86B748ACBDBFFC4.tmp' to '../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Content/Blueprints_Maps/Maps/SecondLevel.umap'
+[2023.04.23-15.45.46:811][484]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Saved/SecondLevel_BuiltDataCF2ED29541A4E94C6339E8A2EBB76147.tmp' to '../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Content/Blueprints_Maps/Maps/SecondLevel_BuiltData.uasset'
+[2023.04.23-15.45.46:830][484]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.23-15.45.46:830][484]LogContentValidation: Display: Validating World /Game/Blueprints_Maps/Maps/SecondLevel.SecondLevel
+[2023.04.23-15.45.46:830][484]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Blueprints_Maps/Maps/SecondLevel_BuiltData.SecondLevel_BuiltData
+[2023.04.23-15.45.56:974][933]MapCheck: New page: Map Check
+[2023.04.23-15.45.56:983][933]LightingResults: New page: Lighting Build - 23 Apr 2023, 17:45:56
+[2023.04.23-15.45.56:987][933]LightingResults: Warning: InstancedFoliageActor_0 The total lightmap size for this InstancedStaticMeshComponent is large, consider reducing the component's lightmap resolution or number of mesh instances in this component
+[2023.04.23-15.45.56:989][933]LightingResults: Warning: InstancedFoliageActor_0 The total lightmap size for this InstancedStaticMeshComponent is large, consider reducing the component's lightmap resolution or number of mesh instances in this component
+[2023.04.23-15.45.56:989][933]LightingResults: Warning: InstancedFoliageActor_0 The total lightmap size for this InstancedStaticMeshComponent is large, consider reducing the component's lightmap resolution or number of mesh instances in this component
+[2023.04.23-15.45.56:990][933]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2023.04.23-15.45.56:993][933]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2023.04.23-15.45.56:993][933]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2023.04.23-15.45.56:994][933]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2023.04.23-15.45.56:994][933]LogSwarmInterface: [TryOpenConnection] Local Process ID is 26248
+[2023.04.23-15.46.01:549][933]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2023.04.23-15.46.01:555][933]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2023.04.23-15.46.01:555][933]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2023.04.23-15.46.01:555][933]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2023.04.23-15.46.01:555][933]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2023.04.23-15.46.01:555][933]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2023.04.23-15.46.01:646][933]LogEditorBuildUtils: Build time 0:04
+[2023.04.23-15.46.01:653][933]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.04.23-15.46.01:653][933]LogShaderCompilers: Display: Total job queries 1226, among them cache hits 556 (45.35%)
+[2023.04.23-15.46.01:653][933]LogShaderCompilers: Display: Tracking 658 distinct input hashes that result in 322 distinct outputs (48.94%)
+[2023.04.23-15.46.01:653][933]LogShaderCompilers: Display: RAM used: 1.86 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.23%
+[2023.04.23-15.46.01:653][933]LogShaderCompilers: Display: ================================================
+[2023.04.23-15.46.01:699][934]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2023.04.23-15.46.08:141][501]LightingResults: Warning: SM_EX_EnvAssets_Pine2 Object has overlapping UVs.
+[2023.04.23-15.46.08:161][502]LightingResults: SM_EX_EnvAssets_Pine2 Lightmap UV are overlapping by 1.2%. Please adjust content - Enable Error Coloring to visualize.
+[2023.04.23-15.46.08:161][502]LightingResults: Warning: SM_EX_EnvAssets_Pine2 Object has overlapping UVs.
+[2023.04.23-15.46.08:161][502]LightingResults: SM_EX_EnvAssets_Pine2 Lightmap UV are overlapping by 1.2%. Please adjust content - Enable Error Coloring to visualize.
+[2023.04.23-15.46.08:750][558]LightingResults: Warning: SM_EX_EnvAssets_Pine2 Object has overlapping UVs.
+[2023.04.23-15.46.08:750][558]LightingResults: SM_EX_EnvAssets_Pine2 Lightmap UV are overlapping by 1.2%. Please adjust content - Enable Error Coloring to visualize.
+[2023.04.23-15.46.09:205][601]LightingResults: Warning: SM_EX_EnvAssets_Pine2 Object has overlapping UVs.
+[2023.04.23-15.46.09:205][601]LightingResults: SM_EX_EnvAssets_Pine2 Lightmap UV are overlapping by 1.2%. Please adjust content - Enable Error Coloring to visualize.
+[2023.04.23-15.46.09:474][627]LightingResults: Warning: SM_EX_EnvAssets_Pine2 Object has overlapping UVs.
+[2023.04.23-15.46.09:474][627]LightingResults: SM_EX_EnvAssets_Pine2 Lightmap UV are overlapping by 1.2%. Please adjust content - Enable Error Coloring to visualize.
+[2023.04.23-15.46.09:549][634]LightingResults: Warning: SM_EX_EnvAssets_Pine2 Object has overlapping UVs.
+[2023.04.23-15.46.09:549][634]LightingResults: SM_EX_EnvAssets_Pine2 Lightmap UV are overlapping by 1.2%. Please adjust content - Enable Error Coloring to visualize.
+[2023.04.23-15.46.09:950][672]LightingResults: Warning: SM_EX_EnvAssets_Pine2 Object has overlapping UVs.
+[2023.04.23-15.46.09:950][672]LightingResults: SM_EX_EnvAssets_Pine2 Lightmap UV are overlapping by 1.2%. Please adjust content - Enable Error Coloring to visualize.
+[2023.04.23-15.46.10:548][728]LightingResults: Warning: SM_EX_EnvAssets_Pine2 Object has overlapping UVs.
+[2023.04.23-15.46.10:548][728]LightingResults: SM_EX_EnvAssets_Pine2 Lightmap UV are overlapping by 1.2%. Please adjust content - Enable Error Coloring to visualize.
+[2023.04.23-15.46.10:696][742]LightingResults: Warning: SM_EX_EnvAssets_Pine2 Object has overlapping UVs.
+[2023.04.23-15.46.10:696][742]LightingResults: SM_EX_EnvAssets_Pine2 Lightmap UV are overlapping by 1.2%. Please adjust content - Enable Error Coloring to visualize.
+[2023.04.23-15.46.11:324][802]LightingResults: Warning: SM_EX_EnvAssets_Pine2 Object has overlapping UVs.
+[2023.04.23-15.46.11:324][802]LightingResults: SM_EX_EnvAssets_Pine2 Lightmap UV are overlapping by 1.2%. Please adjust content - Enable Error Coloring to visualize.
+[2023.04.23-15.46.11:347][804]LightingResults: Warning: SM_EX_EnvAssets_Pine2 Object has overlapping UVs.
+[2023.04.23-15.46.11:347][804]LightingResults: SM_EX_EnvAssets_Pine2 Lightmap UV are overlapping by 1.2%. Please adjust content - Enable Error Coloring to visualize.
+[2023.04.23-15.46.12:120][877]LightingResults: Warning: SM_EX_EnvAssets_Pine2 Object has overlapping UVs.
+[2023.04.23-15.46.12:120][877]LightingResults: SM_EX_EnvAssets_Pine2 Lightmap UV are overlapping by 1.2%. Please adjust content - Enable Error Coloring to visualize.
+[2023.04.23-15.46.12:439][907]LightingResults: Warning: SM_EX_EnvAssets_Pine2 Object has overlapping UVs.
+[2023.04.23-15.46.12:439][907]LightingResults: SM_EX_EnvAssets_Pine2 Lightmap UV are overlapping by 1.2%. Please adjust content - Enable Error Coloring to visualize.
+[2023.04.23-15.46.17:980][427]LightingResults: Warning: SM_EX_EnvAssets_Well Object has overlapping UVs.
+[2023.04.23-15.46.17:991][428]LightingResults: SM_EX_EnvAssets_Well Lightmap UV are overlapping by 1.7%. Please adjust content - Enable Error Coloring to visualize.
+[2023.04.23-15.46.44:122][868]Job is a success!
+[2023.04.23-15.46.44:279][869]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.073s
+[2023.04.23-15.46.44:279][869]LogVolumetricLightmapImport:      Indirection Texture 32x32x16 = 0.1Mb
+[2023.04.23-15.46.44:279][869]LogVolumetricLightmapImport:      BrickData (all levels) 3.8Mb (trimmed 0.2Mb due to 0.010000 MinBrickError)
+[2023.04.23-15.46.44:279][869]LogVolumetricLightmapImport:      Bricks at depth
+[2023.04.23-15.46.44:279][869]LogVolumetricLightmapImport:          0: 0.8% covering 100.0% of volume
+[2023.04.23-15.46.44:279][869]LogVolumetricLightmapImport:          1: 4.9% covering 9.8% of volume
+[2023.04.23-15.46.44:279][869]LogVolumetricLightmapImport:          2: 94.3% covering 3.0% of volume
+[2023.04.23-15.46.44:279][869]LogVolumetricLightmapImport:      Bricks in each level
+[2023.04.23-15.46.44:279][869]LogVolumetricLightmapImport:          SecondLevel 			 513 bricks 	 100.0% (Persistent Level)
+[2023.04.23-15.46.47:739][869]LogTexture: Display: Building textures: SkyOcclusion1_1 (OODLE_AutoDXT, 4096X2048)
+[2023.04.23-15.46.47:739][869]LogTextureFormatOodle: Display: non-RDO encode 4096 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.04.23-15.46.47:739][869]LogTextureFormatOodle: Display: non-RDO encode 2048 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.04.23-15.46.47:739][869]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.04.23-15.46.47:739][869]LogTexture: Display: Building textures: HQ_Lightmap1_1 (OODLE_AutoDXT, 4096X4096)
+[2023.04.23-15.46.47:739][869]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.04.23-15.46.47:739][869]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.04.23-15.46.47:739][869]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.04.23-15.46.47:739][869]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (OODLE_DXT1, 4096X4096)
+[2023.04.23-15.46.47:739][869]LogTexture: Display: Building textures: SkyOcclusion1_2 (OODLE_AutoDXT, 64X32)
+[2023.04.23-15.46.47:739][869]LogTexture: Display: Building textures: HQ_Lightmap1_2 (OODLE_AutoDXT, 64X64)
+[2023.04.23-15.46.47:739][869]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.04.23-15.46.47:739][869]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.04.23-15.46.47:739][869]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.04.23-15.46.47:739][869]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (OODLE_DXT1, 64X64)
+[2023.04.23-15.46.47:938][869]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (G8, 32X32)
+[2023.04.23-15.46.48:769][869]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (G8, 4096X2048)
+[2023.04.23-15.46.48:769][869]Lightmass on DESKTOP-I13HMQJ: 46.6 sec total, 214 ms importing, 522 ms setup, 4.56 sec photons, 41.3 sec processing, 0 ms extra exporting [4386/4386 mappings]. Threads: 10:20 min total, 7:08 min processing.
+[2023.04.23-15.46.48:781][869]LogStaticLightingSystem: SecondLevel_BuiltData storing lightmap data for 160 meshes in 3 LightmapResourceClusters (53.3 Meshes per cluster).
+[2023.04.23-15.46.48:824][869]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2023.04.23-15.46.48:853][869]LogStaticLightingSystem: Illumination: 51.8 sec (1.95 sec encoding lightmaps, 978 ms encoding shadowmaps)
+[2023.04.23-15.46.48:853][869]LogStaticLightingSystem: Lightmap texture memory:  42.7 MB (42.7 MB streaming, 0.0 MB non-streaming), 4 textures
+[2023.04.23-15.46.48:853][869]LogStaticLightingSystem: Shadowmap texture memory: 10.7 MB (10.7 MB streaming, 0.0 MB non-streaming), 2 textures
+[2023.04.23-15.46.49:599][869]DumpUnbuiltLightIteractions
+[2023.04.23-15.46.49:599][869]Lights with unbuilt interactions: 0
+[2023.04.23-15.46.49:599][869]
+[2023.04.23-15.46.49:599][869]Primitives with unbuilt interactions: 0
+[2023.04.23-15.46.49:656][870]Cmd: MAP CHECK NOTIFYRESULTS
+[2023.04.23-15.46.49:656][870]MapCheck: New page: SecondLevel - 23 Apr 2023, 17:46:49
+[2023.04.23-15.46.49:657][870]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.541ms to complete.
+[2023.04.23-15.46.50:889][  0]LogSlate: Window 'Message Log' being destroyed
+[2023.04.23-15.46.50:892][  0]LogSlate: Window 'Message Log' being destroyed
+[2023.04.23-15.46.56:919][353]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Viking_House_A)
+[2023.04.23-15.46.57:416][404]Cmd: DELETE
+[2023.04.23-15.46.57:416][404]Cmd: ACTOR DELETE
+[2023.04.23-15.46.57:426][404]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.23-15.46.57:447][404]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2023.04.23-15.46.57:450][404]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2023.04.23-15.46.57:641][426]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Viking_House_A2)
+[2023.04.23-15.46.57:841][447]Cmd: DELETE
+[2023.04.23-15.46.57:841][447]Cmd: ACTOR DELETE
+[2023.04.23-15.46.57:848][447]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.23-15.46.57:870][447]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2023.04.23-15.46.57:871][447]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2023.04.23-15.46.58:119][476]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Snowy_Farm)
+[2023.04.23-15.46.58:270][491]Cmd: DELETE
+[2023.04.23-15.46.58:270][491]Cmd: ACTOR DELETE
+[2023.04.23-15.46.58:278][491]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.23-15.46.58:299][491]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2023.04.23-15.46.58:300][491]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2023.04.23-15.46.59:140][588]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2023.04.23-15.46.59:271][588]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Saved/SecondLevel859E42614335A0F837E99699EBAEA17F.tmp' to '../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Content/Blueprints_Maps/Maps/SecondLevel.umap'
+[2023.04.23-15.46.59:933][588]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Saved/SecondLevel_BuiltDataE365E78F4848E02A189F538DFFB4DF2A.tmp' to '../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Content/Blueprints_Maps/Maps/SecondLevel_BuiltData.uasset'
+[2023.04.23-15.46.59:961][588]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.23-15.46.59:962][588]LogContentValidation: Display: Validating World /Game/Blueprints_Maps/Maps/SecondLevel.SecondLevel
+[2023.04.23-15.46.59:962][588]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Blueprints_Maps/Maps/SecondLevel_BuiltData.SecondLevel_BuiltData
+[2023.04.23-15.47.12:296][478]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2023.04.23-15.47.12:422][478]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Saved/SecondLevel21BC3F0C4AC91002B857A6A2335A2763.tmp' to '../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Content/Blueprints_Maps/Maps/SecondLevel.umap'
+[2023.04.23-15.47.13:092][478]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Saved/SecondLevel_BuiltData5A6BD149412B4BD8CD9A7791E88AF777.tmp' to '../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Content/Blueprints_Maps/Maps/SecondLevel_BuiltData.uasset'
+[2023.04.23-15.47.13:123][478]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.23-15.47.13:123][478]LogContentValidation: Display: Validating World /Game/Blueprints_Maps/Maps/SecondLevel.SecondLevel
+[2023.04.23-15.47.13:123][478]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Blueprints_Maps/Maps/SecondLevel_BuiltData.SecondLevel_BuiltData
+[2023.04.23-15.47.25:059][269]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2023.04.23-15.47.25:187][269]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Saved/SecondLevel9D109E2748EF64DC9996039723003E31.tmp' to '../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Content/Blueprints_Maps/Maps/SecondLevel.umap'
+[2023.04.23-15.47.25:864][269]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Saved/SecondLevel_BuiltDataF30761AC4419F033A6C2E6BB264A2F1A.tmp' to '../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Content/Blueprints_Maps/Maps/SecondLevel_BuiltData.uasset'
+[2023.04.23-15.47.25:894][269]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.23-15.47.25:894][269]LogContentValidation: Display: Validating World /Game/Blueprints_Maps/Maps/SecondLevel.SecondLevel
+[2023.04.23-15.47.25:894][269]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Blueprints_Maps/Maps/SecondLevel_BuiltData.SecondLevel_BuiltData
+[2023.04.23-15.47.35:380][969]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Viking_House_A5)
+[2023.04.23-15.47.36:074][ 49]Cmd: DELETE
+[2023.04.23-15.47.36:074][ 49]Cmd: ACTOR DELETE
+[2023.04.23-15.47.36:080][ 49]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.23-15.47.36:102][ 49]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2023.04.23-15.47.36:104][ 49]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2023.04.23-15.47.37:010][153]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2023.04.23-15.47.37:133][153]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Saved/SecondLevel8A8010284588CA9C85B293AB905FC5E0.tmp' to '../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Content/Blueprints_Maps/Maps/SecondLevel.umap'
+[2023.04.23-15.47.37:789][153]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Saved/SecondLevel_BuiltData6D6F3A274F5CB3CF411DDAB8417A1C97.tmp' to '../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Content/Blueprints_Maps/Maps/SecondLevel_BuiltData.uasset'
+[2023.04.23-15.47.37:809][153]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.23-15.47.37:809][153]LogContentValidation: Display: Validating World /Game/Blueprints_Maps/Maps/SecondLevel.SecondLevel
+[2023.04.23-15.47.37:810][153]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Blueprints_Maps/Maps/SecondLevel_BuiltData.SecondLevel_BuiltData
+[2023.04.23-15.47.53:450][439]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Viking_House_A6)
+[2023.04.23-15.47.54:080][508]Cmd: DELETE
+[2023.04.23-15.47.54:081][508]Cmd: ACTOR DELETE
+[2023.04.23-15.47.54:086][508]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.23-15.47.54:110][508]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2023.04.23-15.47.54:112][508]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2023.04.23-15.47.54:540][558]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Viking_House_A7)
+[2023.04.23-15.47.54:641][567]Cmd: DELETE
+[2023.04.23-15.47.54:641][567]Cmd: ACTOR DELETE
+[2023.04.23-15.47.54:647][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.23-15.47.54:668][567]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2023.04.23-15.47.54:669][567]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2023.04.23-15.47.56:478][776]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2023.04.23-15.47.56:599][776]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Saved/SecondLevel18F6C15D4895474F4982AEA8E2F80C5B.tmp' to '../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Content/Blueprints_Maps/Maps/SecondLevel.umap'
+[2023.04.23-15.47.57:251][776]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Saved/SecondLevel_BuiltDataCE8547E447589D59C8F77396F9F475F0.tmp' to '../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Content/Blueprints_Maps/Maps/SecondLevel_BuiltData.uasset'
+[2023.04.23-15.47.57:273][776]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.23-15.47.57:273][776]LogContentValidation: Display: Validating World /Game/Blueprints_Maps/Maps/SecondLevel.SecondLevel
+[2023.04.23-15.47.57:273][776]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Blueprints_Maps/Maps/SecondLevel_BuiltData.SecondLevel_BuiltData
+[2023.04.23-15.48.12:476][539]MapCheck: New page: Map Check
+[2023.04.23-15.48.12:488][539]LightingResults: New page: Lighting Build - 23 Apr 2023, 17:48:12
+[2023.04.23-15.48.12:493][539]LightingResults: Warning: InstancedFoliageActor_0 The total lightmap size for this InstancedStaticMeshComponent is large, consider reducing the component's lightmap resolution or number of mesh instances in this component
+[2023.04.23-15.48.12:493][539]LightingResults: Warning: InstancedFoliageActor_0 The total lightmap size for this InstancedStaticMeshComponent is large, consider reducing the component's lightmap resolution or number of mesh instances in this component
+[2023.04.23-15.48.12:494][539]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2023.04.23-15.48.12:497][539]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2023.04.23-15.48.12:497][539]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2023.04.23-15.48.12:498][539]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2023.04.23-15.48.12:498][539]LogSwarmInterface: [TryOpenConnection] Local Process ID is 26248
+[2023.04.23-15.48.17:051][539]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2023.04.23-15.48.17:052][539]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2023.04.23-15.48.17:052][539]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2023.04.23-15.48.17:052][539]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2023.04.23-15.48.17:052][539]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2023.04.23-15.48.17:052][539]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2023.04.23-15.48.17:118][539]LogEditorBuildUtils: Build time 0:04
+[2023.04.23-15.48.17:166][540]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2023.04.23-15.48.20:644][835]LightingResults: Warning: SM_EX_EnvAssets_Pine2 Object has overlapping UVs.
+[2023.04.23-15.48.20:644][835]LightingResults: SM_EX_EnvAssets_Pine2 Lightmap UV are overlapping by 1.2%. Please adjust content - Enable Error Coloring to visualize.
+[2023.04.23-15.48.21:753][938]LightingResults: Warning: SM_EX_EnvAssets_Pine2 Object has overlapping UVs.
+[2023.04.23-15.48.21:753][938]LightingResults: SM_EX_EnvAssets_Pine2 Lightmap UV are overlapping by 1.2%. Please adjust content - Enable Error Coloring to visualize.
+[2023.04.23-15.48.22:293][990]LightingResults: Warning: SM_EX_EnvAssets_Pine2 Object has overlapping UVs.
+[2023.04.23-15.48.22:293][990]LightingResults: SM_EX_EnvAssets_Pine2 Lightmap UV are overlapping by 1.2%. Please adjust content - Enable Error Coloring to visualize.
+[2023.04.23-15.48.23:023][ 60]LightingResults: Warning: SM_EX_EnvAssets_Pine2 Object has overlapping UVs.
+[2023.04.23-15.48.23:023][ 60]LightingResults: SM_EX_EnvAssets_Pine2 Lightmap UV are overlapping by 1.2%. Please adjust content - Enable Error Coloring to visualize.
+[2023.04.23-15.48.23:146][ 72]LightingResults: Warning: SM_EX_EnvAssets_Pine2 Object has overlapping UVs.
+[2023.04.23-15.48.23:146][ 72]LightingResults: SM_EX_EnvAssets_Pine2 Lightmap UV are overlapping by 1.2%. Please adjust content - Enable Error Coloring to visualize.
+[2023.04.23-15.48.23:156][ 73]LightingResults: Warning: SM_EX_EnvAssets_Pine2 Object has overlapping UVs.
+[2023.04.23-15.48.23:156][ 73]LightingResults: SM_EX_EnvAssets_Pine2 Lightmap UV are overlapping by 1.2%. Please adjust content - Enable Error Coloring to visualize.
+[2023.04.23-15.48.24:359][181]LightingResults: Warning: SM_EX_EnvAssets_Pine2 Object has overlapping UVs.
+[2023.04.23-15.48.24:359][181]LightingResults: SM_EX_EnvAssets_Pine2 Lightmap UV are overlapping by 1.2%. Please adjust content - Enable Error Coloring to visualize.
+[2023.04.23-15.48.24:657][208]LightingResults: Warning: SM_EX_EnvAssets_Pine2 Object has overlapping UVs.
+[2023.04.23-15.48.24:657][208]LightingResults: SM_EX_EnvAssets_Pine2 Lightmap UV are overlapping by 1.2%. Please adjust content - Enable Error Coloring to visualize.
+[2023.04.23-15.48.25:013][242]LightingResults: Warning: SM_EX_EnvAssets_Pine2 Object has overlapping UVs.
+[2023.04.23-15.48.25:013][242]LightingResults: SM_EX_EnvAssets_Pine2 Lightmap UV are overlapping by 1.2%. Please adjust content - Enable Error Coloring to visualize.
+[2023.04.23-15.48.25:561][294]LightingResults: Warning: SM_EX_EnvAssets_Pine2 Object has overlapping UVs.
+[2023.04.23-15.48.25:561][294]LightingResults: SM_EX_EnvAssets_Pine2 Lightmap UV are overlapping by 1.2%. Please adjust content - Enable Error Coloring to visualize.
+[2023.04.23-15.48.25:584][296]LightingResults: Warning: SM_EX_EnvAssets_Pine2 Object has overlapping UVs.
+[2023.04.23-15.48.25:584][296]LightingResults: SM_EX_EnvAssets_Pine2 Lightmap UV are overlapping by 1.2%. Please adjust content - Enable Error Coloring to visualize.
+[2023.04.23-15.48.27:572][486]LightingResults: Warning: SM_EX_EnvAssets_Pine2 Object has overlapping UVs.
+[2023.04.23-15.48.27:572][486]LightingResults: SM_EX_EnvAssets_Pine2 Lightmap UV are overlapping by 1.2%. Please adjust content - Enable Error Coloring to visualize.
+[2023.04.23-15.48.27:594][488]LightingResults: Warning: SM_EX_EnvAssets_Pine2 Object has overlapping UVs.
+[2023.04.23-15.48.27:594][488]LightingResults: SM_EX_EnvAssets_Pine2 Lightmap UV are overlapping by 1.2%. Please adjust content - Enable Error Coloring to visualize.
+[2023.04.23-15.48.29:510][668]LightingResults: Warning: SM_EX_EnvAssets_Well Object has overlapping UVs.
+[2023.04.23-15.48.29:510][668]LightingResults: SM_EX_EnvAssets_Well Lightmap UV are overlapping by 1.7%. Please adjust content - Enable Error Coloring to visualize.
+[2023.04.23-15.48.30:521][765]Job is a success!
+[2023.04.23-15.48.30:671][766]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.069s
+[2023.04.23-15.48.30:671][766]LogVolumetricLightmapImport:      Indirection Texture 32x32x16 = 0.1Mb
+[2023.04.23-15.48.30:671][766]LogVolumetricLightmapImport:      BrickData (all levels) 2.5Mb (trimmed 0.1Mb due to 0.010000 MinBrickError)
+[2023.04.23-15.48.30:671][766]LogVolumetricLightmapImport:      Bricks at depth
+[2023.04.23-15.48.30:671][766]LogVolumetricLightmapImport:          0: 0.8% covering 100.0% of volume
+[2023.04.23-15.48.30:671][766]LogVolumetricLightmapImport:          1: 4.9% covering 9.8% of volume
+[2023.04.23-15.48.30:671][766]LogVolumetricLightmapImport:          2: 94.3% covering 2.9% of volume
+[2023.04.23-15.48.30:671][766]LogVolumetricLightmapImport:      Bricks in each level
+[2023.04.23-15.48.30:671][766]LogVolumetricLightmapImport:          SecondLevel 			 508 bricks 	 100.0% (Persistent Level)
+[2023.04.23-15.48.31:755][766]LogTexture: Display: Building textures: SkyOcclusion0_1 (OODLE_AutoDXT, 2048X1024)
+[2023.04.23-15.48.31:755][766]LogTextureFormatOodle: Display: non-RDO encode 2048 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.04.23-15.48.31:755][766]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.04.23-15.48.31:755][766]LogTexture: Display: Building textures: HQ_Lightmap0_1 (OODLE_AutoDXT, 2048X2048)
+[2023.04.23-15.48.31:755][766]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (OODLE_DXT1, 2048X2048)
+[2023.04.23-15.48.31:755][766]LogTexture: Display: Building textures: HQ_Lightmap0_2 (OODLE_AutoDXT, 1024X1024)
+[2023.04.23-15.48.31:755][766]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.04.23-15.48.31:755][766]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.04.23-15.48.31:755][766]LogTexture: Display: Building textures: SkyOcclusion0_2 (OODLE_AutoDXT, 1024X512)
+[2023.04.23-15.48.31:755][766]LogTexture: Display: Building textures: SkyOcclusion0_3 (OODLE_AutoDXT, 1024X512)
+[2023.04.23-15.48.31:755][766]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (OODLE_DXT1, 1024X1024)
+[2023.04.23-15.48.31:755][766]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.04.23-15.48.31:755][766]LogTexture: Display: Building textures: HQ_Lightmap0_3 (OODLE_AutoDXT, 1024X1024)
+[2023.04.23-15.48.31:756][766]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.04.23-15.48.31:756][766]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.04.23-15.48.31:756][766]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (OODLE_DXT1, 1024X1024)
+[2023.04.23-15.48.31:756][766]LogTexture: Display: Building textures: SkyOcclusion0_4 (OODLE_AutoDXT, 64X32)
+[2023.04.23-15.48.31:756][766]LogTexture: Display: Building textures: HQ_Lightmap0_4 (OODLE_AutoDXT, 64X64)
+[2023.04.23-15.48.31:756][766]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.04.23-15.48.31:756][766]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.04.23-15.48.31:756][766]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (OODLE_DXT1, 64X64)
+[2023.04.23-15.48.31:756][766]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.04.23-15.48.31:756][766]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.04.23-15.48.31:756][766]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.04.23-15.48.31:955][766]LogTexture: Display: Building textures: ShadowMapTexture2D_9 (G8, 32X32)
+[2023.04.23-15.48.31:955][766]LogTexture: Display: Building textures: ShadowMapTexture2D_6 (G8, 1024X1024)
+[2023.04.23-15.48.31:955][766]LogTexture: Display: Building textures: ShadowMapTexture2D_7 (G8, 1024X1024)
+[2023.04.23-15.48.31:955][766]LogTexture: Display: Building textures: ShadowMapTexture2D_8 (G8, 1024X1024)
+[2023.04.23-15.48.31:955][766]Lightmass on DESKTOP-I13HMQJ: 14.5 sec total, 182 ms importing, 158 ms setup, 1.58 sec photons, 12.5 sec processing, 0 ms extra exporting [505/505 mappings]. Threads: 3:08 min total, 1:11 min processing.
+[2023.04.23-15.48.31:966][766]LogStaticLightingSystem: SecondLevel_BuiltData storing lightmap data for 154 meshes in 10 LightmapResourceClusters (15.4 Meshes per cluster).
+[2023.04.23-15.48.32:010][766]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2023.04.23-15.48.32:026][766]LogStaticLightingSystem: Illumination: 19.5 sec (642 ms encoding lightmaps, 170 ms encoding shadowmaps)
+[2023.04.23-15.48.32:026][766]LogStaticLightingSystem: Lightmap texture memory:  16.0 MB (16.0 MB streaming, 0.0 MB non-streaming), 8 textures
+[2023.04.23-15.48.32:026][766]LogStaticLightingSystem: Shadowmap texture memory: 4.0 MB (4.0 MB streaming, 0.0 MB non-streaming), 4 textures
+[2023.04.23-15.48.33:063][766]DumpUnbuiltLightIteractions
+[2023.04.23-15.48.33:064][766]Lights with unbuilt interactions: 0
+[2023.04.23-15.48.33:064][766]
+[2023.04.23-15.48.33:064][766]Primitives with unbuilt interactions: 0
+[2023.04.23-15.48.33:122][767]Cmd: MAP CHECK NOTIFYRESULTS
+[2023.04.23-15.48.33:122][767]MapCheck: New page: SecondLevel - 23 Apr 2023, 17:48:33
+[2023.04.23-15.48.33:122][767]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.53ms to complete.
+[2023.04.23-15.48.34:104][874]LogSlate: Window 'Message Log' being destroyed
+[2023.04.23-15.48.34:106][874]LogSlate: Window 'Message Log' being destroyed
+[2023.04.23-15.49.21:744][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2023.04.23-15.49.21:865][ 23]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Saved/SecondLevelDE9306EF4BDEE7AB0F1167970CDD48C7.tmp' to '../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Content/Blueprints_Maps/Maps/SecondLevel.umap'
+[2023.04.23-15.49.22:140][ 23]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Saved/SecondLevel_BuiltDataFB2071A84756E818937F6EAD95F65970.tmp' to '../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Content/Blueprints_Maps/Maps/SecondLevel_BuiltData.uasset'
+[2023.04.23-15.49.22:159][ 23]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.23-15.49.22:159][ 23]LogContentValidation: Display: Validating World /Game/Blueprints_Maps/Maps/SecondLevel.SecondLevel
+[2023.04.23-15.49.22:159][ 23]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Blueprints_Maps/Maps/SecondLevel_BuiltData.SecondLevel_BuiltData
