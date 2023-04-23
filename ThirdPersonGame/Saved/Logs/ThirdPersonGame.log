@@ -9178,3 +9178,70 @@ Make sure 'HealthPickup_BP_C' has been compiled for  Get CollectionMesh
 [2023.04.23-16.47.02:054][633]AssetCheck: New page: Asset Save: multiple assets
 [2023.04.23-16.47.02:054][633]LogContentValidation: Display: Validating World /Game/Blueprints_Maps/Maps/SecondLevel.SecondLevel
 [2023.04.23-16.47.02:054][633]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Blueprints_Maps/Maps/SecondLevel_BuiltData.SecondLevel_BuiltData
+[2023.04.23-16.48.39:682][346]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2023.04.23-16.48.39:806][346]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Saved/SecondLevel309179AB46061064FE8CA4805BAC58C4.tmp' to '../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Content/Blueprints_Maps/Maps/SecondLevel.umap'
+[2023.04.23-16.48.39:904][346]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Saved/SecondLevel_BuiltData8757BF5E420FF1754D50E5959032A56E.tmp' to '../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Content/Blueprints_Maps/Maps/SecondLevel_BuiltData.uasset'
+[2023.04.23-16.48.39:918][346]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.23-16.48.39:918][346]LogContentValidation: Display: Validating World /Game/Blueprints_Maps/Maps/SecondLevel.SecondLevel
+[2023.04.23-16.48.39:919][346]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Blueprints_Maps/Maps/SecondLevel_BuiltData.SecondLevel_BuiltData
+[2023.04.23-16.48.41:792][491]MapCheck: New page: Map Check
+[2023.04.23-16.48.41:804][491]LightingResults: New page: Lighting Build - 23 Apr 2023, 18:48:41
+[2023.04.23-16.48.41:812][491]LightingResults: Warning: InstancedFoliageActor_0 The total lightmap size for this InstancedStaticMeshComponent is large, consider reducing the component's lightmap resolution or number of mesh instances in this component
+[2023.04.23-16.48.41:813][491]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2023.04.23-16.48.41:816][491]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2023.04.23-16.48.41:816][491]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2023.04.23-16.48.41:816][491]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2023.04.23-16.48.41:816][491]LogSwarmInterface: [TryOpenConnection] Local Process ID is 26248
+[2023.04.23-16.48.46:382][491]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2023.04.23-16.48.46:383][491]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2023.04.23-16.48.46:383][491]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2023.04.23-16.48.46:383][491]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2023.04.23-16.48.46:383][491]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2023.04.23-16.48.46:383][491]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2023.04.23-16.48.46:454][491]LogEditorBuildUtils: Build time 0:04
+[2023.04.23-16.48.46:460][491]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.04.23-16.48.46:460][491]LogShaderCompilers: Display: Total job queries 1813, among them cache hits 672 (37.07%)
+[2023.04.23-16.48.46:460][491]LogShaderCompilers: Display: Tracking 1090 distinct input hashes that result in 510 distinct outputs (46.79%)
+[2023.04.23-16.48.46:460][491]LogShaderCompilers: Display: RAM used: 3.10 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.38%
+[2023.04.23-16.48.46:460][491]LogShaderCompilers: Display: ================================================
+[2023.04.23-16.48.46:508][492]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2023.04.23-16.48.50:501][696]LightingResults: Warning: SM_EX_EnvAssets_Well Object has overlapping UVs.
+[2023.04.23-16.48.50:501][696]LightingResults: SM_EX_EnvAssets_Well Lightmap UV are overlapping by 1.7%. Please adjust content - Enable Error Coloring to visualize.
+[2023.04.23-16.48.56:104][982]Job is a success!
+[2023.04.23-16.48.56:268][984]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.073s
+[2023.04.23-16.48.56:268][984]LogVolumetricLightmapImport:      Indirection Texture 32x32x16 = 0.1Mb
+[2023.04.23-16.48.56:268][984]LogVolumetricLightmapImport:      BrickData (all levels) 3.8Mb
+[2023.04.23-16.48.56:268][984]LogVolumetricLightmapImport:      Bricks at depth
+[2023.04.23-16.48.56:269][984]LogVolumetricLightmapImport:          0: 0.7% covering 100.0% of volume
+[2023.04.23-16.48.56:269][984]LogVolumetricLightmapImport:          1: 4.6% covering 9.8% of volume
+[2023.04.23-16.48.56:269][984]LogVolumetricLightmapImport:          2: 94.7% covering 3.2% of volume
+[2023.04.23-16.48.56:269][984]LogVolumetricLightmapImport:      Bricks in each level
+[2023.04.23-16.48.56:269][984]LogVolumetricLightmapImport:          SecondLevel 			 549 bricks 	 100.0% (Persistent Level)
+[2023.04.23-16.48.56:983][984]LogTexture: Display: Building textures: SkyOcclusion0_1 (OODLE_AutoDXT, 2048X1024)
+[2023.04.23-16.48.56:983][984]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.04.23-16.48.56:983][984]LogTextureFormatOodle: Display: non-RDO encode 2048 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.04.23-16.48.56:983][984]LogTexture: Display: Building textures: HQ_Lightmap0_1 (OODLE_AutoDXT, 2048X2048)
+[2023.04.23-16.48.56:983][984]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.04.23-16.48.56:983][984]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.04.23-16.48.56:983][984]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (OODLE_DXT1, 2048X2048)
+[2023.04.23-16.48.56:983][984]LogTexture: Display: Building textures: SkyOcclusion0_2 (OODLE_AutoDXT, 64X32)
+[2023.04.23-16.48.56:983][984]LogTexture: Display: Building textures: HQ_Lightmap0_2 (OODLE_AutoDXT, 64X64)
+[2023.04.23-16.48.56:983][984]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (OODLE_DXT1, 64X64)
+[2023.04.23-16.48.56:983][984]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.04.23-16.48.56:983][984]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.04.23-16.48.57:157][984]LogTexture: Display: Building textures: ShadowMapTexture2D_26 (G8, 32X32)
+[2023.04.23-16.48.57:157][984]LogTexture: Display: Building textures: ShadowMapTexture2D_24 (G8, 1024X1024)
+[2023.04.23-16.48.57:157][984]LogTexture: Display: Building textures: ShadowMapTexture2D_25 (G8, 1024X1024)
+[2023.04.23-16.48.57:157][984]Lightmass on DESKTOP-I13HMQJ: 10.3 sec total, 183 ms importing, 168 ms setup, 1.21 sec photons, 8.74 sec processing, 0 ms extra exporting [903/903 mappings]. Threads: 2:11 min total, 1:18 min processing.
+[2023.04.23-16.48.57:175][984]LogStaticLightingSystem: SecondLevel_BuiltData storing lightmap data for 161 meshes in 4 LightmapResourceClusters (40.2 Meshes per cluster).
+[2023.04.23-16.48.57:224][984]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2023.04.23-16.48.57:237][984]LogStaticLightingSystem: Illumination: 15.4 sec (433 ms encoding lightmaps, 131 ms encoding shadowmaps)
+[2023.04.23-16.48.57:237][984]LogStaticLightingSystem: Lightmap texture memory:  10.7 MB (10.7 MB streaming, 0.0 MB non-streaming), 4 textures
+[2023.04.23-16.48.57:237][984]LogStaticLightingSystem: Shadowmap texture memory: 2.7 MB (2.7 MB streaming, 0.0 MB non-streaming), 3 textures
+[2023.04.23-16.48.57:394][984]DumpUnbuiltLightIteractions
+[2023.04.23-16.48.57:394][984]Lights with unbuilt interactions: 0
+[2023.04.23-16.48.57:394][984]
+[2023.04.23-16.48.57:394][984]Primitives with unbuilt interactions: 0
+[2023.04.23-16.48.57:441][985]Cmd: MAP CHECK NOTIFYRESULTS
+[2023.04.23-16.48.57:441][985]MapCheck: New page: SecondLevel - 23 Apr 2023, 18:48:57
+[2023.04.23-16.48.57:442][985]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.776ms to complete.
