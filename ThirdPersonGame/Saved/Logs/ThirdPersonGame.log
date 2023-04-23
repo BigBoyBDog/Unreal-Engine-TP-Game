@@ -4215,3 +4215,42 @@ Please see Output Log for details.
 [2023.04.23-15.21.25:589][791]AssetCheck: New page: Asset Save: multiple assets
 [2023.04.23-15.21.25:589][791]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Blueprints_Maps/Maps/SecondLevel_BuiltData.SecondLevel_BuiltData
 [2023.04.23-15.21.25:590][791]LogContentValidation: Display: Validating World /Game/Blueprints_Maps/Maps/SecondLevel.SecondLevel
+[2023.04.23-15.21.54:716][415]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Viking_House_A3)
+[2023.04.23-15.21.55:284][469]Cmd: EDIT COPY
+[2023.04.23-15.21.55:595][506]Cmd: EDIT PASTE
+[2023.04.23-15.22.01:124][ 65]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2023.04.23-15.22.01:904][134]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Viking_House_A5)
+[2023.04.23-15.22.14:053][261]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Mountain_Dig_Barrier16)
+[2023.04.23-15.22.16:363][441]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2023.04.23-15.22.18:528][661]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Viking_House_A5)
+[2023.04.23-15.22.19:292][737]Cmd: EDIT COPY
+[2023.04.23-15.22.19:569][770]Cmd: EDIT PASTE
+[2023.04.23-15.22.30:299][688]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Viking_House_A6)
+[2023.04.23-15.22.30:610][710]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2023.04.23-15.22.32:594][915]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Viking_House_A6)
+[2023.04.23-15.22.34:027][ 30]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2023.04.23-15.22.34:354][ 52]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2023.04.23-15.22.37:535][367]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2023.04.23-15.22.37:659][367]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Saved/SecondLevel6CF15D1143D72120C7E7ECB2737AA912.tmp' to '../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Content/Blueprints_Maps/Maps/SecondLevel.umap'
+[2023.04.23-15.22.38:000][367]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Saved/SecondLevel_BuiltData8617F60146B25A5419DA1A9192D4FB80.tmp' to '../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Content/Blueprints_Maps/Maps/SecondLevel_BuiltData.uasset'
+[2023.04.23-15.22.38:011][367]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.23-15.22.38:011][367]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Blueprints_Maps/Maps/SecondLevel_BuiltData.SecondLevel_BuiltData
+[2023.04.23-15.22.38:011][367]LogContentValidation: Display: Validating World /Game/Blueprints_Maps/Maps/SecondLevel.SecondLevel
+[2023.04.23-15.22.43:820][ 53]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Snowy_Farm2)
+[2023.04.23-15.22.44:484][122]Cmd: EDIT COPY
+[2023.04.23-15.22.44:799][159]Cmd: EDIT PASTE
+[2023.04.23-15.22.57:066][364]Cmd: DELETE
+[2023.04.23-15.22.57:066][364]Cmd: ACTOR DELETE
+[2023.04.23-15.22.57:072][364]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.23-15.22.57:095][364]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2023.04.23-15.22.57:097][364]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2023.04.23-15.22.57:567][415]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Viking_House_A6)
+[2023.04.23-15.22.58:183][486]Cmd: EDIT COPY
+[2023.04.23-15.22.58:445][517]Cmd: EDIT PASTE
+[2023.04.23-15.23.01:640][772]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2023.04.23-15.23.06:263][253]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2023.04.23-15.23.06:384][253]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Saved/SecondLevel3B4D02EA4B263470268CB1A952C767B8.tmp' to '../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Content/Blueprints_Maps/Maps/SecondLevel.umap'
+[2023.04.23-15.23.06:744][253]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Saved/SecondLevel_BuiltDataF8469E3042CDF16CA9D689BD529BA648.tmp' to '../../../../../Unreal Engine Projects/Unreal-Engine-TP-Game/ThirdPersonGame/Content/Blueprints_Maps/Maps/SecondLevel_BuiltData.uasset'
+[2023.04.23-15.23.06:764][253]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.23-15.23.06:764][253]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Blueprints_Maps/Maps/SecondLevel_BuiltData.SecondLevel_BuiltData
+[2023.04.23-15.23.06:764][253]LogContentValidation: Display: Validating World /Game/Blueprints_Maps/Maps/SecondLevel.SecondLevel
